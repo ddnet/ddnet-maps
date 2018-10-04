@@ -1,0 +1,38 @@
+$add_vote "Make sure no one is racing before voting!" "info"
+$add_vote "Random Insane Map" "random_map"
+$add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
+
+─── NEW MAPS ───
+1|Nether|Tropo
+2|4u|Åmol
+2|Genericore 8|Åmol
+1|Binary|Pulsar
+5|Adrenaline 4|Silex
+1|Shockwave|Konsti
+1|Yo'Ci|Skeptar & meew
+
+─── 4 PLAYER MAPS ───
+1|4q|Åmol
+1|4s|Åmol
+
+─── OTHER MAPS ───
+1|Adrenaline 4.1|Silex
+1|Adrenaline 4.2|Silex
+3|Adrenaline 5|Silex & Pipou
+1|Aimazing|Aoe
+4|Aimlicious|Aoe
+2|Falling Down|Loop & Kayumi
+2|Firestone|Feuerfaust Ace
+1|Generic World|Loop
+1|Genericore 6|Åmol
+3|Ghoul|☆.Sυsнι♪
+3|Heartcore|Themix
+2|HellCore|MaDLeX
+1|Justice|DarkHeaven & Phacrum
+3|Justice 2|645654, Pipou & Phacrum
+2|New Generation|Feuerfaust Ace
+1|Regen 2|Gridwyn
+2|Resistance|Themix
+3|Tatooine 2|Gridwyn & Rapture
+1|The Enchanted Clearing|MaDLeX
+1|Ton|FunCat

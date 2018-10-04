@@ -1,0 +1,330 @@
+$add_vote "Make sure no one is racing before voting!" "info"
+$add_vote "Random Brutal Map" "random_map"
+$add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
+
+─── NEW MAPS ───
+3|DoomWorld|Genex & Syltoox
+3|Nightstar 2|ΔWΞSƟΜΞ
+3|Road to Rank 1|Brokecdx- & painn
+2|Barren|Pulsar
+4|Synesthesia|Elephant
+2|Time to Switch|тυx
+1|Flux 2|Pulsar
+
+─── SELECTED MAPS ───
+1|A World Beyond|Hindu
+4|Aim 10.0|Aoe & SickCunt
+4|Aim 9.0|Aoe & Hindu
+2|Aviate|SickCunt & [A] Awesome
+1|Between the Mountains|S.O.S
+2|Caldera|»Rogue.
+3|Caldera 2|»Rogue.
+3|ClassicMonkez|Gridwyn
+3|Cold Jungle|Silex
+3|Cosyris|Michel
+4|Dark Descent|Loop & Themix
+1|Deep Forest|imp
+5|Delirious|Bixes
+4|Dry Valley|Themix
+1|EscapeTheCave|[A] Awesome
+2|Everdeen|Themix
+3|Fade|Silex
+2|Flow|Silex
+1|Holy Key|RayB.
+4|Hostile|Pipou
+5|Hostile 2|Pipou & Amu~Cookie
+5|Increase|Themix
+2|Indicud|RayB., panik & Avasus
+3|Just Ragequit|Kintaro*
+4|JustGeneric|Skeptar
+4|Lockdown|Aoe, Trax & Spyker
+4|Milthrid Core|Themix
+3|MonkeyStyle|Gridwyn
+2|Naufrage|SickCunt
+3|Naufrage 2|SickCunt
+3|Naufrage 3|SickCunt
+2|Nostalgia|Bolox
+3|Panic Paradise|Im 'corneum & Silex
+4|Pentamine|Themix
+1|Perfect World|Bixes
+2|Potty|Oblique & Bucket
+3|QuintessenZ|Bixes, Themix, Yuzu, BlaGK & Chairn
+1|Rogue World|panik & RayB.
+3|Runaway|BlaGK
+3|Sand Dune|SickCunt
+5|Stay Alive|»Slayer.
+1|Stoned.|tobu. & Skeptar
+1|Stoned. 2|tobu.
+1|Supernova|SickCunt
+4|The Fusion|Bolox
+5|Unisex|Oblique
+
+─── 3 PLAYER MAPS ───
+2|P2Z_Eclipse|cris
+4|Reason|mikey12
+
+─── 4 PLAYER MAPS ───
+2|4Four|Chill [TD]
+
+─── OLD BUT GOLD ───
+4|Adrenaline|Jamby & Silex
+4|Adrenaline 2|Silex
+4|At Night 2|Loop
+2|Blue Drag|Ante.
+4|Chinatown|Moby Dog & =CuBe=
+1|Flying in the Sky|Loop
+2|Lost Story 2|Kintaro*
+3|Out of Castle|Loop
+4|Valley|Silex
+
+─── RECOMMENDED FOR BIG TEAMS ───
+3|Back in the days|Silex
+3|Back in the days 2|Silex
+3|Back in the days 3|Silex
+4|Back in Time|Silex & StorмPʜöɴix
+4|Generica|Themix
+3|Genericore 1|Åmol
+3|Genericore 2|Åmol
+3|Genericore 3|Åmol
+2|Genericore 4|Åmol
+3|Genericore 5|Åmol
+3|Genericore 7|MarvinProductions
+3|Goldshire|Åmol & FunCat
+2|Hardcore 10|=CuBe=, Kintaro* & =Typhoon=
+2|Hardcore 11|=CuBe=, Kintaro* & =Typhoon=
+2|Hardcore 12|=CuBe=, Kintaro* & =Typhoon=
+1|Stronghold|Pipou
+2|Stronghold 2|Pipou
+
+─── OTHER MAPS ───
+3|-JustDoIt-|Sky-Bear
+2|-SKY IVLAND-|Ama & Hitomi
+1|Acidate|BamBam
+4|Agony|TheZyZya & Juandissimo
+3|Aim 1.0|Aoe
+4|Aim 11.0|Aoe
+3|Aim 2.0|Aoe
+3|Aim 3.0|Aoe
+3|Aim 4.0|Aoe & Ante.
+3|Aim 5.0|Aoe
+3|Aim 6.0|Aoe
+3|Aim 7.0|Aoe
+4|Aim 8.0|Aoe
+5|Airsky|Themix
+1|Alive|tobu.
+2|All at the beginning|{E}{L}{I}{T}{E} & ÐæR
+2|allthewayup|jao
+3|Alone Together 1.0|*WuDL*
+5|Analyzer|Bee
+4|Anoix|Gridwyn
+3|AnotherEra|»Rogue.
+4|Apathy|Ante.
+2|Apex2|Alvin Risk
+1|Arabic Night|Åmol & Gambol
+2|Arcadian|Jimmy Jazz & Soapy Sandwich
+4|At Sundown|*WuDL*
+5|Atomic|Kayumi
+3|Baguette|artkis
+1|Behind the Darkua|GoJE GrEEN ! & Chicken
+5|Between the Heavens|Neverbloom & Chill [TD]
+2|Big Sun|Spyker
+1|Biome Master|MarvinProductions
+4|Bizarre Untold|Zerodin
+2|Bl0odDens3|Bl0od-Dens
+3|Black&White|TyxpekCZ
+1|blur|Im 'corneum
+2|brainduck|٭ıƞdex'<3 & Rapture
+1|Bumblebee|ΔWΞSƟΜΞ
+2|Burger|Waschlappen
+1|Cemetery|{E}{L}{I}{T}{E} & ٭ıƞdex'<3
+2|Childs Play 1|ChuCky & GoJE GrEEN !
+3|ChillDontKill|ChillerDragon
+1|chiseled|Suppe
+1|claret-blue|Suppe
+5|Complex|MarvinProductions
+2|complic|Åmol
+3|Cucumber|Fňokurka oo7
+2|Cursed Treasure|Bixes & Themix
+2|Cya Nerd|Destoros
+3|Damage|Captain & !_Vergeboy_!
+3|Danceoff|SBL
+4|Dark Side|Chill [TD]
+2|Dawn Of The 7th Day|MaDLeX
+4|Day 'n' Night|Rapture & Hindu
+1|Death Sentence|Bixes & Themix
+2|Death Valley|Skeptar & Juandissimo
+1|Desert Wolf|Spyker
+4|Deserted|MarvinProductions
+1|Determination|YeahxX
+3|Disco|.me'
+1|Don't go|MarvinProductions
+3|Don't Panic|MarvinProductions
+3|Doreos|Gianth
+1|DreamWorld|Silex
+2|Dynamic|Ante.
+5|Eclipsis|»Slayer. & Lilith
+4|Ecstasy|Ante.
+3|Elitist|Cenarrius
+2|Elumite|{E}{L}{I}{T}{E} & Kayumi
+2|Enchanted|Silex
+2|Epic-Fail|YeahxX
+3|Espace|jao
+2|External|Elephant & Wolƒ.▲
+5|External 2|Elephant & Wolƒ.▲
+4|Failable|Cøke
+1|Falling Star|Nigel
+2|Fever|Chill [TD]
+4|Fiasko|TheZyZya & Silex
+4|First Try|DiViNe
+2|Fluke|Aras & timakro
+1|Flux|Pulsar
+2|Fly Around|Ante.
+1|Fonders|Destoros
+1|Fox|Waschlappen
+3|Franky's Adventure|BooNi
+2|From Death to Destiny|Åmol & fikmesån
+3|Frozen|#eci.in`
+2|Furypleasure|Åmol
+3|Generic Fly|Konsti
+5|Generic Hell 2|Loop, Ezio & Kayumi
+1|GenericRush1|Trax & Hindu
+2|GG|Deeper
+3|Gloomy Den|SBL
+4|Goldfield|YeahxX
+1|Goldmoon|Gianth
+1|Good Ol' Days|fikmesån
+1|Good Ol' Days 2|fikmesån & imp
+1|Grandpa|Fňokurka oo7
+1|Green Agony|Stalker
+5|Handifly|Aoe & Cloudly
+1|Helena|Hitomi
+3|Highlife|Skeptar & ٭ıƞdex'<3
+3|Hillside|»Rogue.
+2|In Da House|da
+3|Inception|Cøke & #eci.in`
+2|Intense 3.0|Elephant
+1|Intercepter|Konsti
+4|Intermediate|Themix
+3|Into the Wild|SBL
+4|Is it Real|Varys
+3|Jaw'Eld|Savander
+2|Journey|Hindu
+4|Journey Man|MarvinProductions & Nigel
+4|Journey Man 2|Åmol
+2|Jungledread|[*MC*]-DuBai-.?
+4|Just Triple Fly|Spyker
+2|Kabarda|Ninjed
+2|Karaboudjan|Bee
+2|Karaboudjan 3|Bee
+2|Kassin|Åmol
+3|Kickout|Fullander
+2|Koule 17|Intercity, Broken & Bee
+1|leopold|Shorefire
+3|Level Asian|Gianth
+5|likeOldschool|Chill [TD]
+3|Lil Jungle|SBL
+3|Limba|Gianth
+2|Logics|aMu
+3|Looney [Extreme]|☆.Sυsнι♪
+2|lost_castle|Shorefire
+2|Lucifer|Stalker
+1|LuckyStrike|LanuX & Hindu
+1|M&M|Maple & mikey12
+1|Memories|Fňokurka oo7
+2|Mines of Fear|Stalker
+5|Mirai|Ezio
+1|mmips|spimm
+2|Moonstone|Hesse & Kayumi
+3|Mystic River|Themix
+3|Mystical Island|StorмPʜöɴix
+3|Narcissistic|fikmesån & imp
+3|nemesis|Lewuh
+3|New World|Zerodin
+2|Nightly Tandem|timakro & ٭ıƞdex'<3
+3|Nightstar|ΔWΞSƟΜΞ & AmaZiinG
+1|Nirvana|Hindu & Kayumi
+2|NoMore!|Chill [TD]
+2|NoMore! 2|Chill [TD]
+2|NoMore! 3|Chill [TD]
+1|Nucl|BannZay & Goran
+1|nullptr|Shishigami
+2|Nyanpasu|☆.Sυsнι♪
+1|Offpanic|Themix
+3|Pink Destiny|TyxpekCZ
+1|Pink Sky|Silex
+1|Plaza|SBL
+2|Punica|fokkonaut & Kayumi
+2|Radiation|LordMiLord
+2|Reckless|Pipou
+3|Regen|Gridwyn
+4|Regen 3|Gridwyn
+5|Relentless|Freezestyler & Starkiller
+1|Rema|Tira
+3|Revival|»Slayer. & Lilith
+3|Roaming|mikey12
+4|Rockstar|Bixes
+4|Rocky Horror Fly|Hidden-Ezio
+2|Ruin|Silex
+3|Run into the light|Silex & <BµmM>
+2|Scabrous|NeoN & Silex
+3|Sequite|Themix
+2|Shock Value|Wladimir
+1|Skave|Im 'corneum
+4|Skill Rises|Varys
+1|SkyLand|CrashtimeHD & Greeen
+2|SkyLand2|Greeen & CrashtimeHD
+3|Skywalk|Gianth
+2|Sleepy|Ante.
+3|Sleepy 2|Ante.
+3|SolarStrike|Spyker
+3|Something|Ante. & Cøke
+5|Sooth|Michel
+2|Space & Time|Nickel
+2|Space & Time 2|Nickel
+5|Space Rate|Themix
+1|Spacetic|Åmol
+5|Speedfly|Spyker
+4|Sperance|Spyker
+3|Springlobe|Themix
+4|Springlobe 2|Themix
+2|Stones|Pipou
+3|superway|Cøke & Saavik
+5|Tatooine|Rapture & Gridwyn
+4|The Cursed Night|MaDLeX
+3|The Dream|Spyker
+2|The Joke|TheZyZya
+2|The Joke 2|TheZyZya
+2|The Joke 3|TheZyZya
+5|The Rapture|Themix
+3|The Sewer|Aoe & SBL
+1|The Uns|Tuna
+3|The Way to the Hell|S.O.S
+3|Threesome|645654, Phacrum & cris
+2|Time Eater|imp
+3|To the moon|Ryozuki
+2|Tough|Hindu
+3|Tropical Island|RayB.
+4|TryHard|Feuerfaust Ace
+3|TryThis|Skeptar
+1|Tvyn|MarvinProductions
+2|Unbalanced|Imperius
+3|Uncharted|Stalker
+1|Underground|Silex
+2|Undisclosed|Michel
+3|Uzmutulunculunbé|Fňokurka oo7
+3|Valley 2|Silex
+1|Venture|Shorefire
+4|Venture 2|Shorefire
+1|Wailand|Destoros
+2|Wasteland|»Rogue.
+3|Wave|Con.'
+5|whitehell|ElysianDevil & Mischga
+4|Winter Is Coming|»Rogue., ÐæR & !XeNoN!
+4|WoodDivision V|Men of Steel
+4|Wour Forlds|Themix
+2|Yoko 1.1|Hitomi
+1|Yoko 2.1|Hitomi & Saavik
+1|Yoko 3.1|Hitomi & Saavik
+4|Yoko 4.1|Hitomi, Kintaro* & Saavik
+3|Yumizo|Ezio & Kayumi
+1|Zoe|NeXus & jao

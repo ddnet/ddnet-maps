@@ -1,0 +1,160 @@
+$add_vote "Make sure no one is racing before voting!" "info"
+$add_vote "Random Oldschool Map" "random_map"
+$add_vote "Random Oldschool Map Unfinished by Vote Caller" "random_unfinished_map"
+
+─── NEW MAPS ───
+3|Blue|MaDLeX
+5|LichKing|Barsum & Arem Shin
+3|Zadrotos_final|Opana
+3|EaSy_HarD 4|Chak
+2|Castoreum|Ezio & Stalker
+1|Pirateworld|Trinkflasche
+3|Last Chance|Be Happy & SlaeR
+
+─── OTHER MAPS ───
+1|1TeeMap
+1|AiP-Gores|Zarnexxx
+1|Amor 1|Amor
+1|Amor 2|Amor
+4|Animus|Ezio & Rico
+1|Atticus Compilation|Scratchy <3
+3|Baber|Zikkie & LordMiLord
+2|bBzZ!!|KillA
+3|Bush|Kintaro*
+4|City of Death|Black-_-lotus & Jo0
+3|Continuum|spimm
+4|Crimson|Ezio & =Stalker=
+2|DarkCore 1|Heaven
+2|DarkCore 2|Heaven
+2|DarkCore 3|Heaven
+4|DarkCore 4|Heaven
+2|ddrace_loop|Loop
+4|Dead Darkness|EnCore Clan
+4|DeadCore 1|DeadAlien
+4|DeadCore 2|DeadAlien
+3|DeadCore 3|DeadAlien
+4|Destiny 1|TheZyZya & sMo0g
+4|Destiny 2|TheZyZya & sMo0g
+4|Destiny 3|TheZyZya & sMo0g
+4|Divergence|Heaven & DarkHeaven
+3|Dust|NeoN & Fels
+2|Eagle Race Compilation|Eagle Clan
+2|Encore
+3|Endgame|TheZyZya
+2|Eruption|Captain & Unreal
+2|experiment|=CuBe=
+4|Fahrenheit|Epic Fail & Zikkie
+3|FLAP|Cøke & Moby Dog
+3|Flyppi|triki
+3|FreeDoom|???
+1|Freeze Slow 1|Silex
+1|Freeze Slow 2|Silex
+1|Freeze Slow 3|Silex
+2|Freeze Slow 4|Silex
+1|Fresh|Kintaro*
+2|Fucktastic|Ezio & Rico
+3|Generic Hell|Loop
+1|Hardcore 1|=CuBe=
+1|Hardcore 2|=CuBe=
+2|Hardcore 3|=CuBe=
+1|Hardcore 4|=CuBe=
+2|Hardcore 5|=CuBe=
+4|Hardcore 6|=CuBe=
+3|Hardcore 7|=CuBe= & Cøke
+4|Hardcore 8|=CuBe=
+3|Hardcore 9|=CuBe=
+2|Hardstyle 1|2oo & Fuu
+2|Hardstyle 2|2oo & Fuu
+4|Hardstyle 3|2oo & Fuu
+4|Hardstyle 4|2oo & Fuu
+1|HDP_Obstaculos|El Futuro
+1|HDP_Zinderencio|El Futuro
+2|Hell Ride|Cøke
+1|HellFly|=CuBe=
+1|himmel|-Sani-
+1|himmel 2|-Sani-
+2|Illusion|DiViNe
+2|Im No Superman 1|Moby Dog & Puffmusiker
+2|Im No Superman 2|Moby Dog
+3|Im No Superman 3|Moby Dog
+2|Imagination|Heaven
+2|Impossible 1|sMo0g
+2|Impossible 2|sMo0g
+2|Impossible 3|sMo0g
+3|Infinity|Silex & DiViNe
+2|Insanity|sMo0g
+4|Interlude|2oo
+4|Interlude 2|FunCat
+3|Ironprison|Ezio
+2|Jailbreak 1|Kintaro*
+2|Jailbreak 2|Kintaro*
+1|Jailbreak 3|Kintaro*
+2|Jailbreak 4|Kintaro*
+3|Jailbreak 5|Kintaro*
+3|Jailbreak 6|Kintaro*
+3|Jailbreak 7|Kintaro*
+1|Josen|AB-Clan
+1|Just Fly 1|Delo
+1|Just Fly 2|Delo
+1|Just Fly 3|Delo
+1|Just Hookfly 1|SonGoku & spimm
+1|Just Hookfly 2|SonGoku & spimm
+3|Lost|Silex
+3|Lost 2|Silex
+3|Lost 3|Silex
+2|Lykeion|Moby Dog
+1|Madness 1|Delo
+2|Madness 2|Delo
+2|Madness 3|Delo
+2|Madness 4|Delo & Kintaro*
+1|Miper 3|Miper
+1|Miper 4|Miper
+1|Miper 5|Miper
+1|Orange 1|FunCat
+3|Paradise|sMo0g
+3|Paradise & Hell|Jamby
+2|Paranormal|=N00B3= & Waschlappen
+2|Poreotics|Kintaro*
+3|Professional|Moby Dog
+3|Qwertz|Kintaro*
+2|Ray - 1|Ray
+2|Red Japan|Ray
+2|Reload 1|Cøke
+3|Reload 2|Cøke
+3|Reload 3|Cøke
+2|Reload 4|Cøke
+4|ResidentSS|-Sani- & -Sozi-
+3|Sadway|Mustdie
+2|Somewhere in the Sky|MaDLeX
+3|Stereotype 1|DarkKenny
+5|Stereotype 2|DarkKenny
+5|Stereotype 3|DarkKenny
+5|Stereotype 4|DarkKenny
+5|Stereotype 5|DarkKenny
+1|StoneHell-Gores|Jebeto
+2|StrangeNight
+5|Striped Clouds|Pokemon
+2|Synergy|estern
+1|Teestar|Kintaro*
+2|The Ultimate Rainbow|MaDLeX
+2|Tibto|Cøke & Moby Dog
+4|Triple Kill|Unreal & Feuerball
+1|Troj|El Futuro
+3|Ultimatum 1|=CuBe=
+3|Ultimatum 2|=CuBe=
+3|Ultimatum 3|=CuBe=
+2|Universe|spimm
+2|Unlimited|Kintaro* & DiViNe
+4|Victory 1|sMo0g
+4|Victory 2|sMo0g
+4|Victory 3|sMo0g & FunCat
+3|Victory 4|sMo0g
+4|Victory 5|sMo0g
+1|Warch Comp|Warch
+1|Who's Faster|Silex & DiViNe
+3|WoFs|Silex
+2|Zadrotos 1|Opana
+2|Zadrotos 2|Opana
+2|Zadrotos 3|Opana
+3|Zadrotos 4|Opana
+3|Zadrotos 5|Opana

@@ -1,0 +1,135 @@
+$add_vote "Make sure no one is racing before voting!" "info"
+$add_vote "Random Novice Map" "random_map"
+$add_vote "Random Novice Map Unfinished by Vote Caller" "random_unfinished_map"
+
+─── NEW MAPS ───
+4|Diamond Mine|<BµmM>
+4|Maui Wowie 2|RayB.
+3|Undrag2|Ninjed
+5|Blue Sapphire|jao
+3|Cuboid|stompie & Soapy Sandwich
+4|Maui Wowie|RayB.
+5|Empire Desp|Deeper
+
+─── SELECTED MAPS ───
+3|Bullets|Meliodafu
+3|Camouflage|Meliodafu
+4|Cartoon|fikmesån & Im 'corneum
+4|Goo!|TyxpekCZ
+4|Hoo!|TyxpekCZ
+4|Icebreaker|AKc0RiZer
+2|Introduction|Themix
+4|Kobra|Zerodin
+3|Kobra 2|Zerodin
+4|Kobra 3|Zerodin
+4|Kobra 4|Zerodin
+4|Planet Mars|Aoe
+5|Planet Venus|Aoe & Knight :3
+3|Tiny Tandem|timakro
+
+─── MAPS WITH SOUND ───
+3|Ice Water|Ñı©Ø
+4|Little Forest|Kintaro*
+
+─── OTHER MAPS ───
+4|(wasntme)|fikmesån & snailx3
+1|4Nubs|BamBam
+2|[School] Hammer|Hitomi
+2|[School] Hook|Hitomi
+3|Absurd 1|Cyberpunk
+3|Absurd 2|Cyberpunk
+5|Absurd 3|Cyberpunk & ٭ıƞdex'<3
+4|Absurd 4|Cyberpunk
+3|Absurd 5|Cyberpunk
+5|Awayst|Ama
+3|Banta|Ama
+1|Basics|.me'
+3|Batman|Ama
+3|benrace|Broken
+4|BlueChaos|Zaiross
+1|CandyLand|fikmesån & Fňokurka oo7
+5|Careless|.me'
+2|Chicken Pie|Chicken
+5|Chicken Pie 2|Chicken & Broken
+4|Cool|Welf
+3|Dark Moon|fikmesån
+4|DetrimentalFactor|Suppe
+5|Dry Lagoon|Welf
+2|Easy 1|Borup
+3|Fluff|Tuna
+2|For Idiots 1|KBeeeR
+2|For Idiots 2|KBeeeR
+5|Future_Race|Prozzle
+3|GeRollA|Evoli
+3|GlassBox|Knight :3
+2|GlassBox 2|Knight :3
+2|GlassBox 3|Knight :3
+2|GlassBox 4|Knight :3
+2|GlassBox 5|Knight :3
+2|GlassBox 6|Knight :3
+3|GlassBox 7|Knight :3
+5|GlassBox 8|Knight :3
+1|Gold Mine|<BµmM>
+2|GreenAde|zio
+2|Halloween Night|fikmesån
+5|Homesick|Wesno
+3|Houll|Evoli
+4|Hulk|Ama
+3|IronMan|Ama
+1|Island Rush|Tuna
+2|It's Easy|Deeper
+5|Jungle Camp|imp
+1|Just2Easy|[A] Awesome
+4|Kaylite|{E}{L}{I}{T}{E} & Kayumi
+5|Kindergarten|Silex
+3|Light Grey|Lightbulb & ٭ıƞdex'<3
+3|Lonely|RayB.
+4|Looney|☆.Sυsнι♪
+2|Lowcore|.me'
+5|MagiK|Kosho
+2|newbee|pixel
+3|Ovell|Evoli
+1|Pados 1|Pados
+3|Pados 2|Pados
+3|Pados 3|Pados
+3|Petrified|Aras
+4|Planet Mercury|Aoe
+3|Psyll|Evoli
+5|Seagulls|fikmesån
+1|Seasons|Knight :3
+5|Senani|Åmol
+3|Sopella|Evoli
+3|Sorrow|Knight :3
+3|Spüli|fikmesån
+1|StepByStep|[A] Awesome
+3|Sunlight|GolfaN
+2|Take it noobly|Ñı©Ø
+3|TeeWorld|Zaiross
+3|Thor|Ama
+3|Threll|Evoli
+2|Top 1|mikey12
+3|Top 3|mikey12
+4|Vizur|Seba0006
+1|Water Lily|Fňokurka oo7
+5|Xolla|Evoli
+2|ZeroX|Kosho
+
+─── OLD MAPS ───
+4|Epix|Cookie & Lealen
+5|Killa 3|Lilith
+1|Koule 1|Intercity, Broken & Bee
+1|Koule 2|Intercity, Broken & Bee
+1|Koule 3|Intercity, Broken & Bee
+1|Koule 4|Intercity, Broken & Bee
+1|Koule 5|Intercity, Broken & Bee
+4|Koule 7|Intercity, Broken & Bee
+3|Multimap|TPaul
+5|Shadow|Deeper
+3|Skillz 1|Tvgucker
+3|Skillz 2|Tvgucker
+3|Skillz 3|Tvgucker
+4|Skillz 4|Tvgucker & Ama
+4|Skillz 5|Tvgucker
+5|Skillz 6|Tvgucker
+3|Teleport|El Futuro & Broken
+3|xyz_ddrace2|Oy & Themix

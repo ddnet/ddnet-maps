@@ -1,0 +1,112 @@
+$add_vote "Make sure no one is racing before voting!" "info"
+$add_vote "Random Race Map" "random_map"
+$add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
+
+─── NEW MAPS ───
+2|run_FreezyFly|Im 'corneum & Mc'zTyla'
+3|run_escape_the_darkness|SkizZ
+4|run_2Rockets|Arem Shin
+2|pr0-move|szyker
+2|run_4fikmesan|jao
+1|run_the_cure|fikmesån & jao
+1|run_InTheHell|iKizu
+
+─── OTHER MAPS ───
+2|Aufnahmetest_AE|teetee
+2|climate-crisis|Kill Mik & Phönix92
+3|frustrainleave|r3tr0
+1|hotrun|Ubu
+5|nameless_run|SkizZ, =CuBe= & rus
+1|pocramruinrun|Pocram
+5|run_2rocketstwo
+1|run_4abydos|SkizZ
+3|run_4lollipop|SkizZ
+2|run_4mystery
+2|run_4popi|sqx
+3|run_4popo|Trax & Godlike
+2|run_4tzoy|SkizZ
+3|run_4xerhul|SkizZ
+4|run_4xerhul2|SkizZ
+3|Run_Aim|Aoe
+3|run_alboni|Kill Mik & iTee Toni
+3|run_alkohol|Rook
+0|run_ankii|Anki
+5|run_antibuguse|Xerhul & Sorah
+2|run_asr|Coold0wn & TheGnaa
+1|run_away
+2|run_birthday
+2|run_black_jack|Cøke
+2|run_black_white|Nutellafreak 
+4|run_blood_thirst|Awesome, Nyz & Warbubble
+0|run_blue|Rainbow 
+1|run_brown|Jester
+1|run_button|Haselnuss
+2|run_cave_grass|kickz
+2|run_crystal|TheGnaa
+3|run_dfc|Pody & Rainbow
+2|run_dragon|LordSkelethom
+1|run_drawed|Xantha
+1|run_dude|Ubu
+2|run_experience_of_incredibleness|Haselnuss
+1|run_ffs|Ubu
+2|run_firestorm
+3|run_for_ghost|Weißwurst
+1|run_for_onkelz|.Angst.
+1|run_forrest|Ubu
+3|run_from_ice_to_grass|SkizZ
+3|run_frosty
+0|run_g6|Anki 
+4|run_galaxy|Em'WARNe0nx3 & ReTTeX
+4|run_get50|Cøke, SkizZ & Loop
+2|run_glowing_ice|TheGnaa
+5|run_golden_toilet|ReTTeX
+2|run_granit_stone|Streichholz
+5|run_grass_hell|Xerhul
+1|run_greygrey
+3|run_groove
+4|run_hard_hell|SkizZ & Loop
+4|run_hard_hundred|Yannik, Rook & TheGnaa
+3|run_harder_than_hard|SkizZ & Matze
+2|run_heaven_and_hell|Delo
+2|run_hot_or_not|Coold0wn
+2|run_ice_castle|kickz
+4|run_inset_into_the_heavy_jungle|SkizZ & ReTTeX
+3|run_inset_into_the_light|SkizZ
+1|run_irish_luck|fikmesån
+3|run_keksi|Keks
+2|run_linkin_park|Yannik & Rook
+1|run_long_for_popo|Cookie
+3|run_longWAR|Popo & Nyz3
+2|run_miniatur
+1|run_neonlight
+2|run_nightmare|Delo & N0sk1l
+3|run_not_short|kickz & SkizZ
+0|run_orange|Melone
+3|run_out_jungle|Nox
+4|run_painted|SkizZ
+2|run_pencil|Streichholz
+3|run_pink.lila|SkizZ
+2|run_pinky|Nutellafreak & Streichholz
+2|run_pokemon|Yannik, Rook, Haselnuss & TheGnaa
+3|run_radioactive|TheGnaa
+2|run_redbull|H4xN
+4|run_shadow
+4|run_shutter|Sorah & Loop
+5|run_skizz_keres|SkizZ & Keres
+3|run_skizz_loop1200|SkizZ & Loop
+2|run_skizzpopo|SkizZ & Popo
+4|run_skizzrettex|SkizZ & ReTTeX
+3|run_spring|Xerhul
+2|run_stoned|Keks & zizou
+1|run_sunsetcave|SkizZ & Zatline
+2|run_tee|Sushi
+2|run_the_rock|Keres
+4|run_three
+2|run_toxic_green|Popo
+2|run_unschaffbar|Darkknight
+1|run_WARmoepopo|Moe & popo
+5|run_world_war_zero|cookie
+1|run_yellow|SkizZ
+3|run_yellow_hell|SkizZ
+4|yoshiloop|Yoshi & Loop
+3|zelda|SkizZ & Rainy

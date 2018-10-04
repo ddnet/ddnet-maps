@@ -1,0 +1,91 @@
+$add_vote "Make sure no one is racing before voting!" "info"
+$add_vote "Random Dummy Map" "random_map"
+$add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
+
+─── NEW MAPS ───
+3|Mina|Im 'corneum
+3|Momentum|Ravie
+2|Bomb Raid|DanilBest
+3|nore|Im 'corneum
+4|Jazz Hands 2|Jimmy Jazz
+3|Nincorn|Ninjed & Im 'corneum
+3|Nentori|Ninjed
+
+─── SELECTED MAPS ───
+4|Aurora|☆.Sυsнι♪
+3|Castaway|Im 'corneum
+1|Caventure|Meliodafu
+2|Caventure II|Meliodafu
+2|Caventure III|Meliodafu
+2|Caventure IV|Meliodafu
+3|Chained|StorмPʜöɴix
+2|Downhill Jam|Im 'corneum
+1|Dummy Chamber|Im 'corneum
+1|Dummy Chamber 2|Im 'corneum
+3|Resi|Im 'corneum
+3|Samdragaline|Silex & Meliodafu
+1|Samsara|Meliodafu
+2|Samsara II|Meliodafu
+2|Samsara III|Meliodafu
+3|SavannaDrag|Skeptar
+3|SavannaDrag 2|Skeptar
+3|SavannaDrag 3|Skeptar
+4|SavannaDrag 4|Skeptar
+3|Skychase|SickCunt
+3|SpookyDrag|RayB. & Sonix
+3|Templerun|StorмPʜöɴix
+4|ZooDrag|RayB.
+
+─── SPECIAL MAPS ───
+2|DummyCopter|Element Finland
+4|Just deep fly|BannZay
+1|JustCopyFly|Vasten100
+2|RON|BannZay
+
+─── OTHER MAPS ───
+5|Adragaline|Silex
+5|Adragaline 2|Silex
+4|Amazing Drags|Ninjed
+4|Anim|Im 'corneum
+1|Broken hammer|BannZay
+5|DarkSpy|Spyker
+5|DarkSpy 2|Spyker & iParano
+2|Darkvine|12vy
+4|DarkWorld|=xPeke=
+5|DeepDrag|Micro
+2|Destruction|Zerodin & Hindu
+3|Draxut|тυx
+2|drg5|Im 'corneum
+3|DuNoMa|Arcturus
+4|Equivalent Exchange|Ezio
+4|Equivalent Exchange 2|Ezio
+2|Escape from the Prison|IRGNW
+3|gendum|Im 'corneum
+4|GenericDrag|Skeptar & »Slayer.
+2|Greed|Kosho
+4|Injection|Themix
+4|Injection 2|Themix
+3|Jazz Hands|Jimmy Jazz
+3|Jelly|Pipou
+4|JungleRabies|[Nub]Wiesel
+2|Just Rocketfly 1|Mischga
+3|Just Rocketfly 2|Mischga
+5|miA|Aoe
+5|Nalar|=xPeke= & Tezcan
+4|nora|Im 'corneum
+3|noro|Im 'corneum
+3|NoTeleBro|Zerodin
+3|Onliner|Im 'corneum
+4|Pataros|Skeptar & Exotix
+5|Relief|Ante.
+3|Repentance|BannZay
+1|SkyFly|=xPeke=
+1|Stellar|Ravie
+2|TakeUrLuggage|Tuna & ٭ıƞdex'<3
+3|Target|Soapy Sandwich
+2|Tech|Seba0006 & Antro
+4|TomorrowLand|Skeptar & tobu.
+3|Tropical Drag|RayB.
+3|Ulver|Arcturus
+4|Yee|Im 'corneum
+3|Zonsa|Rod Slide
