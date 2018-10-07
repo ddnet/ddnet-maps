@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Stop Over 2.0|N9mkOik
 4|Rush Clouds|bit
 3|Push it 2|Welf
 2|Wormhole|hi_leute_gll
 3|Agile|Jimmy Jazz
 1|Cavity|тυx
 2|Timebreaker|Im 'corneum
-3|nullptr.sg|Shishigami
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -35,7 +35,6 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Outside|Bixes
 2|Plocky|Meliodafu
 3|Rocket Challenge|Juandissimo
-2|Rocket Player|RayB.
 3|Shotsky|Im 'corneum
 4|Sky Movement|Noved
 3|Summer Breeze|Bixes
@@ -218,6 +217,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Night of Spikes|Element Finland
 1|No_Stuck|Xalcon
 4|Noh|Ninjed
+3|nullptr.sg|Shishigami
 1|Nyan Cat|sorgaxD
 1|Nytro|BamBam
 2|Old Style|Destoros
@@ -230,6 +230,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Race_Sanktoras|Sanktoras
 1|Raid|Im 'corneum
 2|Rocket Jump|<BµmM>
+2|Rocket Player|RayB.
 3|RocketIsKey|Tropo
 2|Rope swing|Mokuz
 2|run_guy_25|Kaestchen
