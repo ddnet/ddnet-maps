@@ -3,13 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|Crystal Maze|sorgaxD
 2|Stargazing|Silex
 3|Run Free|fikmesån
 3|Pharice 2|hi_leute_gll & Meliodafu
 1|Crimson Woods|Pulsar & Ravie
 3|Kero-Gores8|Kero
 4|Sky Stone|Tropo
-1|rizek|Fňokurka oo7
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -37,7 +37,6 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 1|MonkeyDream|Gridwyn
 2|MonkeyDream 2|Gridwyn
 4|Monster|Fňokurka oo7
-4|Motherlode|SickCunt
 5|MysteryCompound|BlaGK
 5|Neverwhere|Bixes & Themix
 2|Noo!|TyxpekCZ
@@ -205,6 +204,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 4|MonkeyDream 3|Gridwyn
 3|moondrag|Shorefire
 3|MoonPie|Hindu
+4|Motherlode|SickCunt
 4|nameless map|Skeptar
 4|Neon 1|Knight :3
 4|New Era|Silex
@@ -248,6 +248,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 2|Request|BlaGK
 3|Resoren|Revelo
 3|Rivendell|hannibal & hi_leute_gll
+1|rizek|Fňokurka oo7
 4|Sabell|Evoli
 4|Sacred Source|Themix
 5|Seduction|Silex
