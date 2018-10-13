@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Loopie|Im 'corneum
 2|Stop Over 2.0|N9mkOik
 4|Rush Clouds|bit
 3|Push it 2|Welf
 2|Wormhole|hi_leute_gll
 3|Agile|Jimmy Jazz
 1|Cavity|тυx
-2|Timebreaker|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -267,6 +267,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 1|The Space Station|Ñı©Ø
 2|Theory Of Fail|BRONOOB
 3|Thomas|Im 'corneum
+2|Timebreaker|Im 'corneum
 4|Triplecan|Cøke
 5|Triplecan 2|Cøke
 2|Uniswim|Im 'corneum
