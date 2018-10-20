@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Epinephrine|Silex
 3|DoomWorld|Genex & Syltoox
 3|Nightstar 2|ΔWΞSƟΜΞ
 3|Road to Rank 1|Brokecdx- & painn
 2|Barren|Pulsar
 4|Synesthesia|Elephant
 2|Time to Switch|тυx
-1|Flux 2|Pulsar
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -65,6 +65,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── 4 PLAYER MAPS ───
 2|4Four|Chill [TD]
+5|4s|Åmol
 
 ─── OLD BUT GOLD ───
 4|Adrenaline|Jamby & Silex
@@ -178,6 +179,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 4|First Try|DiViNe
 2|Fluke|Aras & timakro
 1|Flux|Pulsar
+1|Flux 2|Pulsar
 2|Fly Around|Ante.
 1|Fonders|Destoros
 1|Fox|Waschlappen
