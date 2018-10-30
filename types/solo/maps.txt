@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Ephemeral|Freezestyler & Starkiller
 2|Loopie|Im 'corneum
-2|Stop Over 2.0|N9mkOik
+3|Stop Over 2.0|N9mkOik
 4|Rush Clouds|bit
 3|Push it 2|Welf
 2|Wormhole|hi_leute_gll
 3|Agile|Jimmy Jazz
-1|Cavity|тυx
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -111,6 +111,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Bullet Master|fikmesån
 3|Catch the Colors|Dr.Dre
 4|Cave Fly|Im 'corneum
+1|Cavity|тυx
 2|Cheepl|IRGNW
 2|Chill Let's Climb|Chill [TD]
 2|Chill Let's Climb 2|Chill [TD]
