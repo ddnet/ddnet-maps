@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Not Adrenaline 6|Silex, StorмPʜöɴix & Konsti
 5|Epinephrine|Silex
 3|DoomWorld|Genex & Syltoox
 3|Nightstar 2|ΔWΞSƟΜΞ
 3|Road to Rank 1|Brokecdx- & painn
 2|Barren|Pulsar
 4|Synesthesia|Elephant
-2|Time to Switch|тυx
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -303,6 +303,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|The Way to the Hell|S.O.S
 3|Threesome|645654, Phacrum & cris
 2|Time Eater|imp
+2|Time to Switch|тυx
 3|To the moon|Ryozuki
 2|Tough|Hindu
 3|Tropical Island|RayB.
