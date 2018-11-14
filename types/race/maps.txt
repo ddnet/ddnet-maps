@@ -3,13 +3,13 @@ $add_vote "Random Race Map" "random_map"
 $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|run_birming|Im 'corneum
 2|run_FreezyFly|Im 'corneum & Mc'zTyla'
 3|run_escape_the_darkness|SkizZ
 4|run_2Rockets|Arem Shin
 2|pr0-move|szyker
 2|run_4fikmesan|jao
 1|run_the_cure|fikmesån & jao
-1|run_InTheHell|iKizu
 
 ─── OTHER MAPS ───
 2|Aufnahmetest_AE|teetee
@@ -72,6 +72,7 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 2|run_ice_castle|kickz
 4|run_inset_into_the_heavy_jungle|SkizZ & ReTTeX
 3|run_inset_into_the_light|SkizZ
+1|run_InTheHell|iKizu
 1|run_irish_luck|fikmesån
 3|run_keksi|Keks
 2|run_linkin_park|Yannik & Rook
