@@ -3,13 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|The Swamp|fikmesån
 4|Dubush|тυx
 4|Crystal Maze|sorgaxD
 2|Stargazing|Silex
 3|Run Free|fikmesån
 3|Pharice 2|hi_leute_gll & Meliodafu
 1|Crimson Woods|Pulsar & Ravie
-3|Kero-Gores8|Kero
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -186,6 +186,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 5|Jumanji|Avaron & Rashu
 2|Just HookThrough|Åmol & ٭ıƞdex'<3
 4|KeeZ|Zerodin
+3|Kero-Gores8|Kero
 4|Kiko|hannibal
 1|Kopell|Evoli
 5|Let's Fail!|Zerodin
