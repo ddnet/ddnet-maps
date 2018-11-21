@@ -190,7 +190,7 @@ $add_vote "Random DDmaX Map Unfinished by Vote Caller" "random_unfinished_map"
 3|S-Race 2|Scratchy <3
 2|secreT|Pfandpirat
 2|Shaxx|ussi
-2|SilentNight|Habergnite
+2|SilentNight|Haberginte
 2|Sky line|M@TR!X
 1|skynet1|szyker
 2|skynet10|Tsin & szyker

@@ -44,7 +44,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 1|Outbreak|Meliodafu
 2|Pharice|tobu. & hi_leute_gll
 1|Planet Jupiter|Aoe
-5|PurpleHeaven|Aras & [A]Awesome
+5|PurpleHeaven|Aras & [A] Awesome
 4|Red Avenue|Bixes
 2|Sandland|Themix
 1|Slime|TyxpekCZ
@@ -142,7 +142,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 5|Excast 2|Åmol
 4|Excast 3|Åmol
 4|Excast 4|Åmol
-5|Excast 5|MarvinProductions*
+5|Excast 5|MarvinProductions
 2|Exit|fikmesån & imp
 4|FaCe|Zerodin
 2|FastRun|Hitomi
@@ -289,8 +289,8 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 5|ThereIsNoTruth|[SN] Snoop! & Chill [TD]
 3|tihid|kickz
 3|Toadsquad|Vasten100
-3|Top 2|mikey1
-4|Topsy Turvy|TheZyZya2
+3|Top 2|mikey12
+4|Topsy Turvy|TheZyZya
 4|TowerOfDesperation|Delo
 2|Try Again|LoLz
 5|Tube|Chill [TD]

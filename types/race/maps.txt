@@ -59,11 +59,11 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 4|run_galaxy|Em'WARNe0nx3 & ReTTeX
 4|run_get50|Cøke, SkizZ & Loop
 2|run_glowing_ice|TheGnaa
-5|run_golden_toilet|ReTTeX
+4|run_golden_toilet|ReTTeX
 2|run_granit_stone|Streichholz
 5|run_grass_hell|Xerhul
-1|run_greygrey
-3|run_groove
+1|run_greygrey|kickz
+3|run_groove|kickz
 4|run_hard_hell|SkizZ & Loop
 4|run_hard_hundred|Yannik, Rook & TheGnaa
 3|run_harder_than_hard|SkizZ & Matze
@@ -105,9 +105,9 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 4|run_three
 2|run_toxic_green|Popo
 2|run_unschaffbar|Darkknight
-1|run_WARmoepopo|Moe & popo
+1|run_WARmoepopo|Moe & Popo
 5|run_world_war_zero|cookie
 1|run_yellow|SkizZ
 3|run_yellow_hell|SkizZ
 4|yoshiloop|Yoshi & Loop
-3|zelda|SkizZ & Rainy
+3|zelda|SkizZ & RaiNy
