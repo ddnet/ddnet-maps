@@ -3,13 +3,13 @@ $add_vote "Random Insane Map" "random_map"
 $add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Back in Time 2|Silex
 5|Grim Reaper|Pulsar
 1|Nether|Tropo
 3|4u|Åmol
 2|Genericore 8|Åmol
 1|Binary|Pulsar
 5|Adrenaline 4|Silex
-1|Shockwave|Konsti
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -32,6 +32,7 @@ $add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
 2|New Generation|Feuerfaust Ace
 1|Regen 2|Gridwyn
 2|Resistance|Themix
+1|Shockwave|Konsti
 3|Tatooine 2|Gridwyn & Rapture
 1|The Enchanted Clearing|MaDLeX
 1|Ton|FunCat
