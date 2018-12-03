@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Dreamland|StorмPʜöɴix
 3|Mina|Im 'corneum
 3|Momentum|Ravie
 2|Bomb Raid|DanilBest
 3|nore|Im 'corneum
 4|Jazz Hands 2|Jimmy Jazz
 3|Nincorn|Ninjed & Im 'corneum
-3|Nentori|Ninjed
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -72,6 +72,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Just Rocketfly 2|Mischga
 5|miA|Aoe
 5|Nalar|=xPeke= & Tezcan
+3|Nentori|Ninjed
 4|nora|Im 'corneum
 3|noro|Im 'corneum
 3|NoTeleBro|Zerodin

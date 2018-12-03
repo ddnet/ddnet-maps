@@ -5,7 +5,7 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 ─── NEW MAPS ───
 5|run_birming|Im 'corneum
 2|run_FreezyFly|Im 'corneum & Mc'zTyla'
-3|run_escape_the_darkness|SkizZ
+4|run_escape_the_darkness|SkizZ
 4|run_2Rockets|Arem Shin
 2|pr0-move|szyker
 2|run_4fikmesan|jao
@@ -93,7 +93,7 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 2|run_redbull|H4xN
 4|run_shadow
 4|run_shutter|Sorah & Loop
-5|run_skizz_keres|SkizZ & Keres
+4|run_skizz_keres|SkizZ & Keres
 3|run_skizz_loop1200|SkizZ & Loop
 2|run_skizzpopo|SkizZ & Popo
 4|run_skizzrettex|SkizZ & ReTTeX
