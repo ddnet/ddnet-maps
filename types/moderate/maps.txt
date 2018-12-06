@@ -3,13 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|Pizza|SUKA
 5|The Swamp|fikmesån
 4|Dubush|тυx
 4|Crystal Maze|sorgaxD
 2|Stargazing|Silex
 3|Run Free|fikmesån
 3|Pharice 2|hi_leute_gll & Meliodafu
-1|Crimson Woods|Pulsar & Ravie
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -114,6 +114,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 1|Coffee II|٭ıƞdex'<3
 4|Conscientious|Fňokurka oo7
 5|Construction I|FakeDeath
+1|Crimson Woods|Pulsar & Ravie
 4|Cross|hannibal
 2|Cry|Hitomi
 0|CYO|=CuBe=
