@@ -84,7 +84,7 @@ $add_vote "Random Oldschool Map Unfinished by Vote Caller" "random_unfinished_ma
 3|Infinity|Silex & DiViNe
 2|Insanity|sMo0g
 4|Interlude|2oo
-4|Interlude 2|FunCat
+4|Interlude 2|2oo
 3|Ironprison|Ezio
 2|Jailbreak 1|Kintaro*
 2|Jailbreak 2|Kintaro*
