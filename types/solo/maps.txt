@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Provence|Im 'corneum
 1|Jumper|Im 'corneum
 2|Ephemeral|Freezestyler & Starkiller
 2|Loopie|Im 'corneum
 3|Stop Over 2.0|N9mkOik
 4|Rush Clouds|bit
 3|Push it 2|Welf
-2|Wormhole|hi_leute_gll
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -300,4 +300,5 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Weird Cave|Rapture & ٭ıƞdex'<3
 3|Where am I|Deeper
 2|Whitemoon|Cellegen
+2|Wormhole|hi_leute_gll
 2|WSMS|Element Finland
