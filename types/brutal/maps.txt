@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Tiji|Im 'corneum
 1|ttgtgttg|m1c
 3|Not Adrenaline 6|Silex, StorмPʜöɴix & Konsti
 5|Epinephrine|Silex
 3|DoomWorld|Genex & Syltoox
 3|Nightstar 2|ΔWΞSƟΜΞ
 3|Road to Rank 1|Brokecdx- & painn
-2|Barren|Pulsar
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -126,6 +126,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 4|At Sundown|*WuDL*
 5|Atomic|Kayumi
 3|Baguette|artkis
+2|Barren|Pulsar
 1|Behind the Darkua|GoJE GrEEN ! & Chicken
 5|Between the Heavens|Neverbloom & Chill [TD]
 2|Big Sun|Spyker
