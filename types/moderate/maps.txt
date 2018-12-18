@@ -3,6 +3,7 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Tiji|Im 'corneum
 4|Pizza|SUKA
 5|The Swamp|fikmesån
 4|Dubush|тυx
