@@ -3,6 +3,7 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Samsara V|Meliodafu
 3|Samsara IV|Meliodafu
 3|Dreamland|StorмPʜöɴix
 3|Mina|Im 'corneum
@@ -72,7 +73,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Just Rocketfly 2|Mischga
 5|miA|Aoe
 5|Nalar|=xPeke= & Tezcan
-3|Nentori|Ninjed
+4|Nentori|Ninjed
 3|Nincorn|Ninjed & Im 'corneum
 4|nora|Im 'corneum
 3|noro|Im 'corneum
