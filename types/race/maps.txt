@@ -54,7 +54,7 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 1|run_for_onkelz|.Angst.
 1|run_forrest|Ubu
 3|run_from_ice_to_grass|SkizZ
-3|run_frosty
+3|run_frosty|Sorah
 0|run_g6|Anki 
 4|run_galaxy|Em'WARNe0nx3 & ReTTeX
 4|run_get50|Cøke, SkizZ & Loop
