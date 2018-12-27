@@ -41,7 +41,6 @@ $add_vote "Random Novice Map Unfinished by Vote Caller" "random_unfinished_map"
 5|Absurd 3|Cyberpunk & ٭ıƞdex'<3
 4|Absurd 4|Cyberpunk
 3|Absurd 5|Cyberpunk
-5|Awayst|Ama
 3|Banta|Ama
 1|Basics|.me'
 3|Batman|Ama

@@ -91,6 +91,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 4|Aftermath|٭ıƞdex'<3
 3|Against the Current|Themix
 4|AK|aMu & Kayumi
+1|Awayst|Ama
 5|Baby Aim 2.0|Aoe
 5|Baby Aim 3.0|Aoe & kulers
 5|BackToBasics|Shorefire
