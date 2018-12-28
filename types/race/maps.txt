@@ -18,10 +18,10 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 1|hotrun|Ubu
 5|nameless_run|SkizZ, =CuBe= & rus
 1|pocramruinrun|Pocram
-5|run_2rocketstwo
+5|run_2rocketstwo|Arem Shin
 1|run_4abydos|SkizZ
 3|run_4lollipop|SkizZ
-2|run_4mystery
+2|run_4mystery|kickz
 2|run_4popi|sqx
 3|run_4popo|Trax & Godlike
 2|run_4tzoy|SkizZ
@@ -49,7 +49,7 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 1|run_dude|Ubu
 2|run_experience_of_incredibleness|Haselnuss
 1|run_ffs|Ubu
-2|run_firestorm
+2|run_firestorm|TheGnaa
 3|run_for_ghost|Weißwurst
 1|run_for_onkelz|.Angst.
 1|run_forrest|Ubu
@@ -78,8 +78,8 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 2|run_linkin_park|Yannik & Rook
 1|run_long_for_popo|Cookie
 3|run_longWAR|Popo & Nyz3
-2|run_miniatur
-1|run_neonlight
+2|run_miniatur|TheGnaa
+1|run_neonlight|TheGnaa
 2|run_nightmare|Delo & N0sk1l
 3|run_not_short|kickz & SkizZ
 0|run_orange|Melone
@@ -102,7 +102,7 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 1|run_sunsetcave|SkizZ & Zatline
 2|run_tee|Sushi
 2|run_the_rock|Keres
-4|run_three
+4|run_three|borartr
 2|run_toxic_green|Popo
 2|run_unschaffbar|Darkknight
 1|run_WARmoepopo|Moe & Popo

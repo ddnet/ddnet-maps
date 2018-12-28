@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Double Dragin|Soapy Sandwich
 3|Exhale|Pulsar & Ravie
 1|ttgtgttg|m1c
 3|Not Adrenaline 6|Silex, StorмPʜöɴix & Konsti
 5|Epinephrine|Silex
 3|DoomWorld|Genex & Syltoox
 3|Nightstar 2|ΔWΞSƟΜΞ
-3|Road to Rank 1|Brokecdx- & painn
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -264,6 +264,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 5|Relentless|Freezestyler & Starkiller
 1|Rema|Tira
 3|Revival|»Slayer. & Lilith
+3|Road to Rank 1|Brokecdx- & painn
 3|Roaming|mikey12
 4|Rockstar|Bixes
 4|Rocky Horror Fly|Hidden-Ezio
