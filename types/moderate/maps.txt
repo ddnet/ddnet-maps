@@ -279,7 +279,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 3|Squidgy|timakro
 2|SunDay|Gridwyn
 5|SunDay 2|Gridwyn
-4|SunDay 3|Gridwyn
+5|SunDay 3|Gridwyn
 5|Sunrice|Zerodin
 4|Swoosh|mikey12
 5|Temple of Doom|Hindu & Zerodin
