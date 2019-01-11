@@ -3,13 +3,13 @@ $add_vote "Random Novice Map" "random_map"
 $add_vote "Random Novice Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|WTF|Im 'corneum & fikmesån
 4|Diamond Mine|<BµmM>
 4|Maui Wowie 2|RayB.
 3|Undrag2|Ninjed
 5|Blue Sapphire|jao
 3|Cuboid|stompie & Soapy Sandwich
 4|Maui Wowie|RayB.
-5|Empire Desp|Deeper
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -55,6 +55,7 @@ $add_vote "Random Novice Map Unfinished by Vote Caller" "random_unfinished_map"
 4|DetrimentalFactor|Suppe
 5|Dry Lagoon|Welf
 2|Easy 1|Borup
+5|Empire Desp|Deeper
 3|Fluff|Tuna
 2|For Idiots 1|KBeeeR
 2|For Idiots 2|KBeeeR
