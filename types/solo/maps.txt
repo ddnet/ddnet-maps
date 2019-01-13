@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Desert Duration|Sorah
 2|Provence|Im 'corneum
 1|Jumper|Im 'corneum
 2|Ephemeral|Freezestyler & Starkiller
 2|Loopie|Im 'corneum
 3|Stop Over 2.0|N9mkOik
 4|Rush Clouds|bit
-3|Push it 2|Welf
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -227,6 +227,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Pharoah|mikey12
 1|Prison 1|AKc0RiZer
 2|Propagate|Element Finland
+3|Push it 2|Welf
 2|Puzzle Box|Soapy Sandwich
 2|Quick|Deeper
 1|Race_Sanktoras|Sanktoras
