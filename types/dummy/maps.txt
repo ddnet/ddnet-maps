@@ -3,14 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Dark Depth|Im 'corneum
 2|Samsara V|Meliodafu
 3|Samsara IV|Meliodafu
 3|Dreamland|StorмPʜöɴix
 3|Mina|Im 'corneum
 3|Momentum|Ravie
 2|Bomb Raid|DanilBest
-3|nore|Im 'corneum
-4|Jazz Hands 2|Jimmy Jazz
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -67,6 +66,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Injection|Themix
 4|Injection 2|Themix
 3|Jazz Hands|Jimmy Jazz
+4|Jazz Hands 2|Jimmy Jazz
 3|Jelly|Pipou
 4|JungleRabies|[Nub]Wiesel
 2|Just Rocketfly 1|Mischga
@@ -76,6 +76,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Nentori|Ninjed
 3|Nincorn|Ninjed & Im 'corneum
 4|nora|Im 'corneum
+3|nore|Im 'corneum
 3|noro|Im 'corneum
 3|NoTeleBro|Zerodin
 3|Onliner|Im 'corneum
