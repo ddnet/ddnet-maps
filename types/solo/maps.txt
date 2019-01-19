@@ -130,7 +130,6 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Desert Mine|Blue
 1|Desert Night|fikmesån
 3|Dodge|Pulsar
-0|DontMove|=xPeke=
 3|Duodecimo|Forris
 2|Dust's Leaf|IRGNW
 3|Dynasty|Cellegen
