@@ -13,7 +13,7 @@ $add_vote "Random Oldschool Map Unfinished by Vote Caller" "random_unfinished_ma
 
 ─── OTHER MAPS ───
 1|1TeeMap
-1|AiP-Gores|Zarnexxx
+1|AiP-Gores|ZarneXxX
 1|Amor 1|Amor
 1|Amor 2|Amor
 4|Animus|Ezio & Rico
