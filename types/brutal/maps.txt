@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Back in the sky|Silex
 1|Grandma|Fňokurka oo7
 3|Double Dragin|Soapy Sandwich
 3|Exhale|Pulsar & Ravie
 1|ttgtgttg|m1c
 3|Not Adrenaline 6|Silex, StorмPʜöɴix & Konsti
 5|Epinephrine|Silex
-3|DoomWorld|Genex & Syltoox
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -161,6 +161,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Disco|.me'
 1|Don't go|MarvinProductions
 3|Don't Panic|MarvinProductions
+3|DoomWorld|Genex & Syltoox
 3|Doreos|Gianth
 1|DreamWorld|Silex
 2|Dynamic|Ante.
