@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Madrigal|»Slayer.
 5|Back in the sky|Silex
 1|Grandma|Fňokurka oo7
 3|Double Dragin|Soapy Sandwich
 3|Exhale|Pulsar & Ravie
 1|ttgtgttg|m1c
 3|Not Adrenaline 6|Silex, StorмPʜöɴix & Konsti
-5|Epinephrine|Silex
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -171,6 +171,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Elumite|{E}{L}{I}{T}{E} & Kayumi
 2|Enchanted|Silex
 2|Epic-Fail|YeahxX
+5|Epinephrine|Silex
 3|Espace|jao
 2|External|Elephant & Wolƒ.▲
 5|External 2|Elephant & Wolƒ.▲
