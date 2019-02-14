@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Injection 3|Themix
 2|Desert Dog|Im 'corneum
 3|Dark Depth|Im 'corneum
 2|Samsara V|Meliodafu
 3|Samsara IV|Meliodafu
 3|Dreamland|StorмPʜöɴix
 3|Mina|Im 'corneum
-3|Momentum|Ravie
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -73,6 +73,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Just Rocketfly 1|Mischga
 3|Just Rocketfly 2|Mischga
 5|miA|Aoe
+3|Momentum|Ravie
 5|Nalar|=xPeke= & Tezcan
 4|Nentori|Ninjed
 3|Nincorn|Ninjed & Im 'corneum
