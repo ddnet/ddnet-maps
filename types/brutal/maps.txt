@@ -231,7 +231,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Limba|Gianth
 2|Logics|aMu
 3|Looney [Extreme]|☆.Sυsнι♪
-2|lost_castle|Shorefire
+1|lost_castle|Shorefire
 2|Lucifer|Stalker
 1|LuckyStrike|LanuX & Hindu
 1|M&M|Maple & mikey12
