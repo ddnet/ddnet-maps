@@ -3,7 +3,6 @@ $add_vote "Random Insane Map" "random_map"
 $add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
-5|Heartcore 2|Beyoncé
 2|Ravillion|Themix
 3|Back in Time 2|Silex
 5|Grim Reaper|Pulsar
