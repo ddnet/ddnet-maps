@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Canyon|Im 'corneum
 5|Memento mori|Starkiller
 2|Desert Duration|Sorah
 2|Provence|Im 'corneum
 1|Jumper|Im 'corneum
 2|Ephemeral|Freezestyler & Starkiller
 2|Loopie|Im 'corneum
-3|Stop Over 2.0|N9mkOik
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -263,6 +263,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Spiders|Zerodin
 2|spy|Deeper
 2|Stop Over 1.0|N9mkOik
+3|Stop Over 2.0|N9mkOik
 4|Sunburst2|ŊØṼÅ
 2|Tee Legends 1|Bee & Alias
 2|Tee Legends 2|Bee & Alias
