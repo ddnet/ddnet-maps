@@ -149,7 +149,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Fly Lessons|Jeet
 5|Fly out of hell|Micro
 5|Fly to the Legends|nealson T'nP
-5|Fly to the Legends 2|nealson T'nP
+4|Fly to the Legends 2|nealson T'nP
 2|ForeverAlone|Delo
 2|GetSpeed|Konsti
 3|GetSpeed2|Konsti
