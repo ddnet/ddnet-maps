@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Genereatron|Themix
 3|aled|Kicker
 2|A Strange Dream|SUKA
 4|Ultranova|Themix
 2|Madrigal|»Slayer.
 5|Back in the sky|Silex
 1|Grandma|Fňokurka oo7
-3|Double Dragin|Soapy Sandwich
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -163,6 +163,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Don't Panic|MarvinProductions
 3|DoomWorld|Genex & Syltoox
 3|Doreos|Gianth
+3|Double Dragin|Soapy Sandwich
 1|DreamWorld|Silex
 2|Dynamic|Ante.
 5|Eclipsis|»Slayer. & Lilith
