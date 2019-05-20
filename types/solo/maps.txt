@@ -1,15 +1,13 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Solo Map" "random_map"
-$add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|kipling|Im 'corneum
 3|Canyon|Im 'corneum
 5|Memento mori|Starkiller
 2|Desert Duration|Sorah
 2|Provence|Im 'corneum
 1|Jumper|Im 'corneum
 2|Ephemeral|Freezestyler & Starkiller
-2|Loopie|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -203,8 +201,8 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Lonely Swim 9.0|Tuna
 2|Lonely Swim 9.1|Tuna
 2|Lonely Swim 9.2|Tuna
+2|Loopie|Im 'corneum
 1|Lucid Dream|-=TeK=- pikou
-4|Lunar Base|Blue
 4|Masquerade|Forris
 3|Maximum speed|BannZay
 4|Microlity|Micro
