@@ -3,6 +3,7 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Chill Let's Climb 3|Chill [TD]
 3|kipling|Im 'corneum
 3|Canyon|Im 'corneum
 5|Memento mori|Starkiller
