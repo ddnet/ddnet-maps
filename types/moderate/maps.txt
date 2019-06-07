@@ -3,14 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|Silk Touch|SUKA
 5|Tiji|Im 'corneum
 4|Pizza|SUKA
 5|The Swamp|fikmesån
 4|Dubush|тυx
 4|Crystal Maze|sorgaxD
 2|Stargazing|Silex
-3|Run Free|fikmesån
-3|Pharice 2|hi_leute_gll & Meliodafu
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -230,6 +229,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 4|Past|imp
 2|Peaceful Jungle|Themix
 4|Peaceful Jungle 2|Themix
+3|Pharice 2|hi_leute_gll & Meliodafu
 2|Piranha|Hindu
 1|Pisull|Evoli
 3|piViq|Satyr & Broken
@@ -253,6 +253,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 3|Resoren|Revelo
 3|Rivendell|hannibal & hi_leute_gll
 1|rizek|Fňokurka oo7
+3|Run Free|fikmesån
 4|Sabell|Evoli
 4|Sacred Source|Themix
 5|Seduction|Silex
