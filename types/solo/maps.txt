@@ -3,14 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Stop Over 3.0|N9mkOik
 2|Chill Let's Climb 3|Chill [TD]
 3|kipling|Im 'corneum
 3|Canyon|Im 'corneum
 5|Memento mori|Starkiller
 2|Desert Duration|Sorah
 2|Provence|Im 'corneum
-1|Jumper|Im 'corneum
-2|Ephemeral|Freezestyler & Starkiller
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -136,6 +135,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Dynasty|Cellegen
 4|Embrace|Deeper & Nyanto
 4|Enormous|Gambol
+2|Ephemeral|Freezestyler & Starkiller
 2|Equity [Easy]|Pipou & 645654
 4|Equity [Hard]|Pipou & 645654
 3|Escape|timakro & Chill [TD]
@@ -187,6 +187,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Iron Island|Im 'corneum
 3|It's Time|Stalker
 5|It'sYourDeath|nealson T'nP
+1|Jumper|Im 'corneum
 2|Jungle Run|Kintaro*
 3|JungleBee|Exotix
 4|Just_Shotgun|Aoe
