@@ -3,7 +3,7 @@ $add_vote "Random Insane Map" "random_map"
 $add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
-2|Springlobe 3|Themix
+1|Springlobe 3|Themix
 5|Heartcore II|Themix
 2|Ravillion|Themix
 3|Back in Time 2|Silex
