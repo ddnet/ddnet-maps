@@ -3,14 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|aled II|Kicker
 3|Stronghold 3|Pipou
 3|Genereatron|Themix
 3|aled|Kicker
 2|A Strange Dream|SUKA
 4|Ultranova|Themix
 2|Madrigal|»Slayer.
-5|Back in the sky|Silex
-1|Grandma|Fňokurka oo7
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -83,6 +82,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Back in the days|Silex
 3|Back in the days 2|Silex
 3|Back in the days 3|Silex
+5|Back in the sky|Silex
 4|Back in Time|Silex & StorмPʜöɴix
 4|Generica|Themix
 3|Genericore 1|Åmol
@@ -202,6 +202,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Goldmoon|Gianth
 1|Good Ol' Days|fikmesån
 1|Good Ol' Days 2|fikmesån & imp
+1|Grandma|Fňokurka oo7
 1|Grandpa|Fňokurka oo7
 1|Green Agony|Stalker
 5|Handifly|Aoe & Cloudly
