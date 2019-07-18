@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Pace|Im 'corneum
 5|Squadron|Tyga.
 3|Skychase 2|SickCunt
 3|Skyventure|archimede67
 2|Dummy Chamber 3|Im 'corneum
 2|Bomb Raid 2|DanilBest
 5|Injection 3|Themix
-2|Desert Dog|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -55,6 +55,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Darkvine|12vy
 4|DarkWorld|=xPeke=
 5|DeepDrag|Micro
+2|Desert Dog|Im 'corneum
 2|Destruction|Zerodin & Hindu
 3|Draxut|тυx
 3|Dreamland|StorмPʜöɴix

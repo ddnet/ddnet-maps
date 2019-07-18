@@ -9,7 +9,6 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|aled|Kicker
 2|A Strange Dream|SUKA
 4|Ultranova|Themix
-2|Madrigal|»Slayer.
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -239,6 +238,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Lucifer|Stalker
 1|LuckyStrike|LanuX & Hindu
 1|M&M|Maple & mikey12
+2|Madrigal|»Slayer.
 1|Memories|Fňokurka oo7
 2|Mines of Fear|Stalker
 5|Mirai|Ezio
