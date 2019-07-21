@@ -3,13 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Yun Gu|bit
 4|Silk Touch|SUKA
 5|Tiji|Im 'corneum
 4|Pizza|SUKA
 5|The Swamp|fikmesån
 4|Dubush|тυx
 4|Crystal Maze|sorgaxD
-2|Stargazing|Silex
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -278,6 +278,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 3|Sounds|Chill [TD]
 2|SpongeBob 3|KBeeeR
 3|Squidgy|timakro
+2|Stargazing|Silex
 2|SunDay|Gridwyn
 5|SunDay 2|Gridwyn
 5|SunDay 3|Gridwyn
