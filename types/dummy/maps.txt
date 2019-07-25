@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Stacked|Soapy Sandwich
 1|Pace|Im 'corneum
 5|Squadron|Tyga.
 3|Skychase 2|SickCunt
 3|Skyventure|archimede67
 2|Dummy Chamber 3|Im 'corneum
 2|Bomb Raid 2|DanilBest
-5|Injection 3|Themix
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -69,6 +69,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Greed|Kosho
 4|Injection|Themix
 4|Injection 2|Themix
+5|Injection 3|Themix
 3|Jazz Hands|Jimmy Jazz
 4|Jazz Hands 2|Jimmy Jazz
 3|Jelly|Pipou
