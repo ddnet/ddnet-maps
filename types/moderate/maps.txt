@@ -3,13 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|lumine|SUKA
 5|Yun Gu|bit
 4|Silk Touch|SUKA
 5|Tiji|Im 'corneum
 4|Pizza|SUKA
 5|The Swamp|fikmesån
 4|Dubush|тυx
-4|Crystal Maze|sorgaxD
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -118,6 +118,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 1|Crimson Woods|Pulsar & Ravie
 4|Cross|hannibal
 2|Cry|Hitomi
+4|Crystal Maze|sorgaxD
 0|CYO|=CuBe=
 5|DarkRoad|=Typhoon=
 3|Daunell|Evoli
