@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|Rush Clouds 2|bit
 3|Cequals3|maggi323
 5|Airnade Ultra|Syltoox
 2|Stop Over 3.0|N9mkOik
 2|Chill Let's Climb 3|Chill [TD]
 3|kipling|Im 'corneum
 3|Canyon|Im 'corneum
-5|Memento mori|Starkiller
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -210,6 +210,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Lucid Dream|-=TeK=- pikou
 4|Masquerade|Forris
 3|Maximum speed|BannZay
+5|Memento mori|Starkiller
 4|Microlity|Micro
 1|Mini Zero|Zerodin
 1|Mini Zero II|Zerodin
