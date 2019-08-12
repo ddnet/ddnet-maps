@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Cultist|SUKA & Reevie
 3|Stacked|Soapy Sandwich
 1|Pace|Im 'corneum
 5|Squadron|Tyga.
 3|Skychase 2|SickCunt
 3|Skyventure|archimede67
 2|Dummy Chamber 3|Im 'corneum
-2|Bomb Raid 2|DanilBest
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -48,6 +48,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Amazing Drags|Ninjed
 4|Anim|Im 'corneum
 2|Bomb Raid|DanilBest
+2|Bomb Raid 2|DanilBest
 1|Broken hammer|BannZay
 3|Dark Depth|Im 'corneum
 5|DarkSpy|Spyker
