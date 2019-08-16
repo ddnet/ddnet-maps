@@ -3,13 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Mount|Silex & Freezestyler
 5|lumine|SUKA
 5|Yun Gu|bit
 4|Silk Touch|SUKA
 5|Tiji|Im 'corneum
 4|Pizza|SUKA
 5|The Swamp|fikmesån
-4|Dubush|тυx
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -130,6 +130,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 3|DeathHook|Pandoru & =xPeke=
 4|Desoxyribonukleinsäure|Im 'corneum
 3|Doable|Skeptar
+4|Dubush|тυx
 3|Dummy 2|Nigel
 5|Dusty Road|Kintaro*
 4|Easy Edge|Zerodin
