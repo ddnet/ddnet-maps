@@ -3,6 +3,7 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|brainduck2|٭ıƞdex'<3 & Rapture
 4|aled II|Kicker
 3|Stronghold 3|Pipou
 3|Genereatron|Themix
