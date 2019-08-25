@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Vesper|Kero
 4|Rush Clouds 2|bit
 3|Cequals3|maggi323
 5|Airnade Ultra|Syltoox
 2|Stop Over 3.0|N9mkOik
 2|Chill Let's Climb 3|Chill [TD]
 3|kipling|Im 'corneum
-3|Canyon|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -110,6 +110,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 4|BrokeysChallenge|MaDLeX
 2|Brown Suger
 1|Bullet Master|fikmesån
+3|Canyon|Im 'corneum
 3|Catch the Colors|Dr.Dre
 4|Cave Fly|Im 'corneum
 1|Cavity|тυx
