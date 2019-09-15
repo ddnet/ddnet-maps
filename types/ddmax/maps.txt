@@ -82,7 +82,7 @@ $add_vote "Random DDmaX Map Unfinished by Vote Caller" "random_unfinished_map"
 2|DaMap|19michael95
 2|DaMap 2|19michael95
 2|Dark Rainbow|Creepster
-3|DARKness 1|KBeeeR
+2|DARKness 1|KBeeeR
 3|DARKness 2|KBeeeR
 4|DeadEnd|Bixes
 2|Deeve1|snife 2.0
@@ -269,7 +269,7 @@ $add_vote "Random DDmaX Map Unfinished by Vote Caller" "random_unfinished_map"
 4|DawnOfDust|estern
 5|Day|DiViNe
 4|DayWalker|SBL
-4|Dead Island|Draq & [*MC*]-DuBai-.?
+3|Dead Island|Draq & [*MC*]-DuBai-.?
 4|Deadline 1|Unreal
 4|Deadline 2|Unreal
 5|DeathClaw|estern

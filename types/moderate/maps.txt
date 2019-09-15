@@ -3,13 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|garden|SUKA
 2|Mount|Silex & Freezestyler
 5|lumine|SUKA
 5|Yun Gu|bit
 4|Silk Touch|SUKA
 5|Tiji|Im 'corneum
 4|Pizza|SUKA
-5|The Swamp|fikmesån
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -293,6 +293,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 3|The East Desert|Lumina & Sheep
 4|The Problem|Zerodin
 2|The Shire|hannibal & teddy
+5|The Swamp|fikmesån
 5|ThereIsNoTruth|[SN] Snoop! & Chill [TD]
 3|tihid|kickz
 3|Toadsquad|Vasten100
