@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Redefined|Knuski & archimede67
 3|brainduck2|٭ıƞdex'<3 & Rapture
 4|aled II|Kicker
 3|Stronghold 3|Pipou
 3|Genereatron|Themix
 3|aled|Kicker
 2|A Strange Dream|SUKA
-4|Ultranova|Themix
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -323,6 +323,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|TryThis|Skeptar
 1|ttgtgttg|m1c
 1|Tvyn|MarvinProductions
+4|Ultranova|Themix
 2|Unbalanced|Imperius
 3|Uncharted|Stalker
 1|Underground|Silex
