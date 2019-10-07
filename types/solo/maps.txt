@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Slide|Sorah
 2|Vesper|Kero
 4|Rush Clouds 2|bit
 3|Cequals3|maggi323
 5|Airnade Ultra|Syltoox
 2|Stop Over 3.0|N9mkOik
 2|Chill Let's Climb 3|Chill [TD]
-3|kipling|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -193,6 +193,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Jungle Run|Kintaro*
 3|JungleBee|Exotix
 4|Just_Shotgun|Aoe
+3|kipling|Im 'corneum
 2|Kobra 2 Solo|Zerodin
 2|Kobra 3 Solo|Zerodin
 2|Kobra 4 Solo|Zerodin
