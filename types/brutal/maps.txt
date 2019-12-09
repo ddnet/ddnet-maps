@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|w3na|Grk0ne
 2|Commandont|Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
 2|Yun Gu 2|bit
 1|milk|SUKA
 3|Redefined|Knuski & archimede67
 3|brainduck2|٭ıƞdex'<3 & Rapture
-4|aled II|Kicker
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -116,6 +116,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Aim 8.0|Aoe
 5|Airsky|Themix
 3|aled|Kicker
+4|aled II|Kicker
 1|Alive|tobu.
 2|All at the beginning|{E}{L}{I}{T}{E} & ÐæR
 2|allthewayup|jao
