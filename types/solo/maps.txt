@@ -157,7 +157,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 2|ForeverAlone|Delo
 2|GetSpeed|Konsti
 3|GetSpeed2|Konsti
-2|GHB_DDrace|ZarneXxX
+2|GHB_DDrace|Nieme
 4|ghbdtn|Gridwyn
 3|Gigabyte|Chak
 3|GLL|hi_leute_gll
