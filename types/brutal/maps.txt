@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Medium|Cøke & bit
 3|w3na|Grk0ne
 2|Commandont|Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
 2|Yun Gu 2|bit
 1|milk|SUKA
 3|Redefined|Knuski & archimede67
-3|brainduck2|٭ıƞdex'<3 & Rapture
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -141,6 +141,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Black&White|TyxpekCZ
 1|blur|Im 'corneum
 2|brainduck|٭ıƞdex'<3 & Rapture
+3|brainduck2|٭ıƞdex'<3 & Rapture
 1|Bumblebee|ΔWΞSƟΜΞ
 2|Burger|Waschlappen
 1|Cemetery|{E}{L}{I}{T}{E} & ٭ıƞdex'<3
