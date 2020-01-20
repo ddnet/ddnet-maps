@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Rest to Die|Im 'corneum
 3|Toe Taps|Soapy Sandwich
 2|SpoopyDrag|Im 'corneum
 2|balega|Ciniminix
 3|Cultist|SUKA & Reevie
 3|Stacked|Soapy Sandwich
 1|Pace|Im 'corneum
-5|Squadron|Tyga.
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -97,6 +97,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Samsara V|Meliodafu
 1|SkyFly|=xPeke=
 3|Skyventure|archimede67
+5|Squadron|Tyga.
 1|Stellar|Ravie
 2|TakeUrLuggage|Tuna & ٭ıƞdex'<3
 3|Target|Soapy Sandwich
