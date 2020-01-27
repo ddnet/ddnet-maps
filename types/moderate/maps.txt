@@ -3,6 +3,7 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|luminati|SUKA
 4|garden|SUKA
 2|Mount|Silex & Freezestyler
 5|lumine|SUKA
