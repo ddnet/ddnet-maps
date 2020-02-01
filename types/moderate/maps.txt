@@ -3,14 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|Moon Roar|Knuski
 5|luminati|SUKA
 4|garden|SUKA
 2|Mount|Silex & Freezestyler
 5|lumine|SUKA
 5|Yun Gu|bit
 4|Silk Touch|SUKA
-5|Tiji|Im 'corneum
-4|Pizza|SUKA
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -236,6 +235,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 2|Piranha|Hindu
 1|Pisull|Evoli
 3|piViq|Satyr & Broken
+4|Pizza|SUKA
 3|Plan A|Zerodin
 3|Plan B|Zerodin
 3|Plan C|Zerodin
@@ -297,6 +297,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 5|The Swamp|fikmesån
 5|ThereIsNoTruth|[SN] Snoop! & Chill [TD]
 3|tihid|kickz
+5|Tiji|Im 'corneum
 3|Toadsquad|Vasten100
 3|Top 2|mikey12
 4|Topsy Turvy|TheZyZya
