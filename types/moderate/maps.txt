@@ -3,13 +3,13 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Canyang|bit
 4|Moon Roar|Knuski
 5|luminati|SUKA
 4|garden|SUKA
 2|Mount|Silex & Freezestyler
 5|lumine|SUKA
 5|Yun Gu|bit
-4|Silk Touch|SUKA
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -65,6 +65,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 4|Cleopatra|fikmesån
 5|LazeAround|Suppe
 3|LazeAround2|Suppe
+4|Silk Touch|SUKA
 1|Weapons|Juandissimo & timakro
 
 ─── 5 PLAYER MAPS ───
