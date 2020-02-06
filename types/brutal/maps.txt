@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Gloominescence|purrp T
 1|Medium|Cøke & bit
 3|w3na|Grk0ne
 2|Commandont|Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
 2|Yun Gu 2|bit
 1|milk|SUKA
-3|Redefined|Knuski & archimede67
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -273,6 +273,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Punica|fokkonaut & Kayumi
 2|Radiation|LordMiLord
 2|Reckless|Pipou
+3|Redefined|Knuski & archimede67
 3|Regen|Gridwyn
 4|Regen 3|Gridwyn
 5|Relentless|Freezestyler & Starkiller
