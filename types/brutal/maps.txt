@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|Soap|Oblique & Jawsh
 1|Gloominescence|purrp T
 1|Medium|Cøke & bit
 3|w3na|Grk0ne
 2|Commandont|Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
 2|Yun Gu 2|bit
-1|milk|SUKA
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -246,6 +246,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 1|M&M|Maple & mikey12
 2|Madrigal|»Slayer.
 1|Memories|Fňokurka oo7
+1|milk|SUKA
 2|Mines of Fear|Stalker
 5|Mirai|Ezio
 1|mmips|spimm
