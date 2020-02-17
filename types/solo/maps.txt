@@ -3,6 +3,7 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Shooting Range|Im 'corneum & Soapy Sandwich
 2|Jungler|Cha
 2|Stop Over 4.0|N9mkOik
 3|combo II|BlaGK
