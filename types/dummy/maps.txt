@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|Legacy|Freezestyler
 2|Rest to Die|Im 'corneum
 3|Toe Taps|Soapy Sandwich
 2|SpoopyDrag|Im 'corneum
 2|balega|Ciniminix
 3|Cultist|SUKA & Reevie
 3|Stacked|Soapy Sandwich
-1|Pace|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -90,6 +90,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 3|noro|Im 'corneum
 3|NoTeleBro|Zerodin
 3|Onliner|Im 'corneum
+1|Pace|Im 'corneum
 4|Pataros|Skeptar & Exotix
 5|Relief|Ante.
 3|Repentance|BannZay
