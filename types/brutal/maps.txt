@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Next LvL|Cøke & Tridemy
 4|Soap|Oblique & Jawsh
 1|Gloominescence|purrp T
 1|Medium|Cøke & bit
 3|w3na|Grk0ne
 2|Commandont|Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
-2|Yun Gu 2|bit
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -352,4 +352,5 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Yoko 3.1|Hitomi & Saavik
 4|Yoko 4.1|Hitomi, Kintaro* & Saavik
 3|Yumizo|Ezio & Kayumi
+2|Yun Gu 2|bit
 1|Zoe|NeXus & jao
