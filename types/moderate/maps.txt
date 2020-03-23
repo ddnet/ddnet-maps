@@ -296,7 +296,6 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 4|The Problem|Zerodin
 2|The Shire|hannibal & teddy
 5|The Swamp|fikmesån
-5|ThereIsNoTruth|[SN] Snoop! & Chill [TD]
 3|tihid|kickz
 5|Tiji|Im 'corneum
 3|Toadsquad|Vasten100

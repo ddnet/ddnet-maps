@@ -313,6 +313,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|superway|Cøke & Saavik
 4|Synesthesia|Elephant
 5|Tatooine|Rapture & Gridwyn
+1|ThereIsNoTruth|[SN] Snoop! & Chill [TD]
 4|The Cursed Night|MaDLeX
 3|The Dream|Spyker
 2|The Joke|TheZyZya
