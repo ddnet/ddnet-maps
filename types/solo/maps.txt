@@ -3,14 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Sky High|louis & wauf
 1|Shooting Range|Im 'corneum & Soapy Sandwich
 2|Jungler|Cha
 2|Stop Over 4.0|N9mkOik
 3|combo II|BlaGK
 2|Slide|Sorah
 2|Vesper|Kero
-4|Rush Clouds 2|bit
-3|Cequals3|maggi323
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -116,6 +115,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Catch the Colors|Dr.Dre
 4|Cave Fly|Im 'corneum
 1|Cavity|тυx
+3|Cequals3|maggi323
 2|Cheepl|IRGNW
 2|Chill Let's Climb|Chill [TD]
 2|Chill Let's Climb 2|Chill [TD]
@@ -247,6 +247,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Rope swing|Mokuz
 2|run_guy_25|Kaestchen
 4|Rush Clouds|bit
+4|Rush Clouds 2|bit
 4|Safe Place|Blue
 2|selfdragger|Jeet
 2|Short Con|Broken
