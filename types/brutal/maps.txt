@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Mana|Genex
 3|Brosty|DarkOort
 2|Next LvL|Cøke & Tridemy
 4|Soap|Oblique & Jawsh
 1|Gloominescence|purrp T
 1|Medium|Cøke & bit
 3|w3na|Grk0ne
-2|Commandont|Soapy Sandwich
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -150,6 +150,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|ChillDontKill|ChillerDragon
 1|chiseled|Suppe
 1|claret-blue|Suppe
+2|Commandont|Soapy Sandwich
 5|Complex|MarvinProductions
 2|complic|Åmol
 3|Cucumber|Fňokurka oo7
@@ -313,7 +314,6 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|superway|Cøke & Saavik
 4|Synesthesia|Elephant
 5|Tatooine|Rapture & Gridwyn
-1|ThereIsNoTruth|[SN] Snoop! & Chill [TD]
 4|The Cursed Night|MaDLeX
 3|The Dream|Spyker
 2|The Joke|TheZyZya
@@ -323,6 +323,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|The Sewer|Aoe & SBL
 1|The Uns|Tuna
 3|The Way to the Hell|S.O.S
+1|ThereIsNoTruth|[SN] Snoop! & Chill [TD]
 3|Threesome|645654, Phacrum & cris
 2|Time Eater|imp
 2|Time to Switch|тυx
