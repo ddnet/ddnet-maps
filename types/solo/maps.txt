@@ -1,6 +1,6 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Solo Map" "random_map"
-$add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Map" "random_map"
+$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
 3|Sky High|louis & wauf
@@ -166,7 +166,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Golden_Evening|Gianth
 2|Gorou|Ryozuki
 3|Grand Shotgun|IRGNW
-3|Grid|»Slayer.
+3|Grid|Ban
 4|Grind|Jimmy Jazz
 1|Hardcore 2 Solo
 3|HDP_Gajos9|El Futuro

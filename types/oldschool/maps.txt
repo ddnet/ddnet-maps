@@ -1,6 +1,6 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Oldschool Map" "random_map"
-$add_vote "Random Oldschool Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Map" "random_map"
+$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
 4|Redneck Rampage|kostya

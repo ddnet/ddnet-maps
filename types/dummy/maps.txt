@@ -1,6 +1,6 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Dummy Map" "random_map"
-$add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Map" "random_map"
+$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
 3|noru|Im 'corneum
@@ -68,7 +68,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Equivalent Exchange 2|Ezio
 2|Escape from the Prison|IRGNW
 3|gendum|Im 'corneum
-4|GenericDrag|Skeptar & »Slayer.
+4|GenericDrag|Skeptar & Ban
 2|Greed|Kosho
 4|Injection|Themix
 4|Injection 2|Themix

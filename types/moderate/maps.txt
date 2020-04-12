@@ -1,6 +1,6 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Moderate Map" "random_map"
-$add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Map" "random_map"
+$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
 5|Canyang|bit
@@ -48,7 +48,7 @@ $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map
 4|Red Avenue|Bixes
 2|Sandland|Themix
 1|Slime|TyxpekCZ
-5|Sundara|»Slayer.
+5|Sundara|Ban
 2|Sunny Land|Themix
 3|Sunreal|Themix
 3|The Trip|Hindu

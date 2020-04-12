@@ -1,6 +1,6 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random DDmaX Map" "random_map"
-$add_vote "Random DDmaX Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Map" "random_map"
+$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── DDRACEMAX.EASY MAPS ───
 1|Back to the Roots 1|Bixes
