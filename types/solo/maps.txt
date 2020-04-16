@@ -166,7 +166,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Golden_Evening|Gianth
 2|Gorou|Ryozuki
 3|Grand Shotgun|IRGNW
-3|Grid|Ban
+3|Grid|Slayer
 4|Grind|Jimmy Jazz
 1|Hardcore 2 Solo
 3|HDP_Gajos9|El Futuro

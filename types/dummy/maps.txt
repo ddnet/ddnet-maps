@@ -68,7 +68,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Equivalent Exchange 2|Ezio
 2|Escape from the Prison|IRGNW
 3|gendum|Im 'corneum
-4|GenericDrag|Skeptar & Ban
+4|GenericDrag|Skeptar & Slayer
 2|Greed|Kosho
 4|Injection|Themix
 4|Injection 2|Themix

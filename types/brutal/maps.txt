@@ -3,7 +3,7 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
-3|Tenebris|Ban & Lilith
+3|Tenebris|Slayer & Lilith
 3|Mana|Genex
 3|Brosty|DarkOort
 2|Next LvL|Cøke & Tridemy
@@ -52,7 +52,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Rogue World|panik & RayB.
 3|Runaway|BlaGK
 3|Sand Dune|SickCunt
-5|Stay Alive|Ban
+5|Stay Alive|Slayer
 1|Stoned.|tobu. & Skeptar
 1|Stoned. 2|tobu.
 1|Supernova|SickCunt
@@ -175,7 +175,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Double Dragin|Soapy Sandwich
 1|DreamWorld|Silex
 2|Dynamic|Ante.
-5|Eclipsis|Ban & Lilith
+5|Eclipsis|Slayer & Lilith
 4|Ecstasy|Ante.
 3|Elitist|Cenarrius
 2|Elumite|{E}{L}{I}{T}{E} & Kayumi
@@ -247,7 +247,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Lucifer|Stalker
 1|LuckyStrike|LanuX & Hindu
 1|M&M|Maple & mikey12
-2|Madrigal|Ban
+2|Madrigal|Slayer
 1|Memories|Fňokurka oo7
 1|milk|SUKA
 2|Mines of Fear|Stalker
@@ -282,7 +282,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Regen 3|Gridwyn
 5|Relentless|Freezestyler & Starkiller
 1|Rema|Tira
-3|Revival|Ban & Lilith
+3|Revival|Slayer & Lilith
 3|Road to Rank 1|Brokecdx- & painn
 3|Roaming|mikey12
 4|Rockstar|Bixes

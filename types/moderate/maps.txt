@@ -48,7 +48,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Red Avenue|Bixes
 2|Sandland|Themix
 1|Slime|TyxpekCZ
-5|Sundara|Ban
+5|Sundara|Slayer
 2|Sunny Land|Themix
 3|Sunreal|Themix
 3|The Trip|Hindu
