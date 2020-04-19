@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|octotorp|Rovikko
 3|Tenebris|Slayer & Lilith
 3|Mana|Genex
 3|Brosty|DarkOort
 2|Next LvL|Cøke & Tridemy
 4|Soap|Oblique & Jawsh
 1|Gloominescence|purrp T
-1|Medium|Cøke & bit
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -248,6 +248,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 1|LuckyStrike|LanuX & Hindu
 1|M&M|Maple & mikey12
 2|Madrigal|Slayer
+1|Medium|Cøke & bit
 1|Memories|Fňokurka oo7
 1|milk|SUKA
 2|Mines of Fear|Stalker
