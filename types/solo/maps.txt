@@ -1,15 +1,15 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Map" "random_map"
-$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Solo Map" "random_map"
+$add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Jump Shooter|Sorah
 3|Sky High|louis & wauf
 1|Shooting Range|Im 'corneum & Soapy Sandwich
 2|Jungler|Cha
 2|Stop Over 4.0|N9mkOik
 3|combo II|BlaGK
 2|Slide|Sorah
-2|Vesper|Kero
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -309,6 +309,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Verification 7.2|Kintaro*
 4|Verification 9.0|estern
 4|Verification 9.1|estern
+2|Vesper|Kero
 2|VoidOfSpace|Alvin Risk
 3|WALL-E T|Alvin Risk & Åmol
 3|Weird Cave|Rapture & ٭ıƞdex'<3
