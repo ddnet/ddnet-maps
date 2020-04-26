@@ -1,15 +1,15 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Map" "random_map"
-$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Dummy Map" "random_map"
+$add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Try It|Ciniminix
 3|noru|Im 'corneum
 4|Legacy|Freezestyler
 2|Rest to Die|Im 'corneum
 3|Toe Taps|Soapy Sandwich
 2|SpoopyDrag|Im 'corneum
 2|balega|Ciniminix
-3|Cultist|SUKA & Reevie
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -51,6 +51,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Bomb Raid|DanilBest
 2|Bomb Raid 2|DanilBest
 1|Broken hammer|BannZay
+3|Cultist|SUKA & Reevie
 3|Dark Depth|Im 'corneum
 5|DarkSpy|Spyker
 5|DarkSpy 2|Spyker & iParano
