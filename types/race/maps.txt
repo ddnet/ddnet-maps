@@ -1,15 +1,15 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Map" "random_map"
-$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Race Map" "random_map"
+$add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|run_unbelievable|Cøke & Syltoox
 5|run_birming|Im 'corneum
 2|run_FreezyFly|Im 'corneum & Mc'zTyla'
 4|run_escape_the_darkness|SkizZ
 4|run_2Rockets|Arem Shin
 2|pr0-move|szyker
 2|run_4fikmesan|jao
-1|run_the_cure|fikmesån & jao
 
 ─── OTHER MAPS ───
 2|Aufnahmetest_AE|teetee
@@ -101,6 +101,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 2|run_stoned|Keks & zizou
 1|run_sunsetcave|SkizZ & Zatline
 2|run_tee|Sushi
+1|run_the_cure|fikmesån & jao
 2|run_the_rock|Keres
 4|run_three|borartr
 2|run_toxic_green|Popo
