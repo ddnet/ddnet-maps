@@ -3,6 +3,7 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|2 To Tango|Soapy Sandwich & stompie
 1|octotorp|Rovikko
 3|Tenebris|Slayer & Lilith
 3|Mana|Genex
