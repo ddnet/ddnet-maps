@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Entropy|Knuski
 2|Jump Shooter|Sorah
 3|Sky High|louis & wauf
 1|Shooting Range|Im 'corneum & Soapy Sandwich
 2|Jungler|Cha
 2|Stop Over 4.0|N9mkOik
 3|combo II|BlaGK
-2|Slide|Sorah
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -37,6 +37,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Rocket Challenge|Juandissimo
 3|Shotsky|Im 'corneum
 4|Sky Movement|Noved
+2|Slide|Sorah
 3|Summer Breeze|Bixes
 4|Sunburst|Skeptar & tobu.
 
