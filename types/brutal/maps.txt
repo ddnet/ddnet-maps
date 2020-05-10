@@ -3,14 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|Blood Moon|Genex & kill the tee
 2|2 To Tango|Soapy Sandwich & stompie
 1|octotorp|Rovikko
 3|Tenebris|Slayer & Lilith
 3|Mana|Genex
 3|Brosty|DarkOort
 2|Next LvL|Cøke & Tridemy
-4|Soap|Oblique & Jawsh
-1|Gloominescence|purrp T
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -206,6 +205,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 5|Generic Hell 2|Loop, Ezio & Kayumi
 1|GenericRush1|Trax & Hindu
 2|GG|Deeper
+1|Gloominescence|purrp T
 3|Gloomy Den|SBL
 4|Goldfield|YeahxX
 1|Goldmoon|Gianth
@@ -301,6 +301,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Skywalk|Gianth
 2|Sleepy|Ante.
 3|Sleepy 2|Ante.
+4|Soap|Oblique & Jawsh
 3|SolarStrike|Spyker
 3|Something|Ante. & Cøke
 5|Sooth|Michel
