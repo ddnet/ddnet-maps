@@ -1,18 +1,19 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Map" "random_map"
-$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Insane Map" "random_map"
+$add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Shawker|Shawn. & Spyker
 1|Springlobe 3|Themix
 5|Heartcore II|Themix
 2|Ravillion|Themix
 3|Back in Time 2|Silex
 5|Grim Reaper|Pulsar
 1|Nether|Tropo
-3|4u|Åmol
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
+3|4u|Åmol
 
 ─── OTHER MAPS ───
 5|Adrenaline 4|Silex
