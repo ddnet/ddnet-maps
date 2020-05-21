@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Jungle Rush|Trax & ReD
 3|Entropy|Knuski
 2|Jump Shooter|Sorah
 3|Sky High|louis & wauf
 1|Shooting Range|Im 'corneum & Soapy Sandwich
 2|Jungler|Cha
 2|Stop Over 4.0|N9mkOik
-3|combo II|BlaGK
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -123,6 +123,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Chill Let's Climb 3|Chill [TD]
 3|CHILLUMINATI|ChillerDragon
 4|Cloud Dreams|N9mkOik
+3|combo II|BlaGK
 3|CrashTV|Cellegen
 3|Croissant|artkis
 1|ctf5_solo|imp
