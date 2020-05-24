@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Samsara VI|Meliodafu
 2|Try It|Ciniminix
 3|noru|Im 'corneum
 4|Legacy|Freezestyler
 2|Rest to Die|Im 'corneum
 3|Toe Taps|Soapy Sandwich
 2|SpoopyDrag|Im 'corneum
-2|balega|Ciniminix
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -48,6 +48,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 5|Adragaline 2|Silex
 4|Amazing Drags|Ninjed
 4|Anim|Im 'corneum
+2|balega|Ciniminix
 2|Bomb Raid|DanilBest
 2|Bomb Raid 2|DanilBest
 1|Broken hammer|BannZay
