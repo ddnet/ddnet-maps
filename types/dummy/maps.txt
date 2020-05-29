@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Reflect|DarkOort
 2|Samsara VI|Meliodafu
 2|Try It|Ciniminix
 3|noru|Im 'corneum
 4|Legacy|Freezestyler
 2|Rest to Die|Im 'corneum
 3|Toe Taps|Soapy Sandwich
-2|SpoopyDrag|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -100,6 +100,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Samsara V|Meliodafu
 1|SkyFly|=xPeke=
 3|Skyventure|archimede67
+2|SpoopyDrag|Im 'corneum
 5|Squadron|Tyga.
 3|Stacked|Soapy Sandwich
 1|Stellar|Ravie

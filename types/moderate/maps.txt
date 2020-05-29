@@ -65,7 +65,6 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Cleopatra|fikmesån
 5|LazeAround|Suppe
 3|LazeAround2|Suppe
-4|Silk Touch|SUKA
 1|Weapons|Juandissimo & timakro
 
 ─── 5 PLAYER MAPS ───
@@ -265,6 +264,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Short|Delo
 4|Short Flight|Welf
 3|Short2|Delo
+4|Silk Touch|SUKA
 2|Simple World|<BµmM>
 2|Simple World 2|<BµmM>
 3|Simple World 3|<BµmM>
