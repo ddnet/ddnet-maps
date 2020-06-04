@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|cimininxi|Ciniminix
 4|Flow Fever|Qywinc & Themix
 4|Blood Moon|Genex & kill the tee
 2|2 To Tango|Soapy Sandwich & stompie
 1|octotorp|Rovikko
 3|Tenebris|Slayer & Lilith
 3|Mana|Genex
-3|Brosty|DarkOort
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -144,6 +144,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 1|blur|Im 'corneum
 2|brainduck|٭ıƞdex'<3 & Rapture
 3|brainduck2|٭ıƞdex'<3 & Rapture
+3|Brosty|DarkOort
 1|Bumblebee|ΔWΞSƟΜΞ
 2|Burger|Waschlappen
 1|Cemetery|{E}{L}{I}{T}{E} & ٭ıƞdex'<3
