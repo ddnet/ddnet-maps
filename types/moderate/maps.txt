@@ -1,15 +1,15 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Map" "random_map"
-$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Moderate Map" "random_map"
+$add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Casa der Merde|Im 'corneum
 5|Canyang|bit
 4|Moon Roar|Knuski
 5|luminati|SUKA
 4|garden|SUKA
 2|Mount|Silex & Freezestyler
 5|lumine|SUKA
-5|Yun Gu|bit
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -65,6 +65,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Cleopatra|fikmesån
 5|LazeAround|Suppe
 3|LazeAround2|Suppe
+4|Silk Touch|SUKA
 1|Weapons|Juandissimo & timakro
 
 ─── 5 PLAYER MAPS ───
@@ -264,7 +265,6 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Short|Delo
 4|Short Flight|Welf
 3|Short2|Delo
-4|Silk Touch|SUKA
 2|Simple World|<BµmM>
 2|Simple World 2|<BµmM>
 3|Simple World 3|<BµmM>
@@ -310,5 +310,6 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Vizur 2|Seba0006
 3|WEEDS|Scratchy <3
 3|Wrong Forest|Zerodin
+5|Yun Gu|bit
 1|Zaiross-Gores|Zaiross
 3|Zoroark|Zerodin
