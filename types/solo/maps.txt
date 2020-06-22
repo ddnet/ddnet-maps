@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Memoria|Starkiller
 2|Van Gogh|Deeper
 2|Jungle Rush|Trax & ReD
 3|Entropy|Knuski
 2|Jump Shooter|Sorah
 3|Sky High|louis & wauf
 1|Shooting Range|Im 'corneum & Soapy Sandwich
-2|Jungler|Cha
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -197,6 +197,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Jumper|Im 'corneum
 2|Jungle Run|Kintaro*
 3|JungleBee|Exotix
+2|Jungler|Cha
 4|Just_Shotgun|Aoe
 3|kipling|Im 'corneum
 2|Kobra 2 Solo|Zerodin
