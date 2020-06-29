@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|Yun Gu 3|bit
 2|cimininxi|Ciniminix
 4|Flow Fever|Qywinc & Themix
 4|Blood Moon|Genex & kill the tee
 2|2 To Tango|Soapy Sandwich & stompie
 1|octotorp|Rovikko
 3|Tenebris|Slayer & Lilith
-3|Mana|Genex
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -250,6 +250,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 1|LuckyStrike|LanuX & Hindu
 1|M&M|Maple & mikey12
 2|Madrigal|Slayer
+3|Mana|Genex
 1|Medium|Cøke & bit
 1|Memories|Fňokurka oo7
 1|milk|SUKA
