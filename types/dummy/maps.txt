@@ -43,7 +43,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 1|JustCopyFly|Vasten100
 2|RON|BannZay
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 5|Adragaline|Silex
 5|Adragaline 2|Silex
 4|Amazing Drags|Ninjed

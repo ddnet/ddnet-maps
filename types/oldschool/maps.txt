@@ -11,7 +11,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Zadrotos_final|Opana
 3|EaSy_HarD 4|Chak
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 1|1TeeMap
 1|AiP-Gores|Nieme
 1|Amor 1|Amor

@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+4|GetSpeed 3|Konsti
 5|Memoria|Starkiller
 2|Van Gogh|Deeper
 2|Jungle Rush|Trax & ReD
 3|Entropy|Knuski
 2|Jump Shooter|Sorah
 3|Sky High|louis & wauf
-1|Shooting Range|Im 'corneum & Soapy Sandwich
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -253,6 +253,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Rush Clouds 2|bit
 4|Safe Place|Blue
 2|selfdragger|Jeet
+1|Shooting Range|Im 'corneum & Soapy Sandwich
 2|Short Con|Broken
 2|Short Sky|S.O.S
 4|Shortgun|Cor

@@ -31,7 +31,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Ice Water|Ñı©Ø
 4|Little Forest|Kintaro*
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 4|(wasntme)|fikmesån & snailx3
 1|4Nubs|BamBam
 2|[School] Hammer|Hitomi

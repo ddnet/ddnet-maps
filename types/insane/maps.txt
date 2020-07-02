@@ -15,7 +15,7 @@ $add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
 1|4q|Åmol
 3|4u|Åmol
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 5|Adrenaline 4|Silex
 1|Adrenaline 4.1|Silex
 1|Adrenaline 4.2|Silex

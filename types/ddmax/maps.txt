@@ -378,6 +378,6 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 0|NUT_short_race6|Zeta-Hoernchen
 0|NUT_short_race7|Zeta-Hoernchen
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 2|NUT_race5|Zeta-Hoernchen
 2|Paranoia|Líme.ftw!

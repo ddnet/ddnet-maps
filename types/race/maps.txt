@@ -11,7 +11,7 @@ $add_vote "Random Race Map Unfinished by Vote Caller" "random_unfinished_map"
 2|pr0-move|szyker
 2|run_4fikmesan|jao
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 2|Aufnahmetest_AE|teetee
 2|climate-crisis|Kill Mik & Phönix92
 3|frustrainleave|r3tr0
