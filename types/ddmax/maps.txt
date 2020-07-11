@@ -88,7 +88,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Deeve1|snife 2.0
 2|Derpy 1|Evgesha
 2|Desert Pain|JeanneDark
-4|Desolation
+4|Desolation|BooNi
 3|Diamond|Baghira™
 4|Divinum V2|DiViNe
 2|double up|RosenVerkäufer
@@ -241,7 +241,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 4|21|645654 & maggi323
 5|Adrenaline 3|Silex
 3|Alpaga|Scratchy <3
-4|Ambrosia
+4|Ambrosia|BooNi
 3|Arcade|RosenVerkäufer
 3|Arcade 2|RosenVerkäufer
 4|AreaOfEffect|Aoe

@@ -95,7 +95,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Atmosphere|=CuBe= & =Typhoon=
 3|Aufnahmetest|Kintaro*
 3|Aufnahmetest 2|Kintaro*
-3|Aufnahmetest 3
+3|Aufnahmetest 3|Kintaro*
 3|Autumn Sky|Timbo & ٭ıƞdex'<3
 3|Awayza|Ama
 4|Birinci|Gridwyn

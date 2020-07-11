@@ -3,13 +3,13 @@ $add_vote "Random Dummy Map" "random_map"
 $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Aries|Starkiller
 3|Reflect|DarkOort
 2|Samsara VI|Meliodafu
 2|Try It|Ciniminix
 3|noru|Im 'corneum
 4|Legacy|Freezestyler
 2|Rest to Die|Im 'corneum
-3|Toe Taps|Soapy Sandwich
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -43,7 +43,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 1|JustCopyFly|Vasten100
 2|RON|BannZay
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 5|Adragaline|Silex
 5|Adragaline 2|Silex
 4|Amazing Drags|Ninjed
@@ -107,6 +107,7 @@ $add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
 2|TakeUrLuggage|Tuna & ٭ıƞdex'<3
 3|Target|Soapy Sandwich
 2|Tech|Seba0006 & Antro
+3|Toe Taps|Soapy Sandwich
 4|TomorrowLand|Skeptar & tobu.
 3|Tropical Drag|RayB.
 3|Ulver|Arcturus
