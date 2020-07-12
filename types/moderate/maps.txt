@@ -3,6 +3,7 @@ $add_vote "Random Moderate Map" "random_map"
 $add_vote "Random Moderate Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Patchwork|Cøke, Tridemy & Qywinc
 5|Casa der Merde|Im 'corneum
 5|Canyang|bit
 4|Moon Roar|Knuski
