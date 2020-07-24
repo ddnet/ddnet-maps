@@ -3,13 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Volt|louis
 4|GetSpeed 3|Konsti
 5|Memoria|Starkiller
 2|Van Gogh|Deeper
 2|Jungle Rush|Trax & ReD
 3|Entropy|Knuski
 2|Jump Shooter|Sorah
-3|Sky High|louis & wauf
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -261,6 +261,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Skepsis|Juandissimo, timakro & Soreu
 3|SkipIt|xPeke
 2|SkipIt2|=xPeke=
+3|Sky High|louis & wauf
 2|SkyCave|Delo
 3|SL1|LoLz
 3|Solo Future|Gridwyn
