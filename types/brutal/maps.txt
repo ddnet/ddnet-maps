@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Comeback|Welf
 4|Onyx|Cor
 4|Yun Gu 3|bit
 2|cimininxi|Ciniminix
 4|Flow Fever|Qywinc & Themix
 4|Blood Moon|Genex & kill the tee
 2|2 To Tango|Soapy Sandwich & stompie
-1|octotorp|Rovikko
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -275,6 +275,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Nucl|BannZay & Goran
 1|nullptr|Shishigami
 2|Nyanpasu|☆.Sυsнι♪
+1|octotorp|Rovikko
 1|Offpanic|Themix
 3|Pink Destiny|TyxpekCZ
 1|Pink Sky|Silex
