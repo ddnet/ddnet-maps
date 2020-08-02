@@ -3,19 +3,19 @@ $add_vote "Random Insane Map" "random_map"
 $add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Redefined 2|Knuski & archimede67
 1|Shawker|Shawn. & Spyker
 1|Springlobe 3|Themix
 5|Heartcore II|Themix
 2|Ravillion|Themix
 3|Back in Time 2|Silex
 5|Grim Reaper|Pulsar
-1|Nether|Tropo
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
 3|4u|Åmol
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 5|Adrenaline 4|Silex
 1|Adrenaline 4.1|Silex
 1|Adrenaline 4.2|Silex
@@ -33,6 +33,7 @@ $add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
 2|HellCore|MaDLeX
 1|Justice|DarkHeaven & Phacrum
 3|Justice 2|645654, Pipou & Phacrum
+1|Nether|Tropo
 2|New Generation|Feuerfaust Ace
 1|Regen 2|Gridwyn
 2|Resistance|Themix
