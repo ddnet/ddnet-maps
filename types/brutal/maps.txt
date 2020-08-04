@@ -3,13 +3,13 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Cerulean|Pulsar
 1|Comeback|Welf
 4|Onyx|Cor
 4|Yun Gu 3|bit
 2|cimininxi|Ciniminix
 4|Flow Fever|Qywinc & Themix
 4|Blood Moon|Genex & kill the tee
-2|2 To Tango|Soapy Sandwich & stompie
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -103,6 +103,7 @@ $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 ─── OTHER MAPS ───
 3|-JustDoIt-|Sky-Bear
 2|-SKY IVLAND-|Ama & Hitomi
+2|2 To Tango|Soapy Sandwich & stompie
 2|A Strange Dream|SUKA
 1|Acidate|BamBam
 4|Agony|TheZyZya & Juandissimo
