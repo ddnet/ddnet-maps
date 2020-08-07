@@ -1,15 +1,15 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Map" "random_map"
-$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Novice Map" "random_map"
+$add_vote "Random Novice Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Sunny Side Up|Ravie
 2|LearnToPlay|Tridemy & Cøke
 4|Geneque|Themix
 4|WTF|Im 'corneum & fikmesån
 4|Diamond Mine|<BµmM>
 4|Maui Wowie 2|RayB.
 3|Undrag2|Ninjed
-5|Blue Sapphire|jao
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -31,7 +31,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Ice Water|Ñı©Ø
 4|Little Forest|Kintaro*
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 4|(wasntme)|fikmesån & snailx3
 1|4Nubs|BamBam
 2|[School] Hammer|Hitomi
@@ -45,6 +45,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 1|Basics|.me'
 3|Batman|Ama
 3|benrace|Broken
+5|Blue Sapphire|jao
 4|BlueChaos|Zaiross
 1|CandyLand|fikmesån & Fňokurka oo7
 5|Careless|.me'
