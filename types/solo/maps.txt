@@ -3,14 +3,13 @@ $add_vote "Random Solo Map" "random_map"
 $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+2|Zap|Ravie
 2|The Dungeon|Pulsar
 1|Volt|louis
 4|GetSpeed 3|Konsti
 5|Memoria|Starkiller
 2|Van Gogh|Deeper
 2|Jungle Rush|Trax & ReD
-3|Entropy|Knuski
-2|Jump Shooter|Sorah
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -143,6 +142,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 3|Dynasty|Cellegen
 4|Embrace|Deeper & Nyanto
 4|Enormous|Gambol
+3|Entropy|Knuski
 2|Ephemeral|Freezestyler & Starkiller
 2|Equity [Easy]|Pipou & 645654
 4|Equity [Hard]|Pipou & 645654
@@ -195,6 +195,7 @@ $add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Iron Island|Im 'corneum
 3|It's Time|Stalker
 5|It'sYourDeath|nealson T'nP
+2|Jump Shooter|Sorah
 1|Jumper|Im 'corneum
 2|Jungle Run|Kintaro*
 3|JungleBee|Exotix
