@@ -3,6 +3,7 @@ $add_vote "Random Brutal Map" "random_map"
 $add_vote "Random Brutal Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+5|Behemoth|Pulsar & Ravie
 3|Polarity|Ravie
 2|Lotus|Ravie
 3|Cerulean|Pulsar
