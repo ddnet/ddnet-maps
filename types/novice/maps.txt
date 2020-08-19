@@ -3,13 +3,13 @@ $add_vote "Random Novice Map" "random_map"
 $add_vote "Random Novice Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+1|Tsunami|louis
 5|Orion|Pulsar
 3|Sunny Side Up|Ravie
 2|LearnToPlay|Tridemy & Cøke
 4|Geneque|Themix
 4|WTF|Im 'corneum & fikmesån
 4|Diamond Mine|<BµmM>
-4|Maui Wowie 2|RayB.
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -90,6 +90,7 @@ $add_vote "Random Novice Map Unfinished by Vote Caller" "random_unfinished_map"
 2|Lowcore|.me'
 5|MagiK|Kosho
 4|Maui Wowie|RayB.
+4|Maui Wowie 2|RayB.
 2|newbee|pixel
 3|Ovell|Evoli
 1|Pados 1|Pados
