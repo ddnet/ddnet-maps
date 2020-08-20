@@ -1,17 +1,17 @@
 $add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Map" "random_map"
-$add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
+$add_vote "Random Oldschool Map" "random_map"
+$add_vote "Random Oldschool Map Unfinished by Vote Caller" "random_unfinished_map"
 
 ─── NEW MAPS ───
+3|Tremor|TheZyZya
 4|Redneck Rampage|kostya
 2|Kovcheg|Opana & Kos5304
 2|Alaska|Crytek
 3|Blue|MaDLeX
 5|LichKing|Barsum & Arem Shin
 3|Zadrotos_final|Opana
-3|EaSy_HarD 4|Chak
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 1|1TeeMap
 1|AiP-Gores|Nieme
 1|Amor 1|Amor
@@ -40,6 +40,7 @@ $add_vote "Random Map Unfinished by Vote Caller" "random_unfinished_map"
 4|Divergence|Heaven & DarkHeaven
 3|Dust|NeoN & Fels
 2|Eagle Race Compilation|Eagle Clan
+3|EaSy_HarD 4|Chak
 2|Encore
 3|Endgame|TheZyZya
 2|Eruption|Captain & Unreal
