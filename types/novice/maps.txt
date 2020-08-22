@@ -1,7 +1,3 @@
-$add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Novice Map" "random_map"
-$add_vote "Random Novice Map Unfinished by Vote Caller" "random_unfinished_map"
-
 ─── NEW MAPS ───
 1|Tsunami|louis
 5|Orion|Pulsar

@@ -1,7 +1,3 @@
-$add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Dummy Map" "random_map"
-$add_vote "Random Dummy Map Unfinished by Vote Caller" "random_unfinished_map"
-
 ─── NEW MAPS ───
 2|Smash|Pulsar
 3|Aries|Starkiller

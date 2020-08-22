@@ -1,7 +1,3 @@
-$add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Solo Map" "random_map"
-$add_vote "Random Solo Map Unfinished by Vote Caller" "random_unfinished_map"
-
 ─── NEW MAPS ───
 3|Rapid|Pulsar
 2|Zap|Ravie

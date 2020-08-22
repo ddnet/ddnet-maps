@@ -1,7 +1,3 @@
-$add_vote "Make sure no one is racing before voting!" "info"
-$add_vote "Random Insane Map" "random_map"
-$add_vote "Random Insane Map Unfinished by Vote Caller" "random_unfinished_map"
-
 ─── NEW MAPS ───
 1|Redefined 2|Knuski & archimede67
 1|Shawker|Shawn. & Spyker
