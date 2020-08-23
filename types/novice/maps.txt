@@ -1,11 +1,15 @@
+$add_vote "Make sure no one is racing before voting!" "info"
+$add_vote "Random Novice Map" "random_map"
+$add_vote "Random Novice Map Unfinished by Vote Caller" "random_unfinished_map"
+
 ─── NEW MAPS ───
+1|4Beginners|Meliodafu
 1|Tsunami|louis
 5|Orion|Pulsar
 3|Sunny Side Up|Ravie
 2|LearnToPlay|Tridemy & Cøke
 4|Geneque|Themix
 4|WTF|Im 'corneum & fikmesån
-4|Diamond Mine|<BµmM>
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -51,6 +55,7 @@
 3|Cuboid|stompie & Soapy Sandwich
 3|Dark Moon|fikmesån
 4|DetrimentalFactor|Suppe
+4|Diamond Mine|<BµmM>
 5|Dry Lagoon|Welf
 2|Easy 1|Borup
 5|Empire Desp|Deeper
