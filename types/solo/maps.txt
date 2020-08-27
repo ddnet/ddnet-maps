@@ -1,12 +1,12 @@
+
 ─── NEW MAPS ───
+2|Leftovers 1|Im 'corneum
 3|Rapid|Pulsar
 2|Zap|Ravie
 2|The Dungeon|Pulsar
 1|Volt|louis
 4|GetSpeed 3|Konsti
 5|Memoria|Starkiller
-2|Van Gogh|Deeper
-2|Jungle Rush|Trax & ReD
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -195,6 +195,7 @@
 2|Jump Shooter|Sorah
 1|Jumper|Im 'corneum
 2|Jungle Run|Kintaro*
+2|Jungle Rush|Trax & ReD
 3|JungleBee|Exotix
 2|Jungler|Cha
 4|Just_Shotgun|Aoe
@@ -293,6 +294,7 @@
 5|Triplecan 2|Cøke
 2|Uniswim|Im 'corneum
 3|Universum 16|Neox & IRGNW
+2|Van Gogh|Deeper
 2|Verification 2|Cøke
 2|Verification 2.1|Cøke
 2|Verification 2.2|Cøke
