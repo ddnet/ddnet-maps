@@ -1,11 +1,12 @@
+
 ─── NEW MAPS ───
+3|Pounamu|Silex
 1|4Beginners|Meliodafu
 1|Tsunami|louis
 5|Orion|Pulsar
 3|Sunny Side Up|Ravie
 2|LearnToPlay|Tridemy & Cøke
 4|Geneque|Themix
-4|WTF|Im 'corneum & fikmesån
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -113,6 +114,7 @@
 3|Undrag2|Ninjed
 4|Vizur|Seba0006
 1|Water Lily|Fňokurka oo7
+4|WTF|Im 'corneum & fikmesån
 5|Xolla|Evoli
 2|ZeroX|Kosho
 
