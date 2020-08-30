@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Tangerine|Oblique
 3|Pounamu|Silex
 1|4Beginners|Meliodafu
 1|Tsunami|louis
 5|Orion|Pulsar
 3|Sunny Side Up|Ravie
 2|LearnToPlay|Tridemy & Cøke
-4|Geneque|Themix
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -60,6 +60,7 @@
 2|For Idiots 1|KBeeeR
 2|For Idiots 2|KBeeeR
 5|Future_Race|Prozzle
+4|Geneque|Themix
 3|GeRollA|Evoli
 3|GlassBox|Knight :3
 2|GlassBox 2|Knight :3
