@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Anima|ReD
 2|Leftovers 1|Im 'corneum
 3|Rapid|Pulsar
 2|Zap|Ravie
 2|The Dungeon|Pulsar
 1|Volt|louis
 4|GetSpeed 3|Konsti
-5|Memoria|Starkiller
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -219,6 +219,7 @@
 4|Masquerade|Forris
 3|Maximum speed|BannZay
 5|Memento mori|Starkiller
+5|Memoria|Starkiller
 4|Microlity|Micro
 1|Mini Zero|Zerodin
 1|Mini Zero II|Zerodin
