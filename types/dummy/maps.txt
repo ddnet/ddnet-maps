@@ -1,11 +1,12 @@
+
 ─── NEW MAPS ───
+2|Chacruna|fikmesån
 2|Smash|Pulsar
 3|Aries|Starkiller
 3|Reflect|DarkOort
 2|Samsara VI|Meliodafu
 2|Try It|Ciniminix
 3|noru|Im 'corneum
-4|Legacy|Freezestyler
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -77,6 +78,7 @@
 4|JungleRabies|[Nub]Wiesel
 2|Just Rocketfly 1|Mischga
 3|Just Rocketfly 2|Mischga
+4|Legacy|Freezestyler
 5|miA|Aoe
 3|Mina|Im 'corneum
 3|Momentum|Ravie
