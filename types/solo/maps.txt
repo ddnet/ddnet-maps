@@ -1,11 +1,12 @@
+
 ─── NEW MAPS ───
+2|Piston|louis
 2|Anima|ReD
 2|Leftovers 1|Im 'corneum
 3|Rapid|Pulsar
 2|Zap|Ravie
 2|The Dungeon|Pulsar
 1|Volt|louis
-4|GetSpeed 3|Konsti
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -157,6 +158,7 @@
 4|Fly to the Legends 2|nealson T'nP
 2|ForeverAlone|Delo
 2|GetSpeed|Konsti
+4|GetSpeed 3|Konsti
 3|GetSpeed2|Konsti
 2|GHB_DDrace|Nieme
 4|ghbdtn|Gridwyn
