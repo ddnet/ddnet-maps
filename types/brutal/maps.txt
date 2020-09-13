@@ -1,12 +1,12 @@
+
 ─── NEW MAPS ───
+4|Ton 2|FunCat
 5|Behemoth|Pulsar & Ravie
 3|Polarity|Ravie
 2|Lotus|Ravie
 3|Cerulean|Pulsar
 1|Comeback|Welf
 4|Onyx|Cor
-4|Yun Gu 3|bit
-2|cimininxi|Ciniminix
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -150,6 +150,7 @@
 2|Childs Play 1|ChuCky & GoJE GrEEN !
 3|ChillDontKill|ChillerDragon
 1|chiseled|Suppe
+2|cimininxi|Ciniminix
 1|claret-blue|Suppe
 2|Commandont|Soapy Sandwich
 5|Complex|MarvinProductions
@@ -365,4 +366,5 @@
 4|Yoko 4.1|Hitomi, Kintaro* & Saavik
 3|Yumizo|Ezio & Kayumi
 2|Yun Gu 2|bit
+4|Yun Gu 3|bit
 1|Zoe|NeXus & jao
