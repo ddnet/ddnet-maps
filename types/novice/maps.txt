@@ -1,11 +1,12 @@
+
 ─── NEW MAPS ───
+3|Inure|Savalic
 1|Tangerine|Oblique
 3|Pounamu|Silex
 1|4Beginners|Meliodafu
 1|Tsunami|louis
 5|Orion|Pulsar
 3|Sunny Side Up|Ravie
-2|LearnToPlay|Tridemy & Cøke
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -82,6 +83,7 @@
 1|Just2Easy|[A] Awesome
 4|Kaylite|{E}{L}{I}{T}{E} & Kayumi
 5|Kindergarten|Silex
+2|LearnToPlay|Tridemy & Cøke
 3|Light Grey|Lightbulb & ٭ıƞdex'<3
 3|Lonely|RayB.
 4|Looney|☆.Sυsнι♪

@@ -53,7 +53,6 @@
 ─── PUSH HOOK MAPS ───
 2|Killstreak 1|Tuna
 3|Killstreak 2|Tuna
-2|Push it|Welf
 
 ─── SPECIAL MAPS ───
 1|Care for your Time|dcgù
@@ -241,6 +240,7 @@
 1|Prison 1|AKc0RiZer
 2|Propagate|Element Finland
 2|Provence|Im 'corneum
+2|Push it|Welf
 3|Push it 2|Welf
 2|Puzzle Box|Soapy Sandwich
 2|Quick|Deeper
