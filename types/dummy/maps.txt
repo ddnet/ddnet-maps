@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Watch your time|Welf
 2|Chacruna|fikmesån
 2|Smash|Pulsar
 3|Aries|Starkiller
 3|Reflect|DarkOort
 2|Samsara VI|Meliodafu
 2|Try It|Ciniminix
-3|noru|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -88,6 +88,7 @@
 4|nora|Im 'corneum
 3|nore|Im 'corneum
 3|noro|Im 'corneum
+3|noru|Im 'corneum
 3|NoTeleBro|Zerodin
 3|Onliner|Im 'corneum
 1|Pace|Im 'corneum
