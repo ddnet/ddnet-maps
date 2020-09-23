@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+2|Beyond Dreams|QuiX
 3|Multeasymap
 3|Inure|Savalic
 1|Tangerine|Oblique
 3|Pounamu|Silex
 1|4Beginners|Meliodafu
 1|Tsunami|louis
-5|Orion|Pulsar
-3|Sunny Side Up|Ravie
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -93,6 +92,7 @@
 4|Maui Wowie|RayB.
 4|Maui Wowie 2|RayB.
 2|newbee|pixel
+5|Orion|Pulsar
 3|Ovell|Evoli
 1|Pados 1|Pados
 3|Pados 2|Pados
@@ -108,6 +108,7 @@
 3|Spüli|fikmesån
 1|StepByStep|[A] Awesome
 3|Sunlight|GolfaN
+3|Sunny Side Up|Ravie
 2|Take it noobly|Ñı©Ø
 3|TeeWorld|Zaiross
 3|Thor|Ama
