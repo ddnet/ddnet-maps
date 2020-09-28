@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Day Three|Vasten100
 5|Time Shop|Soapy Sandwich
 3|Snow Problem|Soapy Sandwich
 5|Patchwork|Cøke, Tridemy & Qywinc
 5|Casa der Merde|Im 'corneum
 5|Canyang|bit
 4|Moon Roar|Knuski
-5|luminati|SUKA
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -196,6 +196,7 @@
 3|Level|DiViNe
 3|Limitation|Chicken
 2|Little Adventure|Silex
+5|luminati|SUKA
 5|lumine|SUKA
 2|Lygerastia|Gianth
 2|mainstream|RaiNy
