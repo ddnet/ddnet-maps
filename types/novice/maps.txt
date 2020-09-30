@@ -1,7 +1,7 @@
 
 ─── NEW MAPS ───
 2|Beyond Dreams|QuiX
-3|Multeasymap
+5|Multeasymap
 3|Inure|Savalic
 1|Tangerine|Oblique
 3|Pounamu|Silex
@@ -131,7 +131,6 @@
 1|Koule 4|Intercity, Broken & Bee
 1|Koule 5|Intercity, Broken & Bee
 4|Koule 7|Intercity, Broken & Bee
-3|Multimap|TPaul
 5|Shadow|Deeper
 3|Skillz 1|Tvgucker
 3|Skillz 2|Tvgucker
