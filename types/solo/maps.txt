@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|ECHOR|Savalic
 2|Piston|louis
 2|Anima|ReD
 2|Leftovers 1|Im 'corneum
 3|Rapid|Pulsar
 2|Zap|Ravie
 2|The Dungeon|Pulsar
-1|Volt|louis
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -53,6 +53,7 @@
 ─── PUSH HOOK MAPS ───
 2|Killstreak 1|Tuna
 3|Killstreak 2|Tuna
+2|Push it|Welf
 
 ─── SPECIAL MAPS ───
 1|Care for your Time|dcgù
@@ -240,7 +241,6 @@
 1|Prison 1|AKc0RiZer
 2|Propagate|Element Finland
 2|Provence|Im 'corneum
-2|Push it|Welf
 3|Push it 2|Welf
 2|Puzzle Box|Soapy Sandwich
 2|Quick|Deeper
@@ -320,6 +320,7 @@
 4|Verification 9.1|estern
 2|Vesper|Kero
 2|VoidOfSpace|Alvin Risk
+1|Volt|louis
 3|WALL-E T|Alvin Risk & Åmol
 3|Weird Cave|Rapture & ٭ıƞdex'<3
 3|Where am I|Deeper
