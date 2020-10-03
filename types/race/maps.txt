@@ -1,13 +1,14 @@
+
 ─── NEW MAPS ───
+4|Euthanasia|ano :3
 5|run_unbelievable|Cøke & Syltoox
 5|run_birming|Im 'corneum
 2|run_FreezyFly|Im 'corneum & Mc'zTyla'
 4|run_escape_the_darkness|SkizZ
 4|run_2Rockets|Arem Shin
 2|pr0-move|szyker
-2|run_4fikmesan|jao
 
-─── OTHER MAPS ───
+─── OTHER MAPS ───
 2|Aufnahmetest_AE|teetee
 2|climate-crisis|Kill Mik & Phönix92
 3|frustrainleave|r3tr0
@@ -16,6 +17,7 @@
 1|pocramruinrun|Pocram
 5|run_2rocketstwo|Arem Shin
 1|run_4abydos|SkizZ
+2|run_4fikmesan|jao
 3|run_4lollipop|SkizZ
 2|run_4mystery|kickz
 2|run_4popi|sqx
