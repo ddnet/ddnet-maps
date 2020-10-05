@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|GuggPaloczi|Ciniminix
 4|Day Three|Vasten100
 5|Time Shop|Soapy Sandwich
 3|Snow Problem|Soapy Sandwich
 5|Patchwork|Cøke, Tridemy & Qywinc
 5|Casa der Merde|Im 'corneum
 5|Canyang|bit
-4|Moon Roar|Knuski
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -208,6 +208,7 @@
 4|Minimum|Knight :3
 5|minion|Anqel
 4|MonkeyDream 3|Gridwyn
+4|Moon Roar|Knuski
 3|moondrag|Shorefire
 3|MoonPie|Hindu
 4|Motherlode|SickCunt
