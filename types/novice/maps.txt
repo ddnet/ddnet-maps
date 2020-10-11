@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Linear|louis
 2|Beyond Dreams|QuiX
 5|Multeasymap
 3|Inure|Savalic
 1|Tangerine|Oblique
 3|Pounamu|Silex
 1|4Beginners|Meliodafu
-1|Tsunami|louis
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -115,6 +115,7 @@
 3|Threll|Evoli
 2|Top 1|mikey12
 3|Top 3|mikey12
+1|Tsunami|louis
 3|Undrag2|Ninjed
 4|Vizur|Seba0006
 1|Water Lily|Fňokurka oo7
