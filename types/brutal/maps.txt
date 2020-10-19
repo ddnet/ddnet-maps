@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Eliteenator|Cøke & Tridemy
 4|Ton 2|FunCat
 5|Behemoth|Pulsar & Ravie
 3|Polarity|Ravie
 2|Lotus|Ravie
 3|Cerulean|Pulsar
 1|Comeback|Welf
-4|Onyx|Cor
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -278,6 +278,7 @@
 2|Nyanpasu|☆.Sυsнι♪
 1|octotorp|Rovikko
 1|Offpanic|Themix
+4|Onyx|Cor
 3|Pink Destiny|TyxpekCZ
 1|Pink Sky|Silex
 1|Plaza|SBL
