@@ -110,6 +110,7 @@
 1|Miper 3|Miper
 1|Miper 4|Miper
 1|Miper 5|Miper
+1|Multimap|TPaul
 1|Orange 1|FunCat
 3|Paradise|sMo0g
 3|Paradise & Hell|Jamby
@@ -160,6 +161,3 @@
 3|Zadrotos 4|Opana
 3|Zadrotos 5|Opana
 3|Zadrotos_final|Opana
-
-─── OLD MAPS ───
-1|Multimap|TPaul
