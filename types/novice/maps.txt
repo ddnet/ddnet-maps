@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Sincera|ReD
 2|Linear|louis
 2|Beyond Dreams|QuiX
 5|Multeasymap
 3|Inure|Savalic
 1|Tangerine|Oblique
 3|Pounamu|Silex
-1|4Beginners|Meliodafu
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -30,6 +30,7 @@
 
 ─── OTHER MAPS ───
 4|(wasntme)|fikmesån & snailx3
+1|4Beginners|Meliodafu
 1|4Nubs|BamBam
 2|[School] Hammer|Hitomi
 2|[School] Hook|Hitomi
