@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|asterism|Savalic
 3|Eliteenator|Cøke & Tridemy
 4|Ton 2|FunCat
 5|Behemoth|Pulsar & Ravie
 3|Polarity|Ravie
 2|Lotus|Ravie
 3|Cerulean|Pulsar
-1|Comeback|Welf
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -152,6 +152,7 @@
 1|chiseled|Suppe
 2|cimininxi|Ciniminix
 1|claret-blue|Suppe
+1|Comeback|Welf
 2|Commandont|Soapy Sandwich
 5|Complex|MarvinProductions
 2|complic|Åmol
