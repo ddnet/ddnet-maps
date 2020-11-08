@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+1|moyu|bit
 2|UpNDown Coop|Vasten100
 4|GuggPaloczi|Ciniminix
 4|Day Three|Vasten100
 5|Time Shop|Soapy Sandwich
 3|Snow Problem|Soapy Sandwich
 5|Patchwork|Cøke, Tridemy & Qywinc
-5|Casa der Merde|Im 'corneum
-5|Canyang|bit
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -102,7 +101,9 @@
 3|Brony|Ama
 4|Brown|Stervella
 4|Bubbles|Megaman
+5|Canyang|bit
 2|Captain America|Ama
+5|Casa der Merde|Im 'corneum
 2|Castle|Ama
 3|Castle Lemongrab|RaiNy
 3|Caution|mikey12
