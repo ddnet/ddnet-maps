@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|For You|Ciniminix
 4|Sandanjuu|Lwai
 2|Roaming Ruins|Im 'corneum
 3|nugtohS|Meliodafu
 1|Watch your time|Welf
 2|Chacruna|fikmesån
 2|Smash|Pulsar
-3|Aries|Starkiller
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -45,6 +45,7 @@
 5|Adragaline 2|Silex
 4|Amazing Drags|Ninjed
 4|Anim|Im 'corneum
+3|Aries|Starkiller
 2|balega|Ciniminix
 2|Bomb Raid|DanilBest
 2|Bomb Raid 2|DanilBest
