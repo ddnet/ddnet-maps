@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|JP|Ama
 1|moyu|bit
 2|UpNDown Coop|Vasten100
 4|GuggPaloczi|Ciniminix
 4|Day Three|Vasten100
 5|Time Shop|Soapy Sandwich
 3|Snow Problem|Soapy Sandwich
-5|Patchwork|Cøke, Tridemy & Qywinc
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -234,6 +234,7 @@
 4|P2Z_Island|cris
 3|P2Z_Soar|cris
 4|Past|imp
+5|Patchwork|Cøke, Tridemy & Qywinc
 2|Peaceful Jungle|Themix
 4|Peaceful Jungle 2|Themix
 3|Pharice 2|hi_leute_gll & Meliodafu
