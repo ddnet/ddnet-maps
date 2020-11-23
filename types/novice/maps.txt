@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+4|Iris|fikmesån
 4|Harvest|louis
 4|Sincera|ReD
 2|Linear|louis
 2|Beyond Dreams|QuiX
 5|Multeasymap
 3|Inure|Savalic
-1|Tangerine|Oblique
-3|Pounamu|Silex
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -101,6 +100,7 @@
 3|Pados 3|Pados
 3|Petrified|Aras
 4|Planet Mercury|Aoe
+3|Pounamu|Silex
 3|Psyll|Evoli
 5|Seagulls|fikmesån
 1|Seasons|Knight :3
@@ -112,6 +112,7 @@
 3|Sunlight|GolfaN
 3|Sunny Side Up|Ravie
 2|Take it noobly|Ñı©Ø
+1|Tangerine|Oblique
 3|TeeWorld|Zaiross
 3|Thor|Ama
 3|Threll|Evoli
