@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Push Them|Welf
 1|JP|Ama
 1|moyu|bit
 2|UpNDown Coop|Vasten100
 4|GuggPaloczi|Ciniminix
 4|Day Three|Vasten100
 5|Time Shop|Soapy Sandwich
-3|Snow Problem|Soapy Sandwich
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -280,6 +280,7 @@
 3|SkiLLz|SkiLLz
 4|Sky Stone|Tropo
 3|Slow Santa|Ray
+3|Snow Problem|Soapy Sandwich
 4|Snowy Mountain|Sheep
 5|Soft|Ninjed
 2|SomewhereDistant|٭ıƞdex'<3
