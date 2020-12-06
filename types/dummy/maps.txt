@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Capricorn|Starkiller
 3|Rest to Die 2|Im 'corneum
 2|For You|Ciniminix
 4|Sandanjuu|Lwai
 2|Roaming Ruins|Im 'corneum
 3|nugtohS|Meliodafu
 1|Watch your time|Welf
-2|Chacruna|fikmesån
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -50,6 +50,7 @@
 2|Bomb Raid|DanilBest
 2|Bomb Raid 2|DanilBest
 1|Broken hammer|BannZay
+2|Chacruna|fikmesån
 3|Cultist|SUKA & Reevie
 3|Dark Depth|Im 'corneum
 5|DarkSpy|Spyker
