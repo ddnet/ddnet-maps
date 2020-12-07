@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Lavender Forest|Pipou
 4|Iris|fikmesån
 4|Harvest|louis
 4|Sincera|ReD
 2|Linear|louis
 2|Beyond Dreams|QuiX
 5|Multeasymap
-3|Inure|Savalic
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -77,6 +77,7 @@
 5|Homesick|Wesno
 3|Houll|Evoli
 4|Hulk|Ama
+3|Inure|Savalic
 3|IronMan|Ama
 3|Island Rush|Tuna
 2|It's Easy|Deeper
