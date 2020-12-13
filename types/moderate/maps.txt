@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Pyramids|Dr.Dre
 3|Push Them|Welf
 1|JP|Ama
 1|moyu|bit
 2|UpNDown Coop|Vasten100
 4|GuggPaloczi|Ciniminix
 4|Day Three|Vasten100
-5|Time Shop|Soapy Sandwich
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -304,6 +304,7 @@
 5|The Swamp|fikmesån
 3|tihid|kickz
 5|Tiji|Im 'corneum
+5|Time Shop|Soapy Sandwich
 3|Toadsquad|Vasten100
 3|Top 2|mikey12
 4|Topsy Turvy|TheZyZya
