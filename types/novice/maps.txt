@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Glade|WSike
 5|Lavender Forest|Pipou
 4|Iris|fikmesån
 4|Harvest|louis
 4|Sincera|ReD
 2|Linear|louis
 2|Beyond Dreams|QuiX
-5|Multeasymap
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -93,6 +93,7 @@
 5|MagiK|Kosho
 4|Maui Wowie|RayB.
 4|Maui Wowie 2|RayB.
+5|Multeasymap
 2|newbee|pixel
 5|Orion|Pulsar
 3|Ovell|Evoli
