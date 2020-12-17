@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Slide 2|Sorah
 4|entanglement|louis
 1|Putt Putt|Soapy Sandwich
 2|Gedan2|Vasten100
 3|ECHOR|Savalic
 2|Piston|louis
 2|Anima|ReD
-2|Leftovers 1|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -209,6 +209,7 @@
 3|LaserTag|LanuX
 3|Last Jump|Kosho
 3|Lawliet|☆.Sυsнι♪
+2|Leftovers 1|Im 'corneum
 4|Lifture|Cor
 2|Lonely Swim 3|Tuna
 1|Lonely Swim 4|Tuna
