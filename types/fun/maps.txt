@@ -1,11 +1,15 @@
-─── OTHER MAPS ───
+
+─── NEW MAPS ───
+0|MultiFAT|TPaul & Im 'corneum
+0|TeeTacToe|louis
 0|9gates|bit
-0|CookieCorporation|Delo
+0|LS10|Lady Saavik
+0|Time Calculator|Soapy Sandwich
+0|LS9|Lady Saavik
 0|Disabled|Im 'corneum
+
+─── OTHER MAPS ───
+0|CookieCorporation|Delo
 0|DontMove|=xPeke=
 0|Game City|imp
-0|LS9|Lady Saavik
-0|LS10|Lady Saavik
 0|Seagull City|imp
-0|TeeTacToe|louis
-0|Time Calculator|Soapy Sandwich
