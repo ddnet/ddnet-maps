@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Smolder|N9mkOik
 4|Capricorn|Starkiller
 3|Rest to Die 2|Im 'corneum
 2|For You|Ciniminix
 4|Sandanjuu|Lwai
 2|Roaming Ruins|Im 'corneum
 3|nugtohS|Meliodafu
-1|Watch your time|Welf
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -117,5 +117,6 @@
 3|Tropical Drag|RayB.
 2|Try It|Ciniminix
 3|Ulver|Arcturus
+1|Watch your time|Welf
 4|Yee|Im 'corneum
 3|Zonsa|Rod Slide
