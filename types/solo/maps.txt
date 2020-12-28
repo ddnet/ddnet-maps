@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|HighJump|Starkiller
 2|Slide 2|Sorah
 4|entanglement|louis
 1|Putt Putt|Soapy Sandwich
 2|Gedan2|Vasten100
 3|ECHOR|Savalic
 2|Piston|louis
-2|Anima|ReD
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -87,6 +87,7 @@
 3|Allround2|[A] Awesome
 2|Alpha|Kosho
 1|Anaphore|-=TeK=- pikou & Stridouille
+2|Anima|ReD
 3|Anoteex|Deeper
 3|Antrum|»Rogue.
 3|Atmosphere|=CuBe= & =Typhoon=
