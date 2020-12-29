@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Deino|WSike
 3|Glade|WSike
 5|Lavender Forest|Pipou
 4|Iris|fikmesån
 4|Harvest|louis
 4|Sincera|ReD
 2|Linear|louis
-2|Beyond Dreams|QuiX
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -43,6 +43,7 @@
 1|Basics|.me'
 3|Batman|Ama
 3|benrace|Broken
+2|Beyond Dreams|QuiX
 5|Blue Sapphire|jao
 4|BlueChaos|Zaiross
 1|CandyLand|fikmesån & Fňokurka oo7
