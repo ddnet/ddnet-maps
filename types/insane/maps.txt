@@ -1,12 +1,12 @@
+
 ─── NEW MAPS ───
+4|Aimateur|Aoe
 1|Not Naufrage 4|SickCunt & Feuerfaust Ace
 1|Redefined 2|Knuski & archimede67
 1|Shawker|Shawn. & Spyker
 1|Springlobe 3|Themix
 5|Heartcore II|Themix
 2|Ravillion|Themix
-3|Back in Time 2|Silex
-5|Grim Reaper|Pulsar
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -19,6 +19,7 @@
 3|Adrenaline 5|Silex & Pipou
 1|Aimazing|Aoe
 3|Aimlicious|Aoe
+3|Back in Time 2|Silex
 1|Binary|Pulsar
 2|Falling Down|Loop & Kayumi
 2|Firestone|Feuerfaust Ace
@@ -26,6 +27,7 @@
 1|Genericore 6|Åmol
 2|Genericore 8|Åmol
 3|Ghoul|☆.Sυsнι♪
+5|Grim Reaper|Pulsar
 3|Heartcore|Themix
 2|HellCore|MaDLeX
 1|Justice|DarkHeaven & Phacrum
