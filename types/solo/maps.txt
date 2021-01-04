@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Buckle Up|Pipou
 3|HighJump|Starkiller
 2|Slide 2|Sorah
 4|entanglement|louis
 1|Putt Putt|Soapy Sandwich
 2|Gedan2|Vasten100
 3|ECHOR|Savalic
-2|Piston|louis
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -240,6 +240,7 @@
 2|Old Style|Destoros
 1|OldschoolAdventure|.me'
 4|Pharoah|mikey12
+2|Piston|louis
 1|Prison 1|AKc0RiZer
 2|Propagate|Element Finland
 2|Provence|Im 'corneum
