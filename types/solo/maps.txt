@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Push it 3|Welf & Meliodafu
 1|Buckle Up|Pipou
 3|HighJump|Starkiller
 2|Slide 2|Sorah
 4|entanglement|louis
 1|Putt Putt|Soapy Sandwich
 2|Gedan2|Vasten100
-3|ECHOR|Savalic
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -138,6 +138,7 @@
 3|Duodecimo|Forris
 2|Dust's Leaf|IRGNW
 3|Dynasty|Cellegen
+3|ECHOR|Savalic
 4|Embrace|Deeper & Nyanto
 4|Enormous|Gambol
 3|Entropy|Knuski
