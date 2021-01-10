@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Pounamu 2|Silex
 4|Deino|WSike
 3|Glade|WSike
 5|Lavender Forest|Pipou
 4|Iris|fikmesån
 4|Harvest|louis
 4|Sincera|ReD
-2|Linear|louis
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -88,6 +88,7 @@
 5|Kindergarten|Silex
 2|LearnToPlay|Tridemy & Cøke
 3|Light Grey|Lightbulb & ٭ıƞdex'<3
+2|Linear|louis
 3|Lonely|RayB.
 4|Looney|☆.Sυsнι♪
 2|Lowcore|.me'
