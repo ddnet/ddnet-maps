@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Juma|Cøke
 2|Machine|Soapy Sandwich
 5|Smolder|N9mkOik
 4|Capricorn|Starkiller
 3|Rest to Die 2|Im 'corneum
 2|For You|Ciniminix
 4|Sandanjuu|Lwai
-2|Roaming Ruins|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -100,6 +100,7 @@
 5|Relief|Ante.
 3|Repentance|BannZay
 2|Rest to Die|Im 'corneum
+2|Roaming Ruins|Im 'corneum
 3|Samsara IV|Meliodafu
 2|Samsara V|Meliodafu
 2|Samsara VI|Meliodafu
