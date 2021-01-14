@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+3|Lobster Party|SUKA
 4|Arctic Frost|Silex, Im 'corneum & louis
 4|Wonderfully|yo bitch
 4|asterism|Savalic
 3|Eliteenator|Cøke & Tridemy
 4|Ton 2|FunCat
 5|Behemoth|Pulsar & Ravie
-3|Polarity|Ravie
-2|Lotus|Ravie
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -250,6 +249,7 @@
 2|Logics|aMu
 3|Looney [Extreme]|☆.Sυsнι♪
 1|lost_castle|Shorefire
+2|Lotus|Ravie
 2|Lucifer|Stalker
 1|LuckyStrike|LanuX & Hindu
 1|M&M|Maple & mikey12
@@ -285,6 +285,7 @@
 3|Pink Destiny|TyxpekCZ
 1|Pink Sky|Silex
 1|Plaza|SBL
+3|Polarity|Ravie
 2|Punica|fokkonaut & Kayumi
 2|Radiation|LordMiLord
 2|Reckless|Pipou
