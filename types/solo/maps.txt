@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|acq|louis
 2|Push it 3|Welf & Meliodafu
 1|Buckle Up|Pipou
 3|HighJump|Starkiller
 2|Slide 2|Sorah
 4|entanglement|louis
 1|Putt Putt|Soapy Sandwich
-2|Gedan2|Vasten100
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -159,6 +159,7 @@
 5|Fly to the Legends|nealson T'nP
 4|Fly to the Legends 2|nealson T'nP
 2|ForeverAlone|Delo
+2|Gedan2|Vasten100
 2|GetSpeed|Konsti
 4|GetSpeed 3|Konsti
 3|GetSpeed2|Konsti
