@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Eventide|Silex
 4|Pounamu 2|Silex
 4|Deino|WSike
 3|Glade|WSike
 5|Lavender Forest|Pipou
 4|Iris|fikmesån
 4|Harvest|louis
-4|Sincera|ReD
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -109,6 +109,7 @@
 5|Seagulls|fikmesån
 1|Seasons|Knight :3
 5|Senani|Åmol
+4|Sincera|ReD
 3|Sopella|Evoli
 3|Sorrow|Knight :3
 3|Spüli|fikmesån
