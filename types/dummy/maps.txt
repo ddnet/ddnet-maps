@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Drip Dry|Im 'corneum
 4|Juma|Cøke
 2|Machine|Soapy Sandwich
 5|Smolder|N9mkOik
 4|Capricorn|Starkiller
 3|Rest to Die 2|Im 'corneum
 2|For You|Ciniminix
-4|Sandanjuu|Lwai
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -104,6 +104,7 @@
 3|Samsara IV|Meliodafu
 2|Samsara V|Meliodafu
 2|Samsara VI|Meliodafu
+4|Sandanjuu|Lwai
 1|SkyFly|=xPeke=
 3|Skyventure|archimede67
 2|Smash|Pulsar
