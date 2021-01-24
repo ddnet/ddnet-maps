@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|pedeuliar|BooNi
 4|Aimateur|Aoe
 1|Not Naufrage 4|SickCunt & Feuerfaust Ace
 1|Redefined 2|Knuski & archimede67
 1|Shawker|Shawn. & Spyker
 1|Springlobe 3|Themix
 5|Heartcore II|Themix
-2|Ravillion|Themix
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -34,6 +34,7 @@
 3|Justice 2|645654, Pipou & Phacrum
 1|Nether|Tropo
 2|New Generation|Feuerfaust Ace
+2|Ravillion|Themix
 1|Regen 2|Gridwyn
 2|Resistance|Themix
 1|Shockwave|Konsti
