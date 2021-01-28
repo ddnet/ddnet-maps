@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|SimpleBLocks|SBL
 3|Lobster Party|SUKA
 4|Arctic Frost|Silex, Im 'corneum & louis
 4|Wonderfully|yo bitch
 4|asterism|Savalic
 3|Eliteenator|Cøke & Tridemy
 4|Ton 2|FunCat
-5|Behemoth|Pulsar & Ravie
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -132,6 +132,7 @@
 5|Atomic|Kayumi
 3|Baguette|artkis
 2|Barren|Pulsar
+5|Behemoth|Pulsar & Ravie
 1|Behind the Darkua|GoJE GrEEN ! & Chicken
 5|Between the Heavens|Neverbloom & Chill [TD]
 2|Big Sun|Spyker
