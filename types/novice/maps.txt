@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Firewatch|QuiX
 3|Eventide|Silex
 4|Pounamu 2|Silex
 4|Deino|WSike
 3|Glade|WSike
 5|Lavender Forest|Pipou
 4|Iris|fikmesån
-4|Harvest|louis
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -75,6 +75,7 @@
 1|Gold Mine|<BµmM>
 2|GreenAde|zio
 2|Halloween Night|fikmesån
+4|Harvest|louis
 5|Homesick|Wesno
 3|Houll|Evoli
 4|Hulk|Ama
