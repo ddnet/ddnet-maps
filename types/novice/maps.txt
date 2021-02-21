@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Sincera 2|ReD
 3|Firewatch|QuiX
 3|Eventide|Silex
 4|Pounamu 2|Silex
 4|Deino|WSike
 3|Glade|WSike
 5|Lavender Forest|Pipou
-4|Iris|fikmesån
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -80,6 +80,7 @@
 3|Houll|Evoli
 4|Hulk|Ama
 3|Inure|Savalic
+4|Iris|fikmesån
 3|IronMan|Ama
 3|Island Rush|Tuna
 2|It's Easy|Deeper
