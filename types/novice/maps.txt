@@ -97,7 +97,7 @@
 5|MagiK|Kosho
 4|Maui Wowie|RayB.
 4|Maui Wowie 2|RayB.
-5|Multeasymap|Cøke, Tridemy & Welf
+5|Multeasymap|Cøke, Tridemy, Welf & TPaul
 2|newbee|pixel
 5|Orion|Pulsar
 3|Ovell|Evoli
