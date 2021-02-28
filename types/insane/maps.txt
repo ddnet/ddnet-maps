@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|New Generation II|Feuerfaust Ace
 3|pedeuliar|BooNi
 4|Aimateur|Aoe
 1|Not Naufrage 4|SickCunt & Feuerfaust Ace
 1|Redefined 2|Knuski & archimede67
 1|Shawker|Shawn. & Spyker
 1|Springlobe 3|Themix
-5|Heartcore II|Themix
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -29,6 +29,7 @@
 3|Ghoul|☆.Sυsнι♪
 5|Grim Reaper|Pulsar
 3|Heartcore|Themix
+5|Heartcore II|Themix
 2|HellCore|MaDLeX
 1|Justice|DarkHeaven & Phacrum
 3|Justice 2|645654, Pipou & Phacrum
