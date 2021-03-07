@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Slak|Cøke & Tridemy
 3|airtemple|Im 'corneum
 2|acq|louis
 2|Push it 3|Welf & Meliodafu
 1|Buckle Up|Pipou
 3|HighJump|Starkiller
 2|Slide 2|Sorah
-4|entanglement|louis
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -141,6 +141,7 @@
 3|ECHOR|Savalic
 4|Embrace|Deeper & Nyanto
 4|Enormous|Gambol
+4|entanglement|louis
 3|Entropy|Knuski
 2|Ephemeral|Freezestyler & Starkiller
 2|Equity [Easy]|Pipou & 645654
