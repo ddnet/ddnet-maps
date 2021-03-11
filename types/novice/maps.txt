@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Fiji|WSike
 5|Sincera 2|ReD
 3|Firewatch|QuiX
 3|Eventide|Silex
 4|Pounamu 2|Silex
 4|Deino|WSike
 3|Glade|WSike
-5|Lavender Forest|Pipou
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -88,6 +88,7 @@
 1|Just2Easy|[A] Awesome
 4|Kaylite|{E}{L}{I}{T}{E} & Kayumi
 5|Kindergarten|Silex
+5|Lavender Forest|Pipou
 2|LearnToPlay|Tridemy & Cøke
 3|Light Grey|Lightbulb & ٭ıƞdex'<3
 2|Linear|louis
