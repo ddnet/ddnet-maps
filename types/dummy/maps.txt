@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Gummy|Genex
 3|a_u|wauf
 2|Fallen Fortress|Im 'corneum
 3|Drip Dry|Im 'corneum
 4|Juma|Cøke
 2|Machine|Soapy Sandwich
 5|Smolder|N9mkOik
-4|Capricorn|Starkiller
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -50,6 +50,7 @@
 2|Bomb Raid|DanilBest
 2|Bomb Raid 2|DanilBest
 1|Broken hammer|BannZay
+4|Capricorn|Starkiller
 2|Chacruna|fikmesån
 3|Cultist|SUKA & Reevie
 3|Dark Depth|Im 'corneum
