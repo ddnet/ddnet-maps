@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Decipher|Knuski & Ɍøηɋȵ
 5|Fiji|WSike
 5|Sincera 2|ReD
 3|Firewatch|QuiX
 3|Eventide|Silex
 4|Pounamu 2|Silex
 4|Deino|WSike
-3|Glade|WSike
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -64,6 +64,7 @@
 5|Future_Race|Prozzle
 4|Geneque|Themix
 3|GeRollA|Evoli
+3|Glade|WSike
 3|GlassBox|Knight :3
 2|GlassBox 2|Knight :3
 2|GlassBox 3|Knight :3
