@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Essential|texnonik
 3|Gummy|Genex
 3|a_u|wauf
 2|Fallen Fortress|Im 'corneum
 3|Drip Dry|Im 'corneum
 4|Juma|Cøke
 2|Machine|Soapy Sandwich
-5|Smolder|N9mkOik
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -111,6 +111,7 @@
 1|SkyFly|=xPeke=
 3|Skyventure|archimede67
 2|Smash|Pulsar
+5|Smolder|N9mkOik
 2|SpoopyDrag|Im 'corneum
 5|Squadron|Tyga.
 3|Stacked|Soapy Sandwich
