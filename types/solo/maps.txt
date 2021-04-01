@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Push it 4|Welf
 4|Slak|Cøke & Tridemy
 3|airtemple|Im 'corneum
 2|acq|louis
 2|Push it 3|Welf & Meliodafu
 1|Buckle Up|Pipou
 3|HighJump|Starkiller
-2|Slide 2|Sorah
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -274,6 +274,7 @@
 3|Sky High|louis & wauf
 2|SkyCave|Delo
 3|SL1|LoLz
+2|Slide 2|Sorah
 3|Solo Future|Gridwyn
 2|Solo Power|Power
 2|solo_castle|Hallowed1986
