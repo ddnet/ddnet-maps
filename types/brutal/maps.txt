@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Blue Fox|Zweitleben
 4|Stormwind|DarkOort & rezee
 4|Moonshine|QuiX
 4|Unbalanced 2|Imperius
 2|SimpleBLocks|SBL
 3|Lobster Party|SUKA
 4|Arctic Frost|Silex, Im 'corneum & louis
-4|Wonderfully|yo bitch
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -367,6 +367,7 @@
 3|Wave|Con.'
 5|whitehell|ElysianDevil & Mischga
 4|Winter Is Coming|»Rogue., ÐæR & !XeNoN!
+4|Wonderfully|yo bitch
 4|WoodDivision V|Men of Steel
 4|Wour Forlds|Themix
 2|Yoko 1.1|Hitomi
