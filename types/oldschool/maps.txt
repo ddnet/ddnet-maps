@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|-273|-273°C
 2|Predator 1|Ama & Tvgucker
 3|FreeDoom2|???
 3|Tremor|TheZyZya
 4|Redneck Rampage|kostya
 2|Kovcheg|Opana & Kos5304
 2|Alaska|Crytek
-3|Blue|MaDLeX
 
 ─── OTHER MAPS ───
 1|1TeeMap
@@ -17,6 +17,7 @@
 1|Atticus Compilation|Scratchy <3
 3|Baber|Zikkie & LordMiLord
 2|bBzZ!!|KillA
+3|Blue|MaDLeX
 3|Bush|Kintaro*
 2|Castoreum|Ezio & Stalker
 4|City of Death|Black-_-lotus & Jo0
