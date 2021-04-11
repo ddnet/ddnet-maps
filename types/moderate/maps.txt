@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Qianye|bit
 3|Olymp|StorмPʜöɴix
 4|Pyramids|Dr.Dre
 3|Push Them|Welf
 1|JP|Ama
 1|moyu|bit
 2|UpNDown Coop|Vasten100
-4|GuggPaloczi|Ciniminix
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -167,6 +167,7 @@
 3|Golden|mikey12
 3|Grace|Tuna
 2|Green Race|Themix
+4|GuggPaloczi|Ciniminix
 5|Guhimbarwa|maggi323
 4|HeartOfMoon|SBL & Haberginte
 2|Heaven|Captain & DiViNe
