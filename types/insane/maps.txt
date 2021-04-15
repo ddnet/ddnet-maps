@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|1AndOnLyLife|Lenah
 3|New Generation II|Feuerfaust Ace
 3|pedeuliar|BooNi
 4|Aimateur|Aoe
 1|Not Naufrage 4|SickCunt & Feuerfaust Ace
 1|Redefined 2|Knuski & archimede67
 1|Shawker|Shawn. & Spyker
-1|Springlobe 3|Themix
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -39,6 +39,7 @@
 1|Regen 2|Gridwyn
 2|Resistance|Themix
 1|Shockwave|Konsti
+1|Springlobe 3|Themix
 3|Tatooine 2|Gridwyn & Rapture
 1|The Enchanted Clearing|MaDLeX
 1|Ton|FunCat
