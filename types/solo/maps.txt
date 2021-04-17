@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+5|Examinus|Starkiller
 1|Moventer|Themix
 2|Push it 4|Welf
 4|Slak|Cøke & Tridemy
 3|airtemple|Im 'corneum
 2|acq|louis
 2|Push it 3|Welf & Meliodafu
-1|Buckle Up|Pipou
-3|HighJump|Starkiller
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -110,6 +109,7 @@
 3|Broken space|dinner & BannZay
 4|BrokeysChallenge|MaDLeX
 2|Brown Suger
+1|Buckle Up|Pipou
 1|Bullet Master|fikmesån
 3|Canyon|Im 'corneum
 3|Catch the Colors|Dr.Dre
@@ -184,6 +184,7 @@
 2|Hell-time|Ñı©Ø
 3|Heraconx|{E}{L}{I}{T}{E}
 3|Hermit|»Rogue.
+3|HighJump|Starkiller
 4|Hitode|☆.Sυsнι♪
 2|Hollywood Undead|Ezio
 4|Honkstar|Honky_Tonk_Man
