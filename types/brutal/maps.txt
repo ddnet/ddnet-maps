@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|DoomWorld II|Genex & Syltoox
 3|Blue Fox|Zweitleben
 4|Stormwind|DarkOort & rezee
 4|Moonshine|QuiX
 4|Unbalanced 2|Imperius
 2|SimpleBLocks|SBL
 3|Lobster Party|SUKA
-4|Arctic Frost|Silex, Im 'corneum & louis
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -128,6 +128,7 @@
 1|Arabic Night|Åmol & Gambol
 2|Arcadian|Jimmy Jazz & Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
+4|Arctic Frost|Silex, Im 'corneum & louis
 4|asterism|Savalic
 4|At Sundown|*WuDL*
 5|Atomic|Kayumi
