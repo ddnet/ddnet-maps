@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Moonlight|FeaRZ
 5|Decipher|Knuski & Ɍøηɋȵ
 5|Fiji|WSike
 5|Sincera 2|ReD
 3|Firewatch|QuiX
 3|Eventide|Silex
 4|Pounamu 2|Silex
-4|Deino|WSike
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -53,6 +53,7 @@
 4|Cool|Welf
 3|Cuboid|stompie & Soapy Sandwich
 3|Dark Moon|fikmesån
+4|Deino|WSike
 4|DetrimentalFactor|Suppe
 4|Diamond Mine|<BµmM>
 5|Dry Lagoon|Welf
