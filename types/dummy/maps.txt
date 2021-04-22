@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Hondrag|Knuski
 3|oldpath|Im 'corneum
 2|Essential|texnonik
 3|Gummy|Genex
 3|a_u|wauf
 2|Fallen Fortress|Im 'corneum
 3|Drip Dry|Im 'corneum
-4|Juma|Cøke
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -79,6 +79,7 @@
 3|Jazz Hands|Jimmy Jazz
 4|Jazz Hands 2|Jimmy Jazz
 3|Jelly|Pipou
+4|Juma|Cøke
 4|JungleRabies|[Nub]Wiesel
 2|Just Rocketfly 1|Mischga
 3|Just Rocketfly 2|Mischga
