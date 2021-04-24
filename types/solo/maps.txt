@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Schwung|ReD
 5|Exanimus|Starkiller
 1|Moventer|Themix
 2|Push it 4|Welf
 4|Slak|Cøke & Tridemy
 3|airtemple|Im 'corneum
 2|acq|louis
-2|Push it 3|Welf & Meliodafu
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -250,6 +250,7 @@
 2|Propagate|Element Finland
 2|Provence|Im 'corneum
 3|Push it 2|Welf
+2|Push it 3|Welf & Meliodafu
 1|Putt Putt|Soapy Sandwich
 2|Puzzle Box|Soapy Sandwich
 2|Quick|Deeper
