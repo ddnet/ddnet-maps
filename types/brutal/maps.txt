@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Wonderfully2|yo bitch
 4|DoomWorld II|Genex & Syltoox
 3|Blue Fox|Zweitleben
 4|Stormwind|DarkOort & rezee
 4|Moonshine|QuiX
 4|Unbalanced 2|Imperius
 2|SimpleBLocks|SBL
-3|Lobster Party|SUKA
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -250,6 +250,7 @@
 5|likeOldschool|Chill [TD]
 3|Lil Jungle|SBL
 3|Limba|Gianth
+3|Lobster Party|SUKA
 2|Logics|aMu
 3|Looney [Extreme]|☆.Sυsнι♪
 1|lost_castle|Shorefire
