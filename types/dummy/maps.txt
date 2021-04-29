@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|c|louis
 3|Hondrag|Knuski
 3|oldpath|Im 'corneum
 2|Essential|texnonik
 3|Gummy|Genex
 3|a_u|wauf
 2|Fallen Fortress|Im 'corneum
-3|Drip Dry|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -64,6 +64,7 @@
 3|Draxut|тυx
 3|Dreamland|StorмPʜöɴix
 2|drg5|Im 'corneum
+3|Drip Dry|Im 'corneum
 2|Dummy Chamber 3|Im 'corneum
 3|DuNoMa|Arcturus
 4|Equivalent Exchange|Ezio
