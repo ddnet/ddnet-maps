@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|mood|neverminze
 1|Schwung|ReD
 5|Exanimus|Starkiller
 1|Moventer|Themix
 2|Push it 4|Welf
 4|Slak|Cøke & Tridemy
 3|airtemple|Im 'corneum
-2|acq|louis
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -79,6 +79,7 @@
 2|2of4|Chill [TD]
 2|3of4|Chill [TD]
 2|4of4|Chill [TD]
+2|acq|louis
 3|Agile|Jimmy Jazz
 3|AIB Quest 1|Pipou
 3|AIB Quest 2|Pipou
