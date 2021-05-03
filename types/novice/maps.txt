@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Sketch|Ravie
 3|Moonlight|FeaRZ
 5|Decipher|Knuski & Ɍøηɋȵ
 5|Fiji|WSike
 5|Sincera 2|ReD
 3|Firewatch|QuiX
 3|Eventide|Silex
-4|Pounamu 2|Silex
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -110,6 +110,7 @@
 3|Petrified|Aras
 4|Planet Mercury|Aoe
 3|Pounamu|Silex
+4|Pounamu 2|Silex
 3|Psyll|Evoli
 5|Seagulls|fikmesån
 1|Seasons|Knight :3
