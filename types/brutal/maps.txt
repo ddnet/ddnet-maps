@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+4|Gone|Avasus
 3|Best of Three|Tridemy & Cøke
 4|Wonderfully2|yo bitch
 4|DoomWorld II|Genex & Syltoox
 3|Blue Fox|Zweitleben
 4|Stormwind|DarkOort & rezee
 4|Moonshine|QuiX
-4|Unbalanced 2|Imperius
-2|SimpleBLocks|SBL
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -310,6 +309,7 @@
 2|Scabrous|NeoN & Silex
 3|Sequite|Themix
 2|Shock Value|Wladimir
+2|SimpleBLocks|SBL
 1|Skave|Im 'corneum
 4|Skill Rises|Varys
 1|SkyLand|CrashtimeHD & Greeen
@@ -358,6 +358,7 @@
 1|Tvyn|MarvinProductions
 4|Ultranova|Themix
 2|Unbalanced|Imperius
+4|Unbalanced 2|Imperius
 3|Uncharted|Stalker
 1|Underground|Silex
 2|Undisclosed|Michel
