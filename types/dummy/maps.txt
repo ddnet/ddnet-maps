@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Retro|QuiX
 3|c|louis
 3|Hondrag|Knuski
 3|oldpath|Im 'corneum
 2|Essential|texnonik
 3|Gummy|Genex
 3|a_u|wauf
-2|Fallen Fortress|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -70,6 +70,7 @@
 4|Equivalent Exchange|Ezio
 4|Equivalent Exchange 2|Ezio
 2|Escape from the Prison|IRGNW
+2|Fallen Fortress|Im 'corneum
 2|For You|Ciniminix
 3|gendum|Im 'corneum
 4|GenericDrag|Skeptar & Slayer
