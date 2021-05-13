@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Telephone|N9mkOik
 1|mood|neverminze
 1|Schwung|ReD
 5|Exanimus|Starkiller
 1|Moventer|Themix
 2|Push it 4|Welf
 4|Slak|Cøke & Tridemy
-3|airtemple|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -85,6 +85,7 @@
 3|AIB Quest 2|Pipou
 3|AIB Quest 4|Pipou
 5|Airnade Ultra|Syltoox
+3|airtemple|Im 'corneum
 3|Allround2|[A] Awesome
 2|Alpha|Kosho
 1|Anaphore|-=TeK=- pikou & Stridouille
