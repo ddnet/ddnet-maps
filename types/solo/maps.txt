@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Indami|Knuski
 3|Telephone|N9mkOik
 1|mood|neverminze
 1|Schwung|ReD
 5|Exanimus|Starkiller
 1|Moventer|Themix
 2|Push it 4|Welf
-4|Slak|Cøke & Tridemy
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -279,6 +279,7 @@
 3|Sky High|louis & wauf
 2|SkyCave|Delo
 3|SL1|LoLz
+4|Slak|Cøke & Tridemy
 2|Slide 2|Sorah
 3|Solo Future|Gridwyn
 2|Solo Power|Power
