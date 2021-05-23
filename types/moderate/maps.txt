@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|alternative|Yuzu
 5|Qianye|bit
 3|Olymp|StorмPʜöɴix
 4|Pyramids|Dr.Dre
 3|Push Them|Welf
 1|JP|Ama
 1|moyu|bit
-2|UpNDown Coop|Vasten100
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -316,6 +316,7 @@
 5|Tunak Tunak Tun|m1c
 2|Twix|Knight :3
 5|Underwater|Stalker
+2|UpNDown Coop|Vasten100
 1|Vizur 2|Seba0006
 3|WEEDS|Scratchy <3
 3|Wrong Forest|Zerodin
