@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Liang|bit
 3|Retro|QuiX
 3|c|louis
 3|Hondrag|Knuski
 3|oldpath|Im 'corneum
 2|Essential|texnonik
 3|Gummy|Genex
-3|a_u|wauf
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -41,6 +41,7 @@
 2|RON|BannZay
 
 ─── OTHER MAPS ───
+3|a_u|wauf
 5|Adragaline|Silex
 5|Adragaline 2|Silex
 4|Amazing Drags|Ninjed
