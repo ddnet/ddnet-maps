@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+3|Sky Ride|Im 'corneum
 1|Bollermann|Cøke
 4|Gone|Avasus
 3|Best of Three|Tridemy & Cøke
 4|Wonderfully2|yo bitch
 4|DoomWorld II|Genex & Syltoox
 3|Blue Fox|Zweitleben
-4|Stormwind|DarkOort & rezee
-4|Moonshine|QuiX
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -267,6 +266,7 @@
 2|Mines of Fear|Stalker
 5|Mirai|Ezio
 1|mmips|spimm
+4|Moonshine|QuiX
 2|Moonstone|Hesse & Kayumi
 3|Mystic River|Themix
 3|Mystical Island|StorмPʜöɴix
@@ -331,6 +331,7 @@
 3|Springlobe|Themix
 4|Springlobe 2|Themix
 2|Stones|Pipou
+4|Stormwind|DarkOort & rezee
 3|Stronghold 3|Pipou
 3|superway|Cøke & Saavik
 4|Synesthesia|Elephant
