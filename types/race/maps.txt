@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|run_minimalist|Marcell & rezee
 2|Steff fastrun 5|Tsin
 1|run_4tea|ano :3
 3|Knux|Knuski
 5|1Hook|Starkiller
 4|Euthanasia|ano :3
 5|run_unbelievable|Cøke & Syltoox
-5|run_birming|Im 'corneum
 
 ─── OTHER MAPS ───
 2|Aufnahmetest_AE|teetee
@@ -34,6 +34,7 @@
 5|run_antibuguse|Xerhul & Sorah
 2|run_asr|Coold0wn & TheGnaa
 1|run_away
+5|run_birming|Im 'corneum
 2|run_birthday
 2|run_black_jack|Cøke
 2|run_black_white|Nutellafreak 
