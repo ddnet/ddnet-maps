@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|808|Cøke & Im 'corneum
 3|Sky Ride|Im 'corneum
 1|Bollermann|Cøke
 4|Gone|Avasus
 3|Best of Three|Tridemy & Cøke
 4|Wonderfully2|yo bitch
 4|DoomWorld II|Genex & Syltoox
-3|Blue Fox|Zweitleben
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -143,6 +143,7 @@
 2|Bl0odDens3|Bl0od-Dens
 3|Black&White|TyxpekCZ
 4|Blood Moon|Genex & kill the tee
+3|Blue Fox|Zweitleben
 1|blur|Im 'corneum
 2|brainduck|٭ıƞdex'<3 & Rapture
 3|brainduck2|٭ıƞdex'<3 & Rapture
