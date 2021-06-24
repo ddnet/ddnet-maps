@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|SpeedRun|I.K.U
 3|Where am I 2|Deeper
 3|Indami|Knuski
 3|Telephone|N9mkOik
 1|mood|neverminze
 1|Schwung|ReD
 5|Exanimus|Starkiller
-1|Moventer|Themix
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -236,6 +236,7 @@
 1|Mirror|Pipou
 2|MorningStar|stompie & Soapy Sandwich
 4|Movement I|Nigel
+1|Moventer|Themix
 3|Nettex|{E}{L}{I}{T}{E}
 4|Network|Alvin Risk
 2|Night of Spikes|Element Finland
