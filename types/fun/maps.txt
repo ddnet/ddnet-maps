@@ -1,16 +1,17 @@
 
 ─── NEW MAPS ───
+0|Avoid|Sorah
 0|Bullseye|Ravie
 0|MultiFAT|TPaul & Im 'corneum
 0|TeeTacToe|louis
 0|9gates|bit
 0|LS10|Lady Saavik
 0|Time Calculator|Soapy Sandwich
-0|LS9|Lady Saavik
 
 ─── OTHER MAPS ───
 0|CookieCorporation|Delo
 0|Disabled|Im 'corneum
 0|DontMove|=xPeke=
 0|Game City|imp
+0|LS9|Lady Saavik
 0|Seagull City|imp
