@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Feral|Cøke
 2|Just Bump fly|Soapy Sandwich
 5|Namida|Knuski
 4|Liang|bit
 3|Retro|QuiX
 3|c|louis
 3|Hondrag|Knuski
-3|oldpath|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -102,6 +102,7 @@
 3|noru|Im 'corneum
 3|NoTeleBro|Zerodin
 3|nugtohS|Meliodafu
+3|oldpath|Im 'corneum
 3|Onliner|Im 'corneum
 1|Pace|Im 'corneum
 4|Pataros|Skeptar & Exotix
