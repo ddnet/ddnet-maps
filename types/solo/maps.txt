@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Trackmania|Im 'corneum
 4|SpeedRun|I.K.U
 3|Where am I 2|Deeper
 3|Indami|Knuski
 3|Telephone|N9mkOik
 1|mood|neverminze
 1|Schwung|ReD
-5|Exanimus|Starkiller
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -152,6 +152,7 @@
 3|Escape|timakro & Chill [TD]
 4|Eternity|Ninjed & Imperius
 3|Exalate|IRGNW & Kosho
+5|Exanimus|Starkiller
 2|Extension 1.0|Jeet
 2|Extension 2.0|Jeet
 3|Fall into the Future|Silex
