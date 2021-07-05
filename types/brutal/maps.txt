@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+3|Puzzle Partners|Soapy Sandwich & NovaShock
 2|Teetrader|SickCunt & Feuerfaust Ace
 5|808|Cøke & Im 'corneum
 3|Sky Ride|Im 'corneum
 1|Bollermann|Cøke
 4|Gone|Avasus
 3|Best of Three|Tridemy & Cøke
-4|Wonderfully2|yo bitch
-4|DoomWorld II|Genex & Syltoox
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -179,6 +178,7 @@
 1|Don't go|MarvinProductions
 3|Don't Panic|MarvinProductions
 3|DoomWorld|Genex & Syltoox
+4|DoomWorld II|Genex & Syltoox
 1|Doreos|Gianth
 3|Double Dragin|Soapy Sandwich
 1|DreamWorld|Silex
@@ -376,6 +376,7 @@
 5|whitehell|ElysianDevil & Mischga
 4|Winter Is Coming|»Rogue., ÐæR & !XeNoN!
 4|Wonderfully|yo bitch
+4|Wonderfully2|yo bitch
 4|WoodDivision V|Men of Steel
 4|Wour Forlds|Themix
 2|Yoko 1.1|Hitomi
