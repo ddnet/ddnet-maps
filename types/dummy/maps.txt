@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Peru|Im 'corneum
 5|Mountain Silence|N9mkOik
 3|Feral|Cøke
 2|Just Bump fly|Soapy Sandwich
 5|Namida|Knuski
 4|Liang|bit
 3|Retro|QuiX
-3|c|louis
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -51,6 +51,7 @@
 2|Bomb Raid|DanilBest
 2|Bomb Raid 2|DanilBest
 1|Broken hammer|BannZay
+3|c|louis
 4|Capricorn|Starkiller
 2|Chacruna|fikmesån
 3|Cultist|SUKA & Reevie
