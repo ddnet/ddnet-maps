@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Fanxing|bit
 3|Puzzle Partners|Soapy Sandwich & NovaShock
 2|Teetrader|SickCunt & Feuerfaust Ace
 5|808|Cøke & Im 'corneum
 3|Sky Ride|Im 'corneum
 1|Bollermann|Cøke
 4|Gone|Avasus
-3|Best of Three|Tridemy & Cøke
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -57,6 +57,7 @@
 5|Unisex|Oblique
 
 ─── 3 PLAYER MAPS ───
+3|Best of Three|Tridemy & Cøke
 2|P2Z_Eclipse|cris
 4|Reason|mikey12
 3|w3na|Grk0ne
