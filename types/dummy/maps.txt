@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Nebula|Arrow
 3|Peru|Im 'corneum
 5|Mountain Silence|N9mkOik
 3|Feral|Cøke
 2|Just Bump fly|Soapy Sandwich
 5|Namida|Knuski
 4|Liang|bit
-3|Retro|QuiX
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -113,6 +113,7 @@
 3|Repentance|BannZay
 2|Rest to Die|Im 'corneum
 3|Rest to Die 2|Im 'corneum
+3|Retro|QuiX
 2|Roaming Ruins|Im 'corneum
 3|Samsara IV|Meliodafu
 2|Samsara V|Meliodafu
