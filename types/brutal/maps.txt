@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Degard|InsertKey
 1|Fanxing|bit
 3|Puzzle Partners|Soapy Sandwich & NovaShock
 2|Teetrader|SickCunt & Feuerfaust Ace
 5|808|Cøke & Im 'corneum
 3|Sky Ride|Im 'corneum
 1|Bollermann|Cøke
-4|Gone|Avasus
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -220,6 +220,7 @@
 3|Gloomy Den|SBL
 4|Goldfield|YeahxX
 1|Goldmoon|Gianth
+4|Gone|Avasus
 1|Good Ol' Days|fikmesån
 1|Good Ol' Days 2|fikmesån & imp
 1|Grandma|Fňokurka oo7
