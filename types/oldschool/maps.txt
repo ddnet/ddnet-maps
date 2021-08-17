@@ -1,16 +1,17 @@
 
 ─── NEW MAPS ───
+3|Hedgehogs|Kornao
 3|-273|-273°C
 2|Predator 1|Ama & Tvgucker
 3|FreeDoom2|???
 3|Tremor|TheZyZya
 4|Redneck Rampage|kostya
 2|Kovcheg|Opana & Kos5304
-2|Alaska|Crytek
 
 ─── OTHER MAPS ───
 1|1TeeMap
 1|AiP-Gores|Nieme
+2|Alaska|Crytek
 1|Amor 1|Amor
 1|Amor 2|Amor
 4|Animus|Ezio & Rico
