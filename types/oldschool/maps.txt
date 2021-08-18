@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Orange 2|FunCat
 3|Hedgehogs|Kornao
 3|-273|-273°C
 2|Predator 1|Ama & Tvgucker
 3|FreeDoom2|???
 3|Tremor|TheZyZya
 4|Redneck Rampage|kostya
-2|Kovcheg|Opana & Kos5304
 
 ─── OTHER MAPS ───
 1|1TeeMap
@@ -100,6 +100,7 @@
 1|Just Fly 3|Delo
 1|Just Hookfly 1|SonGoku & spimm
 1|Just Hookfly 2|SonGoku & spimm
+2|Kovcheg|Opana & Kos5304
 3|Last Chance|Be Happy & SlaeR
 5|LichKing|Barsum & Arem Shin
 3|Lost|Silex
