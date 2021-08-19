@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Paralytic|r0xr
 2|Orange 2|FunCat
 3|Hedgehogs|Kornao
 3|-273|-273°C
 2|Predator 1|Ama & Tvgucker
 3|FreeDoom2|???
 3|Tremor|TheZyZya
-4|Redneck Rampage|kostya
 
 ─── OTHER MAPS ───
 1|1TeeMap
@@ -124,6 +124,7 @@
 3|Qwertz|Kintaro*
 2|Ray - 1|Ray
 2|Red Japan|Ray
+4|Redneck Rampage|kostya
 2|Reload 1|Cøke
 3|Reload 2|Cøke
 3|Reload 3|Cøke
