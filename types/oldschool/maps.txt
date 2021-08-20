@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Orange 3|FunCat
 3|Paralytic|r0xr
 2|Orange 2|FunCat
 3|Hedgehogs|Kornao
 3|-273|-273°C
 2|Predator 1|Ama & Tvgucker
 3|FreeDoom2|???
-3|Tremor|TheZyZya
 
 ─── OTHER MAPS ───
 1|1TeeMap
@@ -144,6 +144,7 @@
 1|Teestar|Kintaro*
 2|The Ultimate Rainbow|MaDLeX
 2|Tibto|Cøke & Moby Dog
+3|Tremor|TheZyZya
 4|Triple Kill|Unreal & Feuerball
 1|Troj|El Futuro
 3|Ultimatum 1|=CuBe=
