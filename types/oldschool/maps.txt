@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|UnrealMap|Opana
 2|Orange 3|FunCat
 3|Paralytic|r0xr
 2|Orange 2|FunCat
 3|Hedgehogs|Kornao
 3|-273|-273°C
 2|Predator 1|Ama & Tvgucker
-3|FreeDoom2|???
 
 ─── OTHER MAPS ───
 1|1TeeMap
@@ -48,6 +48,7 @@
 3|FLAP|Cøke & Moby Dog
 3|Flyppi|triki
 3|FreeDoom|???
+3|FreeDoom2|???
 1|Freeze Slow 1|Silex
 1|Freeze Slow 2|Silex
 1|Freeze Slow 3|Silex
