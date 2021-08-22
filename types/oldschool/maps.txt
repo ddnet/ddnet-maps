@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Orange 4|FunCat
 1|UnrealMap|Opana
 2|Orange 3|FunCat
 3|Paralytic|r0xr
 2|Orange 2|FunCat
 3|Hedgehogs|Kornao
 3|-273|-273°C
-2|Predator 1|Ama & Tvgucker
 
 ─── OTHER MAPS ───
 1|1TeeMap
@@ -121,6 +121,7 @@
 2|Paranormal|=N00B3= & Waschlappen
 1|Pirateworld|Trinkflasche
 2|Poreotics|Kintaro*
+2|Predator 1|Ama & Tvgucker
 3|Professional|Moby Dog
 3|Qwertz|Kintaro*
 2|Ray - 1|Ray
