@@ -1,14 +1,15 @@
 
 ─── NEW MAPS ───
+3|Broken World|SlaeR
 2|Orange 4|FunCat
 1|UnrealMap|Opana
 2|Orange 3|FunCat
 3|Paralytic|r0xr
 2|Orange 2|FunCat
 3|Hedgehogs|Kornao
-3|-273|-273°C
 
 ─── OTHER MAPS ───
+3|-273|-273°C
 1|1TeeMap
 1|AiP-Gores|Nieme
 2|Alaska|Crytek
