@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Modest|Knuski
 3|Nebula|Arrow
 3|Peru|Im 'corneum
 5|Mountain Silence|N9mkOik
 3|Feral|Cøke
 2|Just Bump fly|Soapy Sandwich
 5|Namida|Knuski
-4|Liang|bit
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -91,6 +91,7 @@
 2|Just Rocketfly 1|Mischga
 3|Just Rocketfly 2|Mischga
 4|Legacy|Freezestyler
+4|Liang|bit
 2|Machine|Soapy Sandwich
 5|miA|Aoe
 3|Mina|Im 'corneum
