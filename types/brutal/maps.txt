@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Impel Down|Zweitleben
 2|Degard|InsertKey
 1|Fanxing|bit
 3|Puzzle Partners|Soapy Sandwich & NovaShock
 2|Teetrader|SickCunt & Feuerfaust Ace
 5|808|Cøke & Im 'corneum
 3|Sky Ride|Im 'corneum
-1|Bollermann|Cøke
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -146,6 +146,7 @@
 4|Blood Moon|Genex & kill the tee
 3|Blue Fox|Zweitleben
 1|blur|Im 'corneum
+1|Bollermann|Cøke
 2|brainduck|٭ıƞdex'<3 & Rapture
 3|brainduck2|٭ıƞdex'<3 & Rapture
 3|Brosty|DarkOort
