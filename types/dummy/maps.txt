@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Deadly Chamber|Im 'corneum
 4|Modest|Knuski
 3|Nebula|Arrow
 3|Peru|Im 'corneum
 5|Mountain Silence|N9mkOik
 3|Feral|Cøke
 2|Just Bump fly|Soapy Sandwich
-5|Namida|Knuski
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -97,6 +97,7 @@
 3|Mina|Im 'corneum
 3|Momentum|Ravie
 5|Nalar|=xPeke= & Tezcan
+5|Namida|Knuski
 4|Nentori|Ninjed
 3|Nincorn|Ninjed & Im 'corneum
 4|nora|Im 'corneum
