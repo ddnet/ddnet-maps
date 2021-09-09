@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Telephone 2|N9mkOik
 1|Trackmania|Im 'corneum
 4|SpeedRun|I.K.U
 3|Where am I 2|Deeper
 3|Indami|Knuski
 3|Telephone|N9mkOik
 1|mood|neverminze
-1|Schwung|ReD
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -270,6 +270,7 @@
 4|Rush Clouds|bit
 4|Rush Clouds 2|bit
 4|Safe Place|Blue
+1|Schwung|ReD
 2|selfdragger|Jeet
 1|Shooting Range|Im 'corneum & Soapy Sandwich
 2|Short Con|Broken
