@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Jazzy Sandwich|Jimmy Jazz & Soapy Sandwich
 3|Deadly Chamber|Im 'corneum
 4|Modest|Knuski
 3|Nebula|Arrow
 3|Peru|Im 'corneum
 5|Mountain Silence|N9mkOik
 3|Feral|Cøke
-2|Just Bump fly|Soapy Sandwich
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -88,6 +88,7 @@
 3|Jelly|Pipou
 4|Juma|Cøke
 4|JungleRabies|[Nub]Wiesel
+2|Just Bump fly|Soapy Sandwich
 2|Just Rocketfly 1|Mischga
 3|Just Rocketfly 2|Mischga
 4|Legacy|Freezestyler
