@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Haunted Dungeon|MaDLeX
 3|Broken World|SlaeR
 2|Orange 4|FunCat
 1|UnrealMap|Opana
 2|Orange 3|FunCat
 3|Paralytic|r0xr
 2|Orange 2|FunCat
-3|Hedgehogs|Kornao
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -72,6 +72,7 @@
 4|Hardstyle 4|2oo & Fuu
 1|HDP_Obstaculos|El Futuro
 1|HDP_Zinderencio|El Futuro
+3|Hedgehogs|Kornao
 2|Hell Ride|Cøke
 1|HellFly|=CuBe=
 1|himmel|-Sani-
