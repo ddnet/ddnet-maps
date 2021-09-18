@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Jajpack|Blurry & Pipou
 2|Telephone 2|N9mkOik
 1|Trackmania|Im 'corneum
 4|SpeedRun|I.K.U
 3|Where am I 2|Deeper
 3|Indami|Knuski
 3|Telephone|N9mkOik
-1|mood|neverminze
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -235,6 +235,7 @@
 1|Mini Zero|Zerodin
 1|Mini Zero II|Zerodin
 1|Mirror|Pipou
+1|mood|neverminze
 2|MorningStar|stompie & Soapy Sandwich
 4|Movement I|Nigel
 1|Moventer|Themix
