@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Fireball|Pipou
 1|Jajpack|Blurry & Pipou
 2|Telephone 2|N9mkOik
 1|Trackmania|Im 'corneum
 4|SpeedRun|I.K.U
 3|Where am I 2|Deeper
 3|Indami|Knuski
-3|Telephone|N9mkOik
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -308,6 +308,7 @@
 2|Tee Legends 1|Bee & Alias
 2|Tee Legends 2|Bee & Alias
 2|Tee Legends 3|Bee & Alias
+3|Telephone|N9mkOik
 2|The Dungeon|Pulsar
 1|The Space Station|Ñı©Ø
 2|Theory Of Fail|BRONOOB
