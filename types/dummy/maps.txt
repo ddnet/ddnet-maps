@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Rakete|Im 'corneum
 3|Jazzy Sandwich|Jimmy Jazz & Soapy Sandwich
 3|Deadly Chamber|Im 'corneum
 4|Modest|Knuski
 3|Nebula|Arrow
 3|Peru|Im 'corneum
 5|Mountain Silence|N9mkOik
-3|Feral|Cøke
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -74,6 +74,7 @@
 2|Escape from the Prison|IRGNW
 2|Essential|texnonik
 2|Fallen Fortress|Im 'corneum
+3|Feral|Cøke
 2|For You|Ciniminix
 3|gendum|Im 'corneum
 4|GenericDrag|Skeptar & Slayer
