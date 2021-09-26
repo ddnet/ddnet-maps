@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Compera|Exotix
 1|Fireball|Pipou
 1|Jajpack|Blurry & Pipou
 2|Telephone 2|N9mkOik
 1|Trackmania|Im 'corneum
 4|SpeedRun|I.K.U
 3|Where am I 2|Deeper
-3|Indami|Knuski
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -199,6 +199,7 @@
 3|I will be back|Miper
 1|Impetuous|Ravie
 2|Increase Your Speed|Wladimir
+3|Indami|Knuski
 2|Iron Island|Im 'corneum
 3|It's Time|Stalker
 5|It'sYourDeath|nealson T'nP
