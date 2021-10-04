@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Jao Shooter|texnonik
 4|Rakete|Im 'corneum
 3|Jazzy Sandwich|Jimmy Jazz & Soapy Sandwich
 3|Deadly Chamber|Im 'corneum
 4|Modest|Knuski
 3|Nebula|Arrow
 3|Peru|Im 'corneum
-5|Mountain Silence|N9mkOik
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -98,6 +98,7 @@
 5|miA|Aoe
 3|Mina|Im 'corneum
 3|Momentum|Ravie
+5|Mountain Silence|N9mkOik
 5|Nalar|=xPeke= & Tezcan
 5|Namida|Knuski
 4|Nentori|Ninjed
