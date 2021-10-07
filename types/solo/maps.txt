@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|8 points|Ciniminix
 3|Compera|Exotix
 1|Fireball|Pipou
 1|Jajpack|Blurry & Pipou
 2|Telephone 2|N9mkOik
 1|Trackmania|Im 'corneum
 4|SpeedRun|I.K.U
-3|Where am I 2|Deeper
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -347,6 +347,7 @@
 3|WALL-E T|Alvin Risk & Åmol
 3|Weird Cave|Rapture & ٭ıƞdex'<3
 3|Where am I|Deeper
+3|Where am I 2|Deeper
 2|Whitemoon|Cellegen
 2|Wormhole|hi_leute_gll
 2|WSMS|Element Finland
