@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Depressed|cheeser0613
 5|Yeyou 2|bit
 3|Glitchhold|Blurry & Pipou
 5|Yeyou 1|bit
 4|alternative|Yuzu
 5|Qianye|bit
 3|Olymp|StorмPʜöɴix
-4|Pyramids|Dr.Dre
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -257,6 +257,7 @@
 3|PurpleViolence|Vasten100
 3|Push him|Welf
 3|Push Them|Welf
+4|Pyramids|Dr.Dre
 4|Rainbow Sunrise|.me'
 4|Rapture|Bixes
 4|Ray - 2|Ray
