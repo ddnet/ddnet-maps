@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Replay|Im 'corneum
 2|8 points|Ciniminix
 3|Compera|Exotix
 1|Fireball|Pipou
 1|Jajpack|Blurry & Pipou
 2|Telephone 2|N9mkOik
 1|Trackmania|Im 'corneum
-4|SpeedRun|I.K.U
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -298,6 +298,7 @@
 3|Spaceman|Deeper & Ninjed
 1|Spallok|Evoli
 2|Sparadrap|clefairy'
+4|SpeedRun|I.K.U
 2|Speedster|imp
 3|Spiders|Zerodin
 2|spy|Deeper
