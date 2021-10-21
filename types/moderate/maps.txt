@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Yeyou 3|bit
 5|Depressed|cheeser0613
 5|Yeyou 2|bit
 3|Glitchhold|Blurry & Pipou
 5|Yeyou 1|bit
 4|alternative|Yuzu
 5|Qianye|bit
-3|Olymp|StorмPʜöɴix
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -230,6 +230,7 @@
 4|No Merci|Chill [TD]
 3|Not Adrenaline 4|Silex & Kintaro*
 3|Nujabes|☠Arcŧurus☠
+3|Olymp|StorмPʜöɴix
 3|One Way|Destoros
 5|Optimum|Knight :3
 2|P2Z_Crungle|cris
