@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Luna|Starkiller
 1|Replay|Im 'corneum
 2|8 points|Ciniminix
 3|Compera|Exotix
 1|Fireball|Pipou
 1|Jajpack|Blurry & Pipou
 2|Telephone 2|N9mkOik
-1|Trackmania|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -316,6 +316,7 @@
 2|Theory Of Fail|BRONOOB
 3|Thomas|Im 'corneum
 2|Timebreaker|Im 'corneum
+1|Trackmania|Im 'corneum
 4|Triplecan|Cøke
 5|Triplecan 2|Cøke
 2|Uniswim|Im 'corneum
