@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Samsara VII|Meliodafu
 4|pichummy|Kenzo
 3|unFrozen|Mıss Fʋггצ
 3|Jao Shooter|texnonik
 4|Rakete|Im 'corneum
 3|Jazzy Sandwich|Jimmy Jazz & Soapy Sandwich
 3|Deadly Chamber|Im 'corneum
-4|Modest|Knuski
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -97,6 +97,7 @@
 2|Machine|Soapy Sandwich
 5|miA|Aoe
 3|Mina|Im 'corneum
+4|Modest|Knuski
 3|Momentum|Ravie
 5|Mountain Silence|N9mkOik
 5|Nalar|=xPeke= & Tezcan
