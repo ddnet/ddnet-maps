@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|SeMang 1|just & Wartoz
 5|Lighthouse|QuiX
 5|Sketch|Ravie
 3|Moonlight|FeaRZ
 5|Decipher|Knuski & Ɍøηɋȵ
 5|Fiji|WSike
 5|Sincera 2|ReD
-3|Firewatch|QuiX
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -60,6 +60,7 @@
 2|Easy 1|Borup
 5|Empire Desp|Deeper
 3|Eventide|Silex
+3|Firewatch|QuiX
 3|Fluff|Tuna
 2|For Idiots 1|KBeeeR
 2|For Idiots 2|KBeeeR
