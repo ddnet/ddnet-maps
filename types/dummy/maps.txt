@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Try It 2|Ciniminix
 3|Samsara VII|Meliodafu
 4|pichummy|Kenzo
 3|unFrozen|Mıss Fʋггצ
 3|Jao Shooter|texnonik
 4|Rakete|Im 'corneum
 3|Jazzy Sandwich|Jimmy Jazz & Soapy Sandwich
-3|Deadly Chamber|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -60,6 +60,7 @@
 5|DarkSpy 2|Spyker & iParano
 2|Darkvine|12vy
 4|DarkWorld|=xPeke=
+3|Deadly Chamber|Im 'corneum
 5|DeepDrag|Micro
 2|Desert Dog|Im 'corneum
 2|Destruction|Zerodin & Hindu
