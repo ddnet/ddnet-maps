@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|tough way|geroy231
 2|IronBreak|Hidden-Ezio
 1|Haunted Dungeon|MaDLeX
 3|Broken World|SlaeR
 2|Orange 4|FunCat
 1|UnrealMap|Opana
 2|Orange 3|FunCat
-3|Paralytic|r0xr
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -121,6 +121,7 @@
 2|Orange 2|FunCat
 3|Paradise|sMo0g
 3|Paradise & Hell|Jamby
+3|Paralytic|r0xr
 2|Paranormal|=N00B3= & Waschlappen
 1|Pirateworld|Trinkflasche
 2|Poreotics|Kintaro*
