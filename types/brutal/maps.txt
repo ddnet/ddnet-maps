@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|TelEdge|Mystery?
 5|Impel Down|Zweitleben
 2|Degard|InsertKey
 1|Fanxing|bit
 3|Puzzle Partners|Soapy Sandwich & NovaShock
 2|Teetrader|SickCunt & Feuerfaust Ace
 5|808|Cøke & Im 'corneum
-3|Sky Ride|Im 'corneum
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -318,6 +318,7 @@
 2|SimpleBLocks|SBL
 1|Skave|Im 'corneum
 4|Skill Rises|Varys
+3|Sky Ride|Im 'corneum
 1|SkyLand|CrashtimeHD & Greeen
 2|SkyLand2|Greeen & CrashtimeHD
 3|Skywalk|Gianth
