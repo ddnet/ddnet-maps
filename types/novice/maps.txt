@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Beyond Light|Arrow & FeaRZ
 5|SeMang 1|just & Wartoz
 5|Lighthouse|QuiX
 5|Sketch|Ravie
 3|Moonlight|FeaRZ
 5|Decipher|Knuski & Ɍøηɋȵ
 5|Fiji|WSike
-5|Sincera 2|ReD
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -118,6 +118,7 @@
 1|Seasons|Knight :3
 5|Senani|Åmol
 4|Sincera|ReD
+5|Sincera 2|ReD
 3|Sopella|Evoli
 3|Sorrow|Knight :3
 3|Spüli|fikmesån
