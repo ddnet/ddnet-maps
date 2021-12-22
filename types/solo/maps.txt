@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Lost In Forest|DarkOort
 3|Stop Over 5.0|Inner Peace
 5|Luna|Starkiller
 1|Replay|Im 'corneum
 2|8 points|Ciniminix
 3|Compera|Exotix
 1|Fireball|Pipou
-1|Jajpack|Blurry & Pipou
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -203,6 +203,7 @@
 2|Iron Island|Im 'corneum
 3|It's Time|Stalker
 5|It'sYourDeath|nealson T'nP
+1|Jajpack|Blurry & Pipou
 2|Jump Shooter|Sorah
 1|Jumper|Im 'corneum
 2|Jungle Run|Kintaro*
