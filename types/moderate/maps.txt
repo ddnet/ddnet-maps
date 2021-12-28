@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Bornrif|Guliker
 5|Yeyou 4|bit
 5|Depressed II|cheeser0613
 4|Pogchy|CheseChezz
 5|Yeyou 3|bit
 5|Depressed|cheeser0613
 5|Yeyou 2|bit
-3|Glitchhold|Blurry & Pipou
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -165,6 +165,7 @@
 3|Galaxy Story|Kintaro*
 1|Galaxy Turn|Trinkflasche
 4|Gibson|Scratchy <3
+3|Glitchhold|Blurry & Pipou
 3|Golden|mikey12
 3|Grace|Tuna
 2|Green Race|Themix
