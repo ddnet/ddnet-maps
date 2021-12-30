@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Vice City|Arrow
 3|noconce|Im 'corneum
 4|Huanghu|bit
 2|Try It 2|Ciniminix
 3|Samsara VII|Meliodafu
 4|pichummy|Kenzo
 3|unFrozen|Mıss Fʋггצ
-3|Jao Shooter|texnonik
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -85,6 +85,7 @@
 4|Injection|Themix
 4|Injection 2|Themix
 5|Injection 3|Themix
+3|Jao Shooter|texnonik
 3|Jazz Hands|Jimmy Jazz
 4|Jazz Hands 2|Jimmy Jazz
 3|Jazzy Sandwich|Jimmy Jazz & Soapy Sandwich
