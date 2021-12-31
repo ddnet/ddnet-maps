@@ -8,6 +8,21 @@
 1|UnrealMap|Opana
 2|Orange 3|FunCat
 
+─── 3 PLAYER MAPS ───
+3|Blue|MaDLeX
+4|DeadCore 1|DeadAlien
+2|Eagle Race Compilation|Eagle Clan
+4|ResidentSS|-Sani- & -Sozi-
+4|Triple Kill|Unreal & Feuerball
+
+─── 4 PLAYER MAPS ───
+2|ddrace_loop|Loop
+2|Hardcore 5|=CuBe=
+4|Hardcore 6|=CuBe=
+3|Lost|Silex
+3|Lost 2|Silex
+3|Lost 3|Silex
+
 ─── OTHER MAPS ───
 3|-273|-273°C
 1|1TeeMap
@@ -19,7 +34,6 @@
 1|Atticus Compilation|Scratchy <3
 3|Baber|Zikkie & LordMiLord
 2|bBzZ!!|KillA
-3|Blue|MaDLeX
 3|Bush|Kintaro*
 2|Castoreum|Ezio & Stalker
 4|City of Death|Black-_-lotus & Jo0
@@ -29,9 +43,7 @@
 2|DarkCore 2|Heaven
 2|DarkCore 3|Heaven
 4|DarkCore 4|Heaven
-2|ddrace_loop|Loop
 4|Dead Darkness|EnCore Clan
-4|DeadCore 1|DeadAlien
 4|DeadCore 2|DeadAlien
 3|DeadCore 3|DeadAlien
 4|Destiny 1|TheZyZya & sMo0g
@@ -39,7 +51,6 @@
 4|Destiny 3|TheZyZya & sMo0g
 4|Divergence|Heaven & DarkHeaven
 3|Dust|NeoN & Fels
-2|Eagle Race Compilation|Eagle Clan
 3|EaSy_HarD 4|Chak
 2|Encore
 3|Endgame|TheZyZya
@@ -61,8 +72,6 @@
 1|Hardcore 2|=CuBe=
 2|Hardcore 3|=CuBe=
 1|Hardcore 4|=CuBe=
-2|Hardcore 5|=CuBe=
-4|Hardcore 6|=CuBe=
 3|Hardcore 7|=CuBe= & Cøke
 4|Hardcore 8|=CuBe=
 3|Hardcore 9|=CuBe=
@@ -106,9 +115,6 @@
 2|Kovcheg|Opana & Kos5304
 3|Last Chance|Be Happy & SlaeR
 5|LichKing|Barsum & Arem Shin
-3|Lost|Silex
-3|Lost 2|Silex
-3|Lost 3|Silex
 2|Lykeion|Moby Dog
 1|Madness 1|Delo
 2|Madness 2|Delo
@@ -135,7 +141,6 @@
 3|Reload 2|Cøke
 3|Reload 3|Cøke
 2|Reload 4|Cøke
-4|ResidentSS|-Sani- & -Sozi-
 3|Sadway|Mustdie
 2|Somewhere in the Sky|MaDLeX
 3|Stereotype 1|DarkKenny
@@ -151,7 +156,6 @@
 2|The Ultimate Rainbow|MaDLeX
 2|Tibto|Cøke & Moby Dog
 3|Tremor|TheZyZya
-4|Triple Kill|Unreal & Feuerball
 1|Troj|El Futuro
 3|Ultimatum 1|=CuBe=
 3|Ultimatum 2|=CuBe=
