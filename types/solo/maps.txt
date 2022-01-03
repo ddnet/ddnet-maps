@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Short And Precise 1|Destoros
 4|Lost In Forest|DarkOort
 3|Stop Over 5.0|Inner Peace
 5|Luna|Starkiller
 1|Replay|Im 'corneum
 2|8 points|Ciniminix
 3|Compera|Exotix
-1|Fireball|Pipou
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -157,6 +157,7 @@
 2|Extension 2.0|Jeet
 3|Fall into the Future|Silex
 3|Fallen Angel|Tee 3D
+1|Fireball|Pipou
 3|Flamara|Evoli & RedFight
 3|FlipLipp10|FlipLipp
 2|Fly Lessons|Jeet
