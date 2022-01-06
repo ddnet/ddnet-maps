@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Just Shitfly|Genex & Syltoox
 2|dalbychsipivo|Fňokurka oo7
 4|TelEdge|Mystery?
 5|Impel Down|Zweitleben
 2|Degard|InsertKey
 1|Fanxing|bit
 3|Puzzle Partners|Soapy Sandwich & NovaShock
-2|Teetrader|SickCunt & Feuerfaust Ace
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -58,7 +58,6 @@
 
 ─── 3 PLAYER MAPS ───
 3|Best of Three|Tridemy & Cøke
-4|Just Triple Fly|Spyker
 2|P2Z_Eclipse|cris
 4|Reason|mikey12
 3|w3na|Grk0ne
@@ -66,8 +65,6 @@
 ─── 4 PLAYER MAPS ───
 2|4Four|Chill [TD]
 5|4s|Åmol
-5|Behemoth|Pulsar & Ravie
-3|Double Dragin|Soapy Sandwich
 
 ─── OLD BUT GOLD ───
 4|Adrenaline|Jamby & Silex
@@ -139,6 +136,7 @@
 5|Atomic|Kayumi
 3|Baguette|artkis
 2|Barren|Pulsar
+5|Behemoth|Pulsar & Ravie
 1|Behind the Darkua|GoJE GrEEN ! & Chicken
 5|Between the Heavens|Neverbloom & Chill [TD]
 2|Big Sun|Spyker
@@ -185,6 +183,7 @@
 3|DoomWorld|Genex & Syltoox
 4|DoomWorld II|Genex & Syltoox
 1|Doreos|Gianth
+3|Double Dragin|Soapy Sandwich
 1|DreamWorld|Silex
 2|Dynamic|Ante.
 5|Eclipsis|Slayer & Lilith
@@ -245,6 +244,7 @@
 4|Journey Man|MarvinProductions & Nigel
 4|Journey Man 2|Åmol
 2|Jungledread|[*MC*]-DuBai-.?
+4|Just Triple Fly|Spyker
 2|Kabarda|Ninjed
 2|Karaboudjan|Bee
 2|Karaboudjan 3|Bee
@@ -343,6 +343,7 @@
 3|superway|Cøke & Saavik
 4|Synesthesia|Elephant
 5|Tatooine|Rapture & Gridwyn
+2|Teetrader|SickCunt & Feuerfaust Ace
 3|Tenebris|Slayer & Lilith
 4|The Cursed Night|MaDLeX
 3|The Dream|Spyker
