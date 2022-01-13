@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|tlqkf|ɳ0vą
 2|Short And Precise 1|Destoros
 4|Lost In Forest|DarkOort
 3|Stop Over 5.0|Inner Peace
 5|Luna|Starkiller
 1|Replay|Im 'corneum
 2|8 points|Ciniminix
-3|Compera|Exotix
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -125,6 +125,7 @@
 3|CHILLUMINATI|ChillerDragon
 4|Cloud Dreams|N9mkOik
 3|combo II|BlaGK
+3|Compera|Exotix
 3|CrashTV|Cellegen
 3|Croissant|artkis
 1|ctf5_solo|imp
