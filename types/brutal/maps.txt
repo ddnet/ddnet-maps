@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Take me to Desert|Savalic
 4|Just Shitfly|Genex & Syltoox
 2|dalbychsipivo|Fňokurka oo7
 4|TelEdge|Mystery?
 5|Impel Down|Zweitleben
 2|Degard|InsertKey
 1|Fanxing|bit
-3|Puzzle Partners|Soapy Sandwich & NovaShock
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -299,6 +299,7 @@
 1|Plaza|SBL
 3|Polarity|Ravie
 2|Punica|fokkonaut & Kayumi
+3|Puzzle Partners|Soapy Sandwich & NovaShock
 2|Radiation|LordMiLord
 2|Reckless|Pipou
 3|Redefined|Knuski & archimede67
