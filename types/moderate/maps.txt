@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Spoon|Ravie
 3|Bornrif|Guliker
 5|Yeyou 4|bit
 5|Depressed II|cheeser0613
 4|Pogchy|CheseChezz
 5|Yeyou 3|bit
 5|Depressed|cheeser0613
-5|Yeyou 2|bit
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -63,7 +63,6 @@
 4|Cleopatra|fikmesån
 5|LazeAround|Suppe
 3|LazeAround2|Suppe
-4|Tetris|Waschlappen
 1|Weapons|Juandissimo & timakro
 
 ─── 5 PLAYER MAPS ───
@@ -306,6 +305,7 @@
 5|Sunrice|Zerodin
 4|Swoosh|mikey12
 5|Temple of Doom|Hindu & Zerodin
+4|Tetris|Waschlappen
 2|The Beginning|EpicIceTee
 3|The Bunker|gherode
 3|The East Desert|Lumina & Sheep
@@ -329,6 +329,7 @@
 3|WEEDS|Scratchy <3
 3|Wrong Forest|Zerodin
 5|Yeyou 1|bit
+5|Yeyou 2|bit
 5|Yun Gu|bit
 1|Zaiross-Gores|Zaiross
 3|Zoroark|Zerodin
