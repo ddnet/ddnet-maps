@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Short And Precise 2|Destoros
 3|tlqkf|ɳ0vą
 2|Short And Precise 1|Destoros
 4|Lost In Forest|DarkOort
 3|Stop Over 5.0|Inner Peace
 5|Luna|Starkiller
 1|Replay|Im 'corneum
-2|8 points|Ciniminix
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -79,6 +79,7 @@
 2|2of4|Chill [TD]
 2|3of4|Chill [TD]
 2|4of4|Chill [TD]
+2|8 points|Ciniminix
 2|acq|louis
 3|Agile|Jimmy Jazz
 3|AIB Quest 1|Pipou
