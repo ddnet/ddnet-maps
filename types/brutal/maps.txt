@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Yeyou 5|bit
 2|Take me to Desert|Savalic
 4|Just Shitfly|Genex & Syltoox
 2|dalbychsipivo|Fňokurka oo7
 4|TelEdge|Mystery?
 5|Impel Down|Zweitleben
 2|Degard|InsertKey
-1|Fanxing|bit
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -200,6 +200,7 @@
 5|External 2|Elephant & Wolƒ.▲
 4|Failable|Cøke
 1|Falling Star|Nigel
+1|Fanxing|bit
 2|Fever|Chill [TD]
 4|Fiasko|TheZyZya & Silex
 4|First Try|DiViNe
