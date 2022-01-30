@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Definition|Inner Peace
 2|Short And Precise 2|Destoros
 3|tlqkf|ɳ0vą
 2|Short And Precise 1|Destoros
 4|Lost In Forest|DarkOort
 3|Stop Over 5.0|Inner Peace
 5|Luna|Starkiller
-1|Replay|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -268,6 +268,7 @@
 1|Race_Sanktoras|Sanktoras
 1|Raid|Im 'corneum
 3|Rapid|Pulsar
+1|Replay|Im 'corneum
 2|Rocket Jump|<BµmM>
 2|Rocket Player|RayB.
 3|RocketIsKey|Tropo
