@@ -1,12 +1,11 @@
 
 ─── NEW MAPS ───
 2|Yeyou 5|bit
-2|Take me to Desert|Savalic
+3|Take me to Desert|Savalic
 4|Just Shitfly|Genex & Syltoox
 2|dalbychsipivo|Fňokurka oo7
 4|TelEdge|Mystery?
 5|Impel Down|Zweitleben
-2|Degard|InsertKey
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -174,6 +173,7 @@
 4|Day 'n' Night|Rapture & Hindu
 1|Death Sentence|Bixes & Themix
 2|Death Valley|Skeptar & Juandissimo
+2|Degard|InsertKey
 1|Desert Wolf|Spyker
 4|Deserted|MarvinProductions
 1|Determination|YeahxX
@@ -261,7 +261,7 @@
 2|Logics|aMu
 3|Looney [Extreme]|☆.Sυsнι♪
 1|lost_castle|Shorefire
-2|Lotus|Ravie
+1|Lotus|Ravie
 2|Lucifer|Stalker
 1|LuckyStrike|LanuX & Hindu
 1|M&M|Maple & mikey12
