@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Short And Precise 3|Destoros
 3|Definition|Inner Peace
 2|Short And Precise 2|Destoros
 3|tlqkf|ɳ0vą
 2|Short And Precise 1|Destoros
 4|Lost In Forest|DarkOort
 3|Stop Over 5.0|Inner Peace
-5|Luna|Starkiller
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -232,6 +232,7 @@
 2|Lonely Swim 9.2|Tuna
 2|Loopie|Im 'corneum
 1|Lucid Dream|-=TeK=- pikou
+5|Luna|Starkiller
 4|Masquerade|Forris
 3|Maximum speed|BannZay
 5|Memento mori|Starkiller
