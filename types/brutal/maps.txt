@@ -57,7 +57,7 @@
 5|Unisex|Oblique
 
 ─── 3 PLAYER MAPS ───
-3|Best of Three|Tridemy & Cøke
+4|Best of Three|Tridemy & Cøke
 2|P2Z_Eclipse|cris
 4|Reason|mikey12
 3|w3na|Grk0ne
