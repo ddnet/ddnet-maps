@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Short And Precise 6|Destoros
 2|Short And Precise 5|Destoros
 2|Short And Precise 4|Destoros
 2|turboSeks|Imperius
 2|Short And Precise 3|Destoros
 3|Definition|Inner peace
 2|Short And Precise 2|Destoros
-3|tlqkf|ɳ0vą
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -326,6 +326,7 @@
 2|Theory Of Fail|BRONOOB
 3|Thomas|Im 'corneum
 2|Timebreaker|Im 'corneum
+3|tlqkf|ɳ0vą
 1|Trackmania|Im 'corneum
 4|Triplecan|Cøke
 5|Triplecan 2|Cøke
