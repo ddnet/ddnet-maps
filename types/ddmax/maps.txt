@@ -321,6 +321,7 @@
 4|Ntumba|maggi323
 5|Outlet|YeahxX
 4|Paik|Destoros
+2|Paranoia|Líme.ftw!
 5|Picklock|Nomlow
 4|Poke|Destoros
 4|Rampage|Captain
@@ -362,6 +363,7 @@
 2|NUT_race2|Bad-Hoernchen
 2|NUT_race3|Zeta-Hoernchen
 2|NUT_race4|Zeta-Hoernchen
+2|NUT_race5|Zeta-Hoernchen
 3|NUT_race6|Zeta-Hoernchen
 2|NUT_race7|Bad-Hoernchen
 2|NUT_race8|Zeta-Hoernchen
@@ -373,7 +375,3 @@
 1|NUT_short_race5|Zeta-Hoernchen
 0|NUT_short_race6|Zeta-Hoernchen
 0|NUT_short_race7|Zeta-Hoernchen
-
-─── OTHER MAPS ───
-2|NUT_race5|Zeta-Hoernchen
-2|Paranoia|Líme.ftw!

@@ -10,7 +10,6 @@
 
 ─── 3 PLAYER MAPS ───
 3|Blue|MaDLeX
-4|DeadCore 1|DeadAlien
 2|Eagle Race Compilation|Eagle Clan
 4|ResidentSS|-Sani- & -Sozi-
 4|Triple Kill|Unreal & Feuerball
@@ -44,6 +43,7 @@
 2|DarkCore 3|Heaven
 4|DarkCore 4|Heaven
 4|Dead Darkness|EnCore Clan
+4|DeadCore 1|DeadAlien
 4|DeadCore 2|DeadAlien
 3|DeadCore 3|DeadAlien
 4|Destiny 1|TheZyZya & sMo0g
