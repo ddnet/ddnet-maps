@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|T-Sport|Im 'corneum
 2|Short And Precise 6|Destoros
 2|Short And Precise 5|Destoros
 2|Short And Precise 4|Destoros
 2|turboSeks|Imperius
 2|Short And Precise 3|Destoros
 3|Definition|Inner peace
-2|Short And Precise 2|Destoros
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -283,6 +283,7 @@
 2|selfdragger|Jeet
 1|Shooting Range|Im 'corneum & Soapy Sandwich
 2|Short And Precise 1|Destoros
+2|Short And Precise 2|Destoros
 2|Short Con|Broken
 2|Short Sky|S.O.S
 4|Shortgun|Cor
