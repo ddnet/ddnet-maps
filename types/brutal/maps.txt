@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+4|Mult0map|Cøke & Tridemy
 4|Simple Down|Zweitleben
 1|Freezeless|Destoros
 2|Yeyou 5|bit
 3|Take me to Desert|Savalic
 4|Just Shitfly|Genex & Syltoox
 2|dalbychsipivo|Fňokurka oo7
-4|TelEdge|Mystery?
-5|Impel Down|Zweitleben
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -235,6 +234,7 @@
 1|Helena|Hitomi
 3|Highlife|Skeptar & ٭ıƞdex'<3
 3|Hillside|»Rogue.
+5|Impel Down|Zweitleben
 2|In Da House|da
 3|Inception|Cøke & #eci.in`
 2|Intense 3.0|Elephant
@@ -348,6 +348,7 @@
 4|Synesthesia|Elephant
 5|Tatooine|Rapture & Gridwyn
 2|Teetrader|SickCunt & Feuerfaust Ace
+4|TelEdge|Mystery?
 3|Tenebris|Slayer & Lilith
 4|The Cursed Night|MaDLeX
 3|The Dream|Spyker
