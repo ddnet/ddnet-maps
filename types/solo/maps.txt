@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|pollito|Kenzo
 1|T-Sport|Im 'corneum
 2|Short And Precise 6|Destoros
 2|Short And Precise 5|Destoros
 2|Short And Precise 4|Destoros
 2|turboSeks|Imperius
 2|Short And Precise 3|Destoros
-3|Definition|Inner peace
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -135,6 +135,7 @@
 3|DarkMove|=xPeke=
 2|deadrun|Harbinger
 3|DeepEdge|Deeper
+3|Definition|Inner peace
 2|Delension|BamBam
 2|Desert Duration|Sorah
 3|Desert Mine|Blue
