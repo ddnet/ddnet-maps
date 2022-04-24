@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Rotate|Pipou
 1|Tobi|jana
 2|DaoYu|just
 4|oco|Pulsar
 3|Spoon|Ravie
 3|Bornrif|Guliker
 5|Yeyou 4|bit
-5|Depressed II|cheeser0613
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -131,6 +131,7 @@
 5|Death Sentence 2|Bixes & Themix
 3|DeathHook|Pandoru & =xPeke=
 5|Depressed|cheeser0613
+5|Depressed II|cheeser0613
 4|Desoxyribonukleinsäure|Im 'corneum
 3|Doable|Skeptar
 4|Dubush|тυx
