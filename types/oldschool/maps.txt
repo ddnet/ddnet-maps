@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Be Happy|EpicFail
 2|tough way 2|geroy231
 2|tough way|geroy231
 2|IronBreak|Hidden-Ezio
 1|Haunted Dungeon|MaDLeX
 3|Broken World|SlaeR
 2|Orange 4|FunCat
-1|UnrealMap|Opana
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -159,6 +159,7 @@
 3|Ultimatum 3|=CuBe=
 2|Universe|spimm
 2|Unlimited|Kintaro* & DiViNe
+1|UnrealMap|Opana
 4|Victory 1|sMo0g
 4|Victory 2|sMo0g
 4|Victory 3|sMo0g & FunCat
