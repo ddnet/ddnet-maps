@@ -1,14 +1,12 @@
 
 ─── NEW MAPS ───
+3|Aimbot|Aoe
 4|Back in Time 3|Silex
 1|Somnium|Starkiller
 4|1AndOnLyLife|Lenah
 3|New Generation II|Feuerfaust Ace
 3|pedeuliar|BooNi
 4|Aimateur|Aoe
-1|Not Naufrage 4|SickCunt & Feuerfaust Ace
-3|Redefined 2|Knuski & archimede67
-1|Shawker|Shawn. & Spyker
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -37,9 +35,12 @@
 3|Justice 2|645654, Pipou & Phacrum
 1|Nether|Tropo
 2|New Generation|Feuerfaust Ace
+1|Not Naufrage 4|SickCunt & Feuerfaust Ace
 2|Ravillion|Themix
+3|Redefined 2|Knuski & archimede67
 1|Regen 2|Gridwyn
 2|Resistance|Themix
+1|Shawker|Shawn. & Spyker
 1|Shockwave|Konsti
 1|Springlobe 3|Themix
 3|Tatooine 2|Gridwyn & Rapture
