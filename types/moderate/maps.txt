@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Just Every Fly|Soapy Sandwich & Jimmy Jazz
 2|Rotate|Pipou
 1|Tobi|jana
 2|DaoYu|just
 4|oco|Pulsar
 3|Spoon|Ravie
 3|Bornrif|Guliker
-5|Yeyou 4|bit
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -334,6 +334,7 @@
 5|Yeyou 1|bit
 5|Yeyou 2|bit
 5|Yeyou 3|bit
+5|Yeyou 4|bit
 5|Yun Gu|bit
 1|Zaiross-Gores|Zaiross
 3|Zoroark|Zerodin
