@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Merely forth|geroy231
 2|Oh-This 2|Father
 1|Oh-This|Father
 2|Be Happy|EpicFail
 2|tough way 2|geroy231
 2|tough way|geroy231
 2|IronBreak|Hidden-Ezio
-1|Haunted Dungeon|MaDLeX
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -71,6 +71,7 @@
 2|Hardstyle 2|2oo & Fuu
 4|Hardstyle 3|2oo & Fuu
 4|Hardstyle 4|2oo & Fuu
+1|Haunted Dungeon|MaDLeX
 1|HDP_Obstaculos|El Futuro
 1|HDP_Zinderencio|El Futuro
 3|Hedgehogs|Kornao
