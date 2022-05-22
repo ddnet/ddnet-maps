@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+3|Give u the Moon|FeaRZ
 1|Tutorial|unique2 & Alisa
 5|SeMang 2|just & Wartoz
 5|Beyond Light|Arrow & FeaRZ
 5|SeMang 1|just & Wartoz
 5|Lighthouse|QuiX
 5|Sketch|Ravie
-3|Moonlight|FeaRZ
-5|Decipher|Knuski & Ɍøηɋȵ
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -27,10 +26,7 @@
 
 ─── MAPS WITH SOUND ───
 3|Ice Water|Ñı©Ø
-4|Iris|fikmesån
-5|Lavender Forest|Pipou
 5|Little Forest|Kintaro*
-3|Sunny Side Up|Ravie
 
 ─── OTHER MAPS ───
 4|(wasntme)|fikmesån & snailx3
@@ -57,6 +53,7 @@
 4|Cool|Welf
 3|Cuboid|stompie & Soapy Sandwich
 3|Dark Moon|fikmesån
+5|Decipher|Knuski & Ɍøηɋȵ
 4|Deino|WSike
 4|DetrimentalFactor|Suppe
 4|Diamond Mine|<BµmM>
@@ -89,6 +86,7 @@
 3|Houll|Evoli
 4|Hulk|Ama
 3|Inure|Savalic
+4|Iris|fikmesån
 3|IronMan|Ama
 3|Island Rush|Tuna
 2|It's Easy|Deeper
@@ -96,6 +94,7 @@
 1|Just2Easy|[A] Awesome
 4|Kaylite|{E}{L}{I}{T}{E} & Kayumi
 5|Kindergarten|Silex
+5|Lavender Forest|Pipou
 2|LearnToPlay|Tridemy & Cøke
 3|Light Grey|Lightbulb & ٭ıƞdex'<3
 2|Linear|louis
@@ -105,6 +104,7 @@
 5|MagiK|Kosho
 4|Maui Wowie|RayB.
 4|Maui Wowie 2|RayB.
+3|Moonlight|FeaRZ
 5|Multeasymap|Cøke, Tridemy, Welf & TPaul
 2|newbee|pixel
 5|Orion|Pulsar
@@ -127,6 +127,7 @@
 3|Spüli|fikmesån
 1|StepByStep|[A] Awesome
 3|Sunlight|GolfaN
+3|Sunny Side Up|Ravie
 2|Take it noobly|Ñı©Ø
 1|Tangerine|Oblique
 3|TeeWorld|Zaiross
