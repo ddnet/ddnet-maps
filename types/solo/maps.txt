@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|LiveMovement|Destoros
 5|Weapon Finals|Chrona
 3|pollito|Kenzo
 1|T-Sport|Im 'corneum
 2|Short And Precise 6|Destoros
 2|Short And Precise 5|Destoros
 2|Short And Precise 4|Destoros
-2|turboSeks|Imperius
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -333,6 +333,7 @@
 1|Trackmania|Im 'corneum
 4|Triplecan|Cøke
 5|Triplecan 2|Cøke
+2|turboSeks|Imperius
 2|Uniswim|Im 'corneum
 3|Universum 16|Neox & IRGNW
 2|Van Gogh|Deeper
