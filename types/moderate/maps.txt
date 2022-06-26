@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Baerchen|jana
+4|DaoYu Night|just & FightFire
 1|Just Every Fly|Soapy Sandwich & Jimmy Jazz
 2|Rotate|Pipou
 1|Tobi|jana
 2|DaoYu|just
 4|oco|Pulsar
-3|Spoon|Ravie
-3|Bornrif|Guliker
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -98,6 +98,7 @@
 4|Boo!|TyxpekCZ
 4|Bootcamp #1|.me'
 3|Bootcamp #2|.me'
+3|Bornrif|Guliker
 3|Brony|Ama
 4|Brown|Stervella
 4|Bubbles|Megaman
@@ -300,6 +301,7 @@
 3|Sonne, Mond und Sterne|Skeptar & Punica
 3|Sounds|Chill [TD]
 2|SpongeBob 3|KBeeeR
+3|Spoon|Ravie
 3|Squidgy|timakro
 2|Stargazing|Silex
 2|SunDay|Gridwyn
