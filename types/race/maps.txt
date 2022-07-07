@@ -1,16 +1,17 @@
 
 ─── NEW MAPS ───
+0|E02|Im 'corneum
 3|run_Jellyfish_Fields|Im 'corneum
 3|run_minimalist|Marcell & rezee
 2|Steff fastrun 5|Tsin
 1|run_4tea|ano :3
 3|Knux|Knuski
 5|1Hook|Starkiller
-4|Euthanasia|ano :3
 
 ─── OTHER MAPS ───
 2|Aufnahmetest_AE|teetee
 2|climate-crisis|Kill Mik & Phönix92
+4|Euthanasia|ano :3
 3|frustrainleave|r3tr0
 1|hotrun|Ubu
 5|nameless_run|SkizZ, =CuBe= & rus
