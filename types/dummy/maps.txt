@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Disability|Silex
 3|Hiking|Im 'corneum
 3|Tied up|Im 'corneum
 2|Apex|Pulsar
 3|downpour|Im 'corneum
 3|Vice City|Arrow
 3|noconce|Im 'corneum
-4|Huanghu|bit
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -82,6 +82,7 @@
 2|Greed|Kosho
 3|Gummy|Genex
 3|Hondrag|Knuski
+4|Huanghu|bit
 4|Injection|Themix
 4|Injection 2|Themix
 5|Injection 3|Themix
