@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Just Pseudo Fly|Jimmy Jazz & Soapy Sandwich
 5|Mult0map|Cøke & Tridemy
 4|Simple Down|Zweitleben
 1|Freezeless|Destoros
 2|Yeyou 5|bit
 3|Take me to Desert|Savalic
 4|Just Shitfly|Genex & Syltoox
-2|dalbychsipivo|Fňokurka oo7
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -65,7 +65,6 @@
 ─── 4 PLAYER MAPS ───
 2|4Four|Chill [TD]
 5|4s|Åmol
-5|Behemoth|Pulsar & Ravie
 
 ─── OLD BUT GOLD ───
 4|Adrenaline|Jamby & Silex
@@ -137,6 +136,7 @@
 5|Atomic|Kayumi
 3|Baguette|artkis
 2|Barren|Pulsar
+5|Behemoth|Pulsar & Ravie
 1|Behind the Darkua|GoJE GrEEN ! & Chicken
 5|Between the Heavens|Neverbloom & Chill [TD]
 2|Big Sun|Spyker
@@ -167,6 +167,7 @@
 3|Cucumber|Fňokurka oo7
 2|Cursed Treasure|Bixes & Themix
 2|Cya Nerd|Destoros
+2|dalbychsipivo|Fňokurka oo7
 3|Damage|Captain & !_Vergeboy_!
 3|Danceoff|SBL
 4|Dark Side|Chill [TD]
