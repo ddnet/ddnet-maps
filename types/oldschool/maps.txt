@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Campotle 3|Fluxid
+1|Campotle 2|Fluxid
+1|Campotle 1|Fluxid
 2|Merely forth 2|geroy231
 2|Merely forth|geroy231
 3|Oh-This 2|Father
 1|Oh-This|Father
-2|Be Happy|EpicFail
-2|tough way 2|geroy231
-2|tough way|geroy231
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -19,6 +19,7 @@
 1|Atticus Compilation|Scratchy <3
 3|Baber|Zikkie & LordMiLord
 2|bBzZ!!|KillA
+2|Be Happy|EpicFail
 3|Blue|MaDLeX
 3|Broken World|SlaeR
 3|Bush|Kintaro*
@@ -155,6 +156,8 @@
 1|Teestar|Kintaro*
 2|The Ultimate Rainbow|MaDLeX
 2|Tibto|Cøke & Moby Dog
+2|tough way|geroy231
+2|tough way 2|geroy231
 3|Tremor|TheZyZya
 4|Triple Kill|Unreal & Feuerball
 1|Troj|El Futuro
