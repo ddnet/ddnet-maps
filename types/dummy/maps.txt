@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Dynamic Dragger|Soapy Sandwich & Sorah
 2|Disability|Silex
 3|Hiking|Im 'corneum
 3|Tied up|Im 'corneum
 2|Apex|Pulsar
 3|downpour|Im 'corneum
 3|Vice City|Arrow
-3|noconce|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -109,6 +109,7 @@
 3|Nebula|Arrow
 4|Nentori|Ninjed
 3|Nincorn|Ninjed & Im 'corneum
+3|noconce|Im 'corneum
 4|nora|Im 'corneum
 3|nore|Im 'corneum
 3|noro|Im 'corneum
