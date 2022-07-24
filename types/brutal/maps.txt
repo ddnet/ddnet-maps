@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Aincrad|Chikatto Chika
 5|Just Pseudo Fly|Jimmy Jazz & Soapy Sandwich
 5|Mult0map|Cøke & Tridemy
 4|Simple Down|Zweitleben
 1|Freezeless|Destoros
 2|Yeyou 5|bit
 3|Take me to Desert|Savalic
-4|Just Shitfly|Genex & Syltoox
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -248,6 +248,7 @@
 4|Journey Man|MarvinProductions & Nigel
 4|Journey Man 2|Åmol
 2|Jungledread|[*MC*]-DuBai-.?
+4|Just Shitfly|Genex & Syltoox
 4|Just Triple Fly|Spyker
 2|Kabarda|Ninjed
 2|Karaboudjan|Bee
