@@ -1,6 +1,6 @@
 
 ─── NEW MAPS ───
-2|Pyramid-freeze-race|Tee 3D
+1|Pyramid-freeze-race|Tee 3D
 1|Campotle 5|Fluxid
 1|Campotle 4|Fluxid
 1|Campotle 3|Fluxid
