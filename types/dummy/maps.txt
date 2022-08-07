@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|chainism|Savalic
 3|Dynamic Dragger|Soapy Sandwich & Sorah
 2|Disability|Silex
 3|Hiking|Im 'corneum
 3|Tied up|Im 'corneum
 2|Apex|Pulsar
 3|downpour|Im 'corneum
-3|Vice City|Arrow
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -153,6 +153,7 @@
 2|Try It 2|Ciniminix
 3|Ulver|Arcturus
 3|unFrozen|Mıss Fʋггצ
+3|Vice City|Arrow
 1|Watch your time|Welf
 4|Yee|Im 'corneum
 3|Zonsa|Rod Slide
