@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Tee-forever-X17|Tee 3D
 1|Pyramid-freeze-race|Tee 3D
 1|Campotle 5|Fluxid
 1|Campotle 4|Fluxid
 1|Campotle 3|Fluxid
 1|Campotle 2|Fluxid
 1|Campotle 1|Fluxid
-2|Merely forth 2|geroy231
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -119,6 +119,7 @@
 2|Madness 3|Delo
 2|Madness 4|Delo & Kintaro*
 2|Merely forth|geroy231
+2|Merely forth 2|geroy231
 1|Miper 3|Miper
 1|Miper 4|Miper
 1|Miper 5|Miper
