@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Short And Precise 7|Destoros
 4|tlqkf 2|ɳ0vą
 4|Vagrant|louis
 2|Lets Climb|Adrecristo
 2|LiveMovement|Destoros
 5|Weapon Finals|Chrona
 3|pollito|Kenzo
-1|T-Sport|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -322,6 +322,7 @@
 2|Stop Over 4.0|N9mkOik
 3|Stop Over 5.0|Inner peace
 4|Sunburst2|ŊØṼÅ
+1|T-Sport|Im 'corneum
 2|Tee Legends 1|Bee & Alias
 2|Tee Legends 2|Bee & Alias
 2|Tee Legends 3|Bee & Alias
