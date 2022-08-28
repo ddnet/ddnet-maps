@@ -142,7 +142,7 @@
 3|Easy Hook|Zerodin
 5|Elitissimo|Juandissimo & {E}{L}{I}{T}{E}
 4|Emerald|LuxUnited
-5|Empty|IRGNW
+5|Empty|Ninjed
 4|Entei|Zerodin
 4|Eternal|Welf
 5|Eternal 2|Welf

@@ -72,7 +72,7 @@
 3|DuNoMa|Arcturus
 4|Equivalent Exchange|Ezio
 4|Equivalent Exchange 2|Ezio
-2|Escape from the Prison|IRGNW
+2|Escape from the Prison|Ninjed
 2|Essential|texnonik
 2|Fallen Fortress|Im 'corneum
 4|Feral|Cøke

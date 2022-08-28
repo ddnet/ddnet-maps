@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Dopee|Ninjed
 3|Short And Precise 7|Destoros
 4|tlqkf 2|ɳ0vą
 4|Vagrant|louis
 2|Lets Climb|Adrecristo
 2|LiveMovement|Destoros
 5|Weapon Finals|Chrona
-3|pollito|Kenzo
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -22,7 +22,7 @@
 4|Disposition|Ravie
 3|Freezejump|Im 'corneum
 3|IMA NINJA|Welf
-4|KeepOut|IRGNW & Juandissimo
+4|KeepOut|Ninjed & Juandissimo
 2|Late Evening|Bixes
 4|Lawrence|Themix
 3|Let's Swing|Juandissimo
@@ -47,7 +47,7 @@
 3|PetJack|timakro
 3|PetJack 2|timakro
 3|ROCKET-BELT|Cøke
-3|SpeedCore|Alvin Risk
+3|SpeedCore|Ninjed
 1|TOPOS|Im 'corneum
 
 ─── PUSH HOOK MAPS ───
@@ -119,7 +119,7 @@
 4|Cave Fly|Im 'corneum
 1|Cavity|тυx
 3|Cequals3|maggi323
-2|Cheepl|IRGNW
+2|Cheepl|Ninjed
 2|Chill Let's Climb|Chill [TD]
 2|Chill Let's Climb 2|Chill [TD]
 2|Chill Let's Climb 3|Chill [TD]
@@ -142,7 +142,7 @@
 1|Desert Night|fikmesån
 3|Dodge|Pulsar
 3|Duodecimo|Forris
-2|Dust's Leaf|IRGNW
+2|Dust's Leaf|Ninjed
 3|Dynasty|Cellegen
 3|ECHOR|Savalic
 4|Embrace|Deeper & Nyanto
@@ -154,7 +154,7 @@
 4|Equity [Hard]|Pipou & 645654
 3|Escape|timakro & Chill [TD]
 4|Eternity|Ninjed & Imperius
-3|Exalate|IRGNW & Kosho
+3|Exalate|Ninjed & Kosho
 5|Exanimus|Starkiller
 2|Extension 1.0|Jeet
 2|Extension 2.0|Jeet
@@ -178,7 +178,7 @@
 3|GLL|hi_leute_gll
 3|Golden_Evening|Gianth
 2|Gorou|Ryozuki
-3|Grand Shotgun|IRGNW
+3|Grand Shotgun|Ninjed
 3|Grid|Slayer
 4|Grind|Jimmy Jazz
 1|Hardcore 2 Solo
@@ -198,11 +198,11 @@
 4|Honkstar 2|Honky_Tonk_Man
 4|Honkstar 3|Honky_Tonk_Man
 3|Hopeless|Juandissimo
-2|Hopeless II|Juandissimo & IRGNW
+2|Hopeless II|Juandissimo & Ninjed
 4|HyperEdge|nealson T'nP
 3|I will be back|Miper
 1|Impetuous|Ravie
-2|Increase Your Speed|Wladimir
+2|Increase Your Speed|Ninjed
 3|Indami|Knuski
 2|Iron Island|Im 'corneum
 3|It's Time|Stalker
@@ -248,7 +248,7 @@
 4|Movement I|Nigel
 1|Moventer|Themix
 3|Nettex|{E}{L}{I}{T}{E}
-4|Network|Alvin Risk
+4|Network|Ninjed
 2|Night of Spikes|Element Finland
 1|No_Stuck|Xalcon
 4|Noh|Ninjed
@@ -259,6 +259,7 @@
 1|OldschoolAdventure|.me'
 4|Pharoah|mikey12
 2|Piston|louis
+3|pollito|Kenzo
 1|Prison 1|AKc0RiZer
 2|Propagate|Element Finland
 2|Provence|Im 'corneum
@@ -321,7 +322,7 @@
 2|Stop Over 3.0|N9mkOik
 2|Stop Over 4.0|N9mkOik
 3|Stop Over 5.0|Inner peace
-4|Sunburst2|ŊØṼÅ
+4|Sunburst2|Ninjed
 1|T-Sport|Im 'corneum
 2|Tee Legends 1|Bee & Alias
 2|Tee Legends 2|Bee & Alias
@@ -339,7 +340,7 @@
 5|Triplecan 2|Cøke
 2|turboSeks|Imperius
 2|Uniswim|Im 'corneum
-3|Universum 16|Neox & IRGNW
+3|Universum 16|Neox & Ninjed
 2|Van Gogh|Deeper
 2|Verification 2|Cøke
 2|Verification 2.1|Cøke
@@ -363,9 +364,9 @@
 4|Verification 9.0|estern
 4|Verification 9.1|estern
 2|Vesper|Kero
-2|VoidOfSpace|Alvin Risk
+2|VoidOfSpace|Ninjed
 1|Volt|louis
-3|WALL-E T|Alvin Risk & Åmol
+3|WALL-E T|Ninjed & Åmol
 3|Weird Cave|Rapture & ٭ıƞdex'<3
 3|Where am I|Deeper
 3|Where am I 2|Deeper

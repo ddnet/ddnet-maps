@@ -126,7 +126,7 @@
 4|Anoix|Gridwyn
 3|AnotherEra|»Rogue.
 4|Apathy|Ante.
-2|Apex2|Alvin Risk
+2|Apex2|Ninjed
 1|Arabic Night|Åmol & Gambol
 2|Arcadian|Jimmy Jazz & Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
@@ -321,7 +321,7 @@
 3|Run into the light|Silex & <BµmM>
 2|Scabrous|NeoN & Silex
 3|Sequite|Themix
-2|Shock Value|Wladimir
+2|Shock Value|Ninjed
 2|SimpleBLocks|SBL
 1|Skave|Im 'corneum
 4|Skill Rises|Varys
