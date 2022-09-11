@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|UDLR|FJP
 3|Dopee|Ninjed
 3|Short And Precise 7|Destoros
 4|tlqkf 2|ɳ0vą
 4|Vagrant|louis
 2|Lets Climb|Adrecristo
 2|LiveMovement|Destoros
-5|Weapon Finals|Chrona
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -367,6 +367,7 @@
 2|VoidOfSpace|Ninjed
 1|Volt|louis
 3|WALL-E T|Ninjed & Åmol
+5|Weapon Finals|Chrona
 3|Weird Cave|Rapture & ٭ıƞdex'<3
 3|Where am I|Deeper
 3|Where am I 2|Deeper
