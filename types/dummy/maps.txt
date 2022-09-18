@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Ryoiki Tenkai|Arrow & Im'corneum
 3|chainism|Savalic
 3|Dynamic Dragger|Soapy Sandwich & Sorah
 2|Disability|Silex
 3|Hiking|Im 'corneum
 3|Tied up|Im 'corneum
 2|Apex|Pulsar
-3|downpour|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -64,6 +64,7 @@
 5|DeepDrag|Micro
 2|Desert Dog|Im 'corneum
 2|Destruction|Zerodin & Hindu
+3|downpour|Im 'corneum
 3|Draxut|тυx
 3|Dreamland|StorмPʜöɴix
 2|drg5|Im 'corneum
