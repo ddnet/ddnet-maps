@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+4|Teeish Mine|SickCunt & Feuerfaust Ace
 3|Strategic Paraplegic|Jimmy Jazz & Soapy Sandwich
 5|Aincrad|Chikatto Chika
 5|Just Pseudo Fly|Jimmy Jazz & Soapy Sandwich
 5|Mult0map|Cøke & Tridemy
 4|Simple Down|Zweitleben
 1|Freezeless|Destoros
-2|Yeyou 5|bit
-3|Take me to Desert|Savalic
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -349,6 +348,7 @@
 3|Stronghold 3|Pipou
 3|superway|Cøke & Saavik
 4|Synesthesia|Elephant
+3|Take me to Desert|Savalic
 5|Tatooine|Rapture & Gridwyn
 2|Teetrader|SickCunt & Feuerfaust Ace
 4|TelEdge|Mystery?
@@ -393,6 +393,7 @@
 4|Wonderfully2|yo bitch
 4|WoodDivision V|Men of Steel
 4|Wour Forlds|Themix
+2|Yeyou 5|bit
 2|Yoko 1.1|Hitomi
 1|Yoko 2.1|Hitomi & Saavik
 1|Yoko 3.1|Hitomi & Saavik
