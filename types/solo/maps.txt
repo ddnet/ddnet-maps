@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Penalty|Savalic
 2|UDLR|FJP
 3|Dopee|Ninjed
 3|Short And Precise 7|Destoros
 4|tlqkf 2|ɳ0vą
 4|Vagrant|louis
 2|Lets Climb|Adrecristo
-2|LiveMovement|Destoros
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -226,6 +226,7 @@
 3|Lawliet|☆.Sυsнι♪
 2|Leftovers 1|Im 'corneum
 4|Lifture|Cor
+2|LiveMovement|Destoros
 2|Lonely Swim 3|Tuna
 1|Lonely Swim 4|Tuna
 2|Lonely Swim 9.0|Tuna
