@@ -6,7 +6,6 @@
 2|Steff fastrun 5|Tsin
 1|run_4tea|ano :3
 3|Knux|Knuski
-5|1Hook|Starkiller
 
 ─── OTHER MAPS ───
 2|Aufnahmetest_AE|teetee
