@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+2|Pendulum|FJP
 2|Penalty|Savalic
 2|UDLR|FJP
 3|Dopee|Ninjed
 3|Short And Precise 7|Destoros
 4|tlqkf 2|ɳ0vą
 4|Vagrant|louis
-2|Lets Climb|Adrecristo
-5|1Hook|Starkiller
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -75,6 +74,7 @@
 2|WallJump|Kintaro*
 
 ─── OTHER MAPS ───
+5|1Hook|Starkiller
 2|1of4|Chill [TD]
 3|2+2=green|Ezio
 2|2of4|Chill [TD]
@@ -226,6 +226,7 @@
 3|Last Jump|Kosho
 3|Lawliet|☆.Sυsнι♪
 2|Leftovers 1|Im 'corneum
+2|Lets Climb|Adrecristo
 4|Lifture|Cor
 2|LiveMovement|Destoros
 2|Lonely Swim 3|Tuna
