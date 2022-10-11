@@ -146,12 +146,6 @@
 ─── OLD MAPS ───
 4|Epix|Cookie & Lealen
 5|Killa 3|Lilith
-4|Koule 1|Intercity, Broken & Bee
-2|Koule 2|Intercity, Broken & Bee
-2|Koule 3|Intercity, Broken & Bee
-5|Koule 4|Intercity, Broken & Bee
-1|Koule 5|Intercity, Broken & Bee
-4|Koule 7|Intercity, Broken & Bee
 5|Shadow|Deeper
 3|Skillz 1|Tvgucker
 3|Skillz 2|Tvgucker

@@ -107,6 +107,13 @@
 1|Just Fly 3|Delo
 1|Just Hookfly 1|SonGoku & spimm
 1|Just Hookfly 2|SonGoku & spimm
+1|Koule 1|Intercity, Broken & Bee
+1|Koule 2|Intercity, Broken & Bee
+1|Koule 3|Intercity, Broken & Bee
+1|Koule 4|Intercity, Broken & Bee
+1|Koule 5|Intercity, Broken & Bee
+1|Koule 7|Intercity, Broken & Bee
+3|Koule 17|Intercity, Broken & Bee
 2|Kovcheg|Opana & Kos5304
 3|Last Chance|Be Happy & SlaeR
 5|LichKing|Barsum & Arem Shin

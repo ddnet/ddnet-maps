@@ -255,7 +255,6 @@
 2|Karaboudjan 3|Bee
 2|Kassin|Åmol
 3|Kickout|Fullander
-2|Koule 17|Intercity, Broken & Bee
 1|leopold|Shorefire
 3|Level Asian|Gianth
 5|likeOldschool|Chill [TD]
