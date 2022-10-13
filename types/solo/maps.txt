@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|GetSpeed 4|Konsti
 2|Pendulum|FJP
 2|Penalty|Savalic
 2|UDLR|FJP
 3|Dopee|Ninjed
 3|Short And Precise 7|Destoros
 4|tlqkf 2|ɳ0vą
-4|Vagrant|louis
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -344,6 +344,7 @@
 2|turboSeks|Imperius
 2|Uniswim|Im 'corneum
 3|Universum 16|Neox & Ninjed
+4|Vagrant|louis
 2|Van Gogh|Deeper
 2|Verification 2|Cøke
 2|Verification 2.1|Cøke
