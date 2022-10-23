@@ -1,0 +1,24 @@
+3|NUT Hardcore UNITED|Zeta-Hoernchen
+3|NUT_hardcore_bestof|Zeta-Hoernchen
+3|NUT_hardcore_race1|Zeta-Hoernchen
+3|NUT_hardcore_race2|Zeta-Hoernchen
+2|NUT_hardcore_race3|Zeta-Hoernchen
+2|NUT_hardcore_race4|Zeta-Hoernchen
+3|NUT_hardcore_race5|Zeta-Hoernchen
+3|NUT_hardcore_race6|Zeta-Hoernchen
+2|NUT_race1|Zeta-Hoernchen
+2|NUT_race2|Bad-Hoernchen
+2|NUT_race3|Zeta-Hoernchen
+2|NUT_race4|Zeta-Hoernchen
+2|NUT_race5|Zeta-Hoernchen
+3|NUT_race6|Zeta-Hoernchen
+2|NUT_race7|Bad-Hoernchen
+2|NUT_race8|Zeta-Hoernchen
+2|NUT_race9|Zeta-Hoernchen
+1|NUT_short_race1|Zeta-Hoernchen
+1|NUT_short_race2|Zeta-Hoernchen
+0|NUT_short_race3|Zeta-Hoernchen
+1|NUT_short_race4|Zeta-Hoernchen
+1|NUT_short_race5|Zeta-Hoernchen
+0|NUT_short_race6|Zeta-Hoernchen
+0|NUT_short_race7|Zeta-Hoernchen

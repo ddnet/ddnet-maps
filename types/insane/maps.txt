@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|4k|Åmol
 3|Aimbot|Aoe
 4|Back in Time 3|Silex
 1|Somnium|Starkiller
 4|1AndOnLyLife|Lenah
 3|New Generation II|Feuerfaust Ace
 3|pedeuliar|BooNi
-4|Aimateur|Aoe
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -17,6 +17,7 @@
 1|Adrenaline 4.1|Silex
 1|Adrenaline 4.2|Silex
 3|Adrenaline 5|Silex & Pipou
+4|Aimateur|Aoe
 1|Aimazing|Aoe
 3|Aimlicious|Aoe
 3|Back in Time 2|Silex
