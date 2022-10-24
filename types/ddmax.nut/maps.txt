@@ -1,117 +1,25 @@
-5|#MegaRosenkohl|DaSpongi :> & DaGiese :>
-4|-Ikarus-|Bixes
-4|21|645654 & maggi323
-5|Adrenaline 3|Silex
-3|Alpaga|Scratchy <3
-4|Ambrosia|BooNi
-3|Arcade|RosenVerkäufer
-3|Arcade 2|RosenVerkäufer
-4|AreaOfEffect|Aoe
-5|At Night|Teengoten & Loop
-4|Beachmap|estern
-4|Besbex|SBL
-5|Best Of|Jeet
-4|Black & Red|Kenji
-5|Black_City|Bixes
-5|Blizzard!|Ice!
-5|Blue Hell|Cøke
-4|blue-mountains|Welf
-5|BrokenBlack-1|YeahxX
-4|Brownie|Phaturia
-4|Chaos 1|DiViNe
-4|Chaos 2|DiViNe
-4|Chaos 3|DiViNe
-4|Chaos 4|DiViNe
-4|Cloud Nine|!@pFeL!, Pirate & Trear
-5|Cocaine|Ignis©
-5|Confusion|[*MC*]-DuBai-.?
-4|CrazyHOOD|SBL
-4|Creative|estern
-4|Curse|Ama
-4|DawnOfDust|estern
-5|Day|DiViNe
-4|DayWalker|SBL
-3|Dead Island|Draq & [*MC*]-DuBai-.?
-4|Deadline 1|Unreal
-4|Deadline 2|Unreal
-5|DeathClaw|estern
-3|Dels|NeoN
-4|Dels 2|NeoN
-4|Dels 3|NeoN
-4|Deria|Destoros
-3|Difficult 1.1|!_Vergeboy_!
-4|Difficult 1.2|!_Vergeboy_!
-5|Difficult 1.3|!_Vergeboy_!
-3|Difficult 2.1|!_Vergeboy_!
-4|Difficult 2.2|!_Vergeboy_!
-5|Difficult 2.3|!_Vergeboy_!
-3|Divided|[*MC*]-DuBai-.?
-4|DoT|Aoe
-4|Dragonscale|Cøke & Aoe
-4|Dreadful|estern
-4|Easy Way|Cøke
-5|Eclipse|Jeet
-4|Elo-Hell|YeahxX
-4|Energie|YeahxX
-3|Equalize!|Scratchy <3
-5|Executive|estern
-3|Explosive|Feuerball
-4|Fantabob|*zerø*
-3|Fly to the Moon|Micro
-5|Forever|Silex
-4|Four Gates|[*MC*]-DuBai-.?
-5|Gold Rush|Draq
-4|Hard Way 1.0|Trax
-5|HardcoreZ|Teengoten
-5|HearTbeaT|Forris
-5|HearTcross|BooNi
-4|Hell Fly|Trax & Unreal
-5|Imagination3|Heaven & Cenarrius
-5|Insane|save.
-5|Insane 2|save.
-5|Insane 3|save.
-5|Inspire|TeChNoBaSe
-4|IronFlight|SBL
-5|Jajka|Ark :3
-4|Lost Castle|[*MC*]-DuBai-.?
-5|LowPossibility3.1|blue
-4|Madness 5|Delo
-4|MicCore|Micro
-4|Multivitamin|hohesC
-4|Nasa|Aoe
-5|Natura|!@pFeL! & Blackflame
-4|Night Jungle|JeanneDark & Knight :3
-4|Nightmare|Unreal
-4|NightRunner|SBL
-4|Notice 1|Avaron
-4|Ntumba|maggi323
-5|Outlet|YeahxX
-4|Paik|Destoros
-2|Paranoia|Líme.ftw!
-5|Picklock|Nomlow
-4|Poke|Destoros
-4|Rampage|Captain
-4|Reality|Kintaro*
-5|Red Hell|Cøke
-3|Repeat|DiViNe
-4|Rockita|Ark :3
-5|Scabrous 2|NeoN
-4|Skyfly|[*MC*]-DuBai-.? & Destoros
-4|SkyIsland|Storm
-4|Skyisland2|Storm
-4|Skyisland3|Storm
-4|skynet compilation|szyker, Tsin & noother
-4|Space|Silex
-5|Summer Hell|Trax, Feuerball & Silex
-5|supernice|*WuDL*
-3|The Tower|Jeet
-5|Therapy|Ama
-5|TheWalkingDead|Ezio
-4|Think! 2|Tvgucker
-4|Veni Vidi Vici|[*MC*]-DuBai-.?
-4|Volcano|[*MC*]-DuBai-.?
-4|whatever|eci.iN*
-5|Woader|Destoros
-4|World of Magic|Captain
-4|Zephronikon|Jim-panse
-4|~AuTuMn~|KBeeeR & .me'
+
+3|NUT Hardcore UNITED|Zeta-Hoernchen
+3|NUT_hardcore_bestof|Zeta-Hoernchen
+3|NUT_hardcore_race1|Zeta-Hoernchen
+3|NUT_hardcore_race2|Zeta-Hoernchen
+2|NUT_hardcore_race3|Zeta-Hoernchen
+2|NUT_hardcore_race4|Zeta-Hoernchen
+3|NUT_hardcore_race5|Zeta-Hoernchen
+3|NUT_hardcore_race6|Zeta-Hoernchen
+2|NUT_race1|Zeta-Hoernchen
+2|NUT_race2|Bad-Hoernchen
+2|NUT_race3|Zeta-Hoernchen
+2|NUT_race4|Zeta-Hoernchen
+2|NUT_race5|Zeta-Hoernchen
+3|NUT_race6|Zeta-Hoernchen
+2|NUT_race7|Bad-Hoernchen
+2|NUT_race8|Zeta-Hoernchen
+2|NUT_race9|Zeta-Hoernchen
+1|NUT_short_race1|Zeta-Hoernchen
+1|NUT_short_race2|Zeta-Hoernchen
+0|NUT_short_race3|Zeta-Hoernchen
+1|NUT_short_race4|Zeta-Hoernchen
+1|NUT_short_race5|Zeta-Hoernchen
+0|NUT_short_race6|Zeta-Hoernchen
+0|NUT_short_race7|Zeta-Hoernchen
