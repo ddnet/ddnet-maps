@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|milkyway|liesus & yo bitch
 2|Patterns|Destoros
 4|Teeish Mine|SickCunt & Feuerfaust Ace
 3|Strategic Paraplegic|Jimmy Jazz & Soapy Sandwich
 5|Aincrad|Chikatto Chika
 5|Just Pseudo Fly|Jimmy Jazz & Soapy Sandwich
 5|Mult0map|Cøke & Tridemy
-4|Simple Down|Zweitleben
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -322,6 +322,7 @@
 2|Scabrous|NeoN & Silex
 3|Sequite|Themix
 2|Shock Value|Ninjed
+4|Simple Down|Zweitleben
 2|SimpleBLocks|SBL
 1|Skave|Im 'corneum
 4|Skill Rises|Varys
