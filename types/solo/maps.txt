@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Grassland|Ninjed
 2|willow|louis
 5|GetSpeed 4|Konsti
 2|Pendulum|FJP
 2|Penalty|Savalic
 2|UDLR|FJP
 3|Dopee|Ninjed
-3|Short And Precise 7|Destoros
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -293,6 +293,7 @@
 2|Short And Precise 4|Destoros
 2|Short And Precise 5|Destoros
 2|Short And Precise 6|Destoros
+3|Short And Precise 7|Destoros
 2|Short Con|Broken
 2|Short Sky|S.O.S
 4|Shortgun|Cor
