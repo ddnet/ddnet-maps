@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+3|Winterfall|Chikatto Chika
 5|Cerberus|Pulsar, Ravie & Sorah
 3|milkyway|liesus & yo bitch
 2|Patterns|Destoros
 4|Teeish Mine|SickCunt & Feuerfaust Ace
 3|Strategic Paraplegic|Jimmy Jazz & Soapy Sandwich
 5|Aincrad|Chikatto Chika
-5|Just Pseudo Fly|Jimmy Jazz & Soapy Sandwich
-5|Mult0map|Cøke & Tridemy
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -250,6 +249,7 @@
 4|Journey Man|MarvinProductions & Nigel
 4|Journey Man 2|Åmol
 2|Jungledread|[*MC*]-DuBai-.?
+5|Just Pseudo Fly|Jimmy Jazz & Soapy Sandwich
 4|Just Shitfly|Genex & Syltoox
 4|Just Triple Fly|Spyker
 2|Kabarda|Ninjed
@@ -280,6 +280,7 @@
 1|mmips|spimm
 4|Moonshine|QuiX
 2|Moonstone|Hesse & Kayumi
+5|Mult0map|Cøke & Tridemy
 3|Mystic River|Themix
 3|Mystical Island|StorмPʜöɴix
 3|Narcissistic|fikmesån & imp
