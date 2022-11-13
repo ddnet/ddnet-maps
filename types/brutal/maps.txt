@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Simple Down 2|Zweitleben
 3|Winterfall|Chikatto Chika
 5|Cerberus|Pulsar, Ravie & Sorah
 3|milkyway|liesus & yo bitch
 2|Patterns|Destoros
 4|Teeish Mine|SickCunt & Feuerfaust Ace
 3|Strategic Paraplegic|Jimmy Jazz & Soapy Sandwich
-5|Aincrad|Chikatto Chika
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -115,6 +115,7 @@
 3|Aim 6.0|Aoe
 3|Aim 7.0|Aoe
 4|Aim 8.0|Aoe
+5|Aincrad|Chikatto Chika
 5|Airsky|Themix
 3|aled|Kicker
 4|aled II|Kicker
