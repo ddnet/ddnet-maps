@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Koule 8|Intercity, Broken & Bee
+2|Koule 6|Intercity, Broken & Bee
 1|Tee-forever-X17|Tee 3D
 1|Pyramid-freeze-race|Tee 3D
 1|Campotle 5|Fluxid
 1|Campotle 4|Fluxid
 1|Campotle 3|Fluxid
-1|Campotle 2|Fluxid
-1|Campotle 1|Fluxid
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -23,6 +23,8 @@
 3|Blue|MaDLeX
 3|Broken World|SlaeR
 3|Bush|Kintaro*
+1|Campotle 1|Fluxid
+1|Campotle 2|Fluxid
 2|Castoreum|Ezio & Stalker
 4|City of Death|Black-_-lotus & Jo0
 3|Continuum|spimm
@@ -107,12 +109,6 @@
 1|Just Fly 3|Delo
 1|Just Hookfly 1|SonGoku & spimm
 1|Just Hookfly 2|SonGoku & spimm
-1|Koule 1|Intercity, Broken & Bee
-1|Koule 2|Intercity, Broken & Bee
-1|Koule 3|Intercity, Broken & Bee
-1|Koule 4|Intercity, Broken & Bee
-1|Koule 5|Intercity, Broken & Bee
-1|Koule 7|Intercity, Broken & Bee
 3|Koule 17|Intercity, Broken & Bee
 2|Kovcheg|Opana & Kos5304
 3|Last Chance|Be Happy & SlaeR
@@ -194,4 +190,10 @@
 3|Zadrotos_final|Opana
 
 ─── OLD MAPS ───
+1|Koule 1|Intercity, Broken & Bee
+1|Koule 2|Intercity, Broken & Bee
+1|Koule 3|Intercity, Broken & Bee
+1|Koule 4|Intercity, Broken & Bee
+1|Koule 5|Intercity, Broken & Bee
+1|Koule 7|Intercity, Broken & Bee
 1|Multimap|TPaul
