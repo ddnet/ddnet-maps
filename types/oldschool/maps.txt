@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Koule 15|Intercity, Broken & Bee
+2|Koule 14|Intercity, Broken & Bee
 1|Koule 11|Intercity, Broken & Bee
 3|Koule 10|Intercity, Broken & Bee
 2|Koule 9|Intercity, Broken & Bee
 1|Koule 8|Intercity, Broken & Bee
 2|Koule 6|Intercity, Broken & Bee
-1|Tee-forever-X17|Tee 3D
-1|Pyramid-freeze-race|Tee 3D
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -143,6 +143,7 @@
 2|Poreotics|Kintaro*
 2|Predator 1|Ama & Tvgucker
 3|Professional|Moby Dog
+1|Pyramid-freeze-race|Tee 3D
 3|Qwertz|Kintaro*
 2|Ray - 1|Ray
 2|Red Japan|Ray
@@ -163,6 +164,7 @@
 2|StrangeNight
 5|Striped Clouds|Pokemon
 2|Synergy|estern
+1|Tee-forever-X17|Tee 3D
 1|Teestar|Kintaro*
 2|The Ultimate Rainbow|MaDLeX
 2|Tibto|Cøke & Moby Dog
