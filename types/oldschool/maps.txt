@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Koule 13|Intercity, Broken & Bee
+2|Koule 12|Intercity, Broken & Bee
+1|Koule 16|Intercity, Broken & Bee
 2|Koule 15|Intercity, Broken & Bee
 2|Koule 14|Intercity, Broken & Bee
 1|Koule 11|Intercity, Broken & Bee
 3|Koule 10|Intercity, Broken & Bee
-2|Koule 9|Intercity, Broken & Bee
-1|Koule 8|Intercity, Broken & Bee
-2|Koule 6|Intercity, Broken & Bee
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -113,6 +113,9 @@
 1|Just Hookfly 1|SonGoku & spimm
 1|Just Hookfly 2|SonGoku & spimm
 3|Koule 17|Intercity, Broken & Bee
+2|Koule 6|Intercity, Broken & Bee
+1|Koule 8|Intercity, Broken & Bee
+2|Koule 9|Intercity, Broken & Bee
 2|Kovcheg|Opana & Kos5304
 3|Last Chance|Be Happy & SlaeR
 5|LichKing|Barsum & Arem Shin
