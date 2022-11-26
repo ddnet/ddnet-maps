@@ -115,7 +115,6 @@
 3|Aim 6.0|Aoe
 3|Aim 7.0|Aoe
 4|Aim 8.0|Aoe
-5|Aincrad|Chikatto Chika
 5|Airsky|Themix
 3|aled|Kicker
 4|aled II|Kicker
@@ -281,7 +280,6 @@
 1|mmips|spimm
 4|Moonshine|QuiX
 2|Moonstone|Hesse & Kayumi
-5|Mult0map|Cøke & Tridemy
 3|Mystic River|Themix
 3|Mystical Island|StorмPʜöɴix
 3|Narcissistic|fikmesån & imp
