@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Holidays|Destoros
 1|Baerchen|jana
 4|DaoYu Night|just & FightFire
 1|Just Every Fly|Soapy Sandwich & Jimmy Jazz
 2|Rotate|Pipou
 1|Tobi|jana
 2|DaoYu|just
-4|oco|Pulsar
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -235,6 +235,7 @@
 4|No Merci|Chill [TD]
 3|Not Adrenaline 4|Silex & Kintaro*
 3|Nujabes|☠Arcŧurus☠
+4|oco|Pulsar
 3|Olymp|StorмPʜöɴix
 3|One Way|Destoros
 5|Optimum|Knight :3
