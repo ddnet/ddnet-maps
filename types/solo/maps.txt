@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|reflects|Ninjed & Pipou
 1|Grassland|Ninjed
 2|willow|louis
 5|GetSpeed 4|Konsti
 2|Pendulum|FJP
 2|Penalty|Savalic
 2|UDLR|FJP
-3|Dopee|Ninjed
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -142,6 +142,7 @@
 3|Desert Mine|Blue
 1|Desert Night|fikmesån
 3|Dodge|Pulsar
+3|Dopee|Ninjed
 3|Duodecimo|Forris
 2|Dust's Leaf|Ninjed
 3|Dynasty|Cellegen
