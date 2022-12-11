@@ -6,7 +6,6 @@
 1|Just Every Fly|Soapy Sandwich & Jimmy Jazz
 2|Rotate|Pipou
 1|Tobi|jana
-2|DaoYu|just
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -122,6 +121,7 @@
 2|Cry|Hitomi
 4|Crystal Maze|sorgaxD
 0|CYO|=CuBe=
+2|DaoYu|just
 5|DarkRoad|=Typhoon=
 3|Daunell|Evoli
 5|Dawn To Dusk|mikey12
