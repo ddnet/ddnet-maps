@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|23shots|texnonik & ƤØŢĀŤ0.Co
 4|reflects|Ninjed & Pipou
 1|Grassland|Ninjed
 2|willow|louis
 5|GetSpeed 4|Konsti
 2|Pendulum|FJP
 2|Penalty|Savalic
-2|UDLR|FJP
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -346,6 +346,7 @@
 4|Triplecan|Cøke
 5|Triplecan 2|Cøke
 2|turboSeks|Imperius
+2|UDLR|FJP
 2|Uniswim|Im 'corneum
 3|Universum 16|Neox & Ninjed
 4|Vagrant|louis
