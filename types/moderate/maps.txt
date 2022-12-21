@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Slippy Slide Up|Ravie
 3|AiP-Bores|Nieme & Pipou
 4|Holidays|Destoros
 1|Baerchen|jana
 4|DaoYu Night|just & FightFire
 1|Just Every Fly|Soapy Sandwich & Jimmy Jazz
 2|Rotate|Pipou
-1|Tobi|jana
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -323,6 +323,7 @@
 5|Tiji|Im 'corneum
 5|Time Shop|Soapy Sandwich
 3|Toadsquad|Vasten100
+1|Tobi|jana
 3|Top 2|mikey12
 4|Topsy Turvy|TheZyZya
 4|TowerOfDesperation|Delo
