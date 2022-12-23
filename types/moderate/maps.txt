@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|run_guys_25|Kaestchen & Knuski
 2|Slippy Slide Up|Ravie
 3|AiP-Bores|Nieme & Pipou
 4|Holidays|Destoros
 1|Baerchen|jana
 4|DaoYu Night|just & FightFire
 1|Just Every Fly|Soapy Sandwich & Jimmy Jazz
-2|Rotate|Pipou
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -277,6 +277,7 @@
 3|Resoren|Revelo
 3|Rivendell|hannibal & hi_leute_gll
 1|rizek|Fňokurka oo7
+2|Rotate|Pipou
 3|Run Free|fikmesån
 4|Sabell|Evoli
 4|Sacred Source|Themix
