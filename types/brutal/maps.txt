@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Quantum|Pulsar
 3|Umbrella|Imperius & egorfake
 2|Arctic Festivity|louis, Im 'corneum, Silex, Voxel & Pipou
 2|Adrenachill 5 Part 2|Pipou & Silex
 1|2 Days in the back|Silex & Pipou
 1|Not Really Yo'Ci|Skeptar, meew & Pipou
 1|Tinyhold|Pipou & Patiga
-2|Adrenachill 5 Part 1|Pipou & Silex
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -105,6 +105,7 @@
 5|808|Cøke & Im 'corneum
 2|A Strange Dream|SUKA
 1|Acidate|BamBam
+2|Adrenachill 5 Part 1|Pipou & Silex
 4|Agony|TheZyZya & Juandissimo
 3|Aim 1.0|Aoe
 4|Aim 11.0|Aoe
