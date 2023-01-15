@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|FarLands|Genex, Freezestyler, <BµmM>, J$ON & Panik
 5|Adorenarine|Konsti
 4|4k|Åmol
 1|Aincrad|Chikatto Chika
 3|Aimbot|Aoe
 1|Mult0map|Cøke & Tridemy
 4|Back in Time 3|Silex
-1|Somnium|Starkiller
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -46,6 +46,7 @@
 2|Resistance|Themix
 1|Shawker|Shawn. & Spyker
 1|Shockwave|Konsti
+1|Somnium|Starkiller
 1|Springlobe 3|Themix
 3|Tatooine 2|Gridwyn & Rapture
 1|The Enchanted Clearing|MaDLeX
