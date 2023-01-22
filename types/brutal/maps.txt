@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Bounce|Silex
 1|Quantum|Pulsar
 3|Umbrella|Imperius & egorfake
 2|Arctic Festivity|louis, Im 'corneum, Silex, Voxel & Pipou
 2|Adrenachill 5 Part 2|Pipou & Silex
 1|2 Days in the back|Silex & Pipou
 1|Not Really Yo'Ci|Skeptar, meew & Pipou
-1|Tinyhold|Pipou & Patiga
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -375,6 +375,7 @@
 3|Threesome|645654, Phacrum & cris
 2|Time Eater|imp
 2|Time to Switch|тυx
+1|Tinyhold|Pipou & Patiga
 3|To the moon|Ryozuki
 4|Ton 2|FunCat
 2|Tough|Hindu
