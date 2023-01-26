@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|DonoWall|jana
 4|Gehenna|Starkiller
 2|Death Rays|Im 'corneum
 3|23shots|texnonik & ƤØŢĀŤ0Co
 4|reflects|Ninjed & Pipou
 1|Grassland|Ninjed
 2|willow|louis
-5|GetSpeed 4|Konsti
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -173,6 +173,7 @@
 2|Gedan2|Vasten100
 2|GetSpeed|Konsti
 4|GetSpeed 3|Konsti
+5|GetSpeed 4|Konsti
 3|GetSpeed2|Konsti
 2|GHB_DDrace|Nieme
 4|ghbdtn|Gridwyn
