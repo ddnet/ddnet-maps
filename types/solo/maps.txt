@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|run_as_a_pro|MTJ
 2|DonoWall|jana
 4|Gehenna|Starkiller
 2|Death Rays|Im 'corneum
 3|23shots|texnonik & ƤØŢĀŤ0Co
 4|reflects|Ninjed & Pipou
 1|Grassland|Ninjed
-2|willow|louis
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -384,6 +384,7 @@
 3|Where am I|Deeper
 3|Where am I 2|Deeper
 2|Whitemoon|Cellegen
+2|willow|louis
 2|Wormhole|hi_leute_gll
 2|WSMS|Element Finland
 2|Zap|Ravie
