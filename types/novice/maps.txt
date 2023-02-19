@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Electric|Raks
 4|xyzyx|Oy, Themix & Pipou
 3|Give u the Moon|FeaRZ
 1|Tutorial|unique2 & Alisa
 5|SeMang 2|just & Wartoz
 5|Beyond Light|Arrow & FeaRZ
 5|SeMang 1|just & Wartoz
-5|Lighthouse|QuiX
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -97,6 +97,7 @@
 5|Lavender Forest|Pipou
 2|LearnToPlay|Tridemy & Cøke
 3|Light Grey|Lightbulb & ٭ıƞdex'<3
+5|Lighthouse|QuiX
 2|Linear|louis
 3|Lonely|RayB.
 4|Looney|☆.Sυsнι♪
