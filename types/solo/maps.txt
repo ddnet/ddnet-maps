@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Swingaroo|Knuski
 5|run_as_a_pro|MTJ
 2|DonoWall|jana
 4|Gehenna|Starkiller
 2|Death Rays|Im 'corneum
 3|23shots|texnonik & ƤØŢĀŤ0Co
 4|reflects|Ninjed & Pipou
-1|Grassland|Ninjed
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -182,6 +182,7 @@
 3|Golden_Evening|Gianth
 2|Gorou|Ryozuki
 3|Grand Shotgun|Ninjed
+1|Grassland|Ninjed
 3|Grid|Slayer
 4|Grind|Jimmy Jazz
 1|Hardcore 2 Solo
