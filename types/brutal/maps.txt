@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Yeyou 6|bit
 4|Bounce|Silex
 1|Quantum|Pulsar
 3|Umbrella|Imperius & egorfake
 2|Arctic Festivity|louis, Im 'corneum, Silex, Voxel & Pipou
 2|Adrenachill 5 Part 2|Pipou & Silex
 1|2 Days in the back|Silex & Pipou
-1|Not Really Yo'Ci|Skeptar, meew & Pipou
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -297,6 +297,7 @@
 2|NoMore! 2|Chill [TD]
 2|NoMore! 3|Chill [TD]
 3|Not Adrenaline 6|Silex, StorмPʜöɴix & Konsti
+1|Not Really Yo'Ci|Skeptar, meew & Pipou
 1|Nucl|BannZay & Goran
 1|nullptr|Shishigami
 2|Nyanpasu|☆.Sυsнι♪
