@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Single Nade|Destoros
 3|Swingaroo|Knuski
 5|run_as_a_pro|MTJ
 2|DonoWall|jana
 4|Gehenna|Starkiller
 2|Death Rays|Im 'corneum
 3|23shots|texnonik & ƤØŢĀŤ0Co
-4|reflects|Ninjed & Pipou
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -280,6 +280,7 @@
 1|Race_Sanktoras|Sanktoras
 1|Raid|Im 'corneum
 3|Rapid|Pulsar
+4|reflects|Ninjed & Pipou
 1|Replay|Im 'corneum
 2|Rocket Jump|<BµmM>
 2|Rocket Player|RayB.
