@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Portalgeist|louis
 3|yayita|Kenzo
 3|Ryoiki Tenkai|Arrow & Im 'corneum
 3|chainism|Savalic
 3|Dynamic Dragger|Soapy Sandwich & Sorah
 2|Disability|Silex
 3|Hiking|Im 'corneum
-3|Tied up|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -148,6 +148,7 @@
 2|TakeUrLuggage|Tuna & ٭ıƞdex'<3
 3|Target|Soapy Sandwich
 2|Tech|Seba0006 & Antro
+3|Tied up|Im 'corneum
 3|Toe Taps|Soapy Sandwich
 4|TomorrowLand|Skeptar & tobu.
 3|Tropical Drag|RayB.
