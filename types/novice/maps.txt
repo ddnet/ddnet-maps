@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Semang 3|Wartoz
 5|Electric|Raks
 4|xyzyx|Oy, Themix & Pipou
 3|Give u the Moon|FeaRZ
 1|Tutorial|unique2 & Alisa
 5|SeMang 2|just & Wartoz
 5|Beyond Light|Arrow & FeaRZ
-5|SeMang 1|just & Wartoz
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -120,6 +120,7 @@
 3|Psyll|Evoli
 5|Seagulls|fikmesån
 1|Seasons|Knight :3
+5|SeMang 1|just & Wartoz
 5|Senani|Åmol
 4|Sincera|ReD
 5|Sincera 2|ReD
