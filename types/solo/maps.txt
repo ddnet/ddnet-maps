@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Telephone 3|n9
 5|Weapon Finals II|Chrona
 2|Single Nade|Destoros
 3|Swingaroo|Knuski
 5|run_as_a_pro|MTJ
 2|DonoWall|jana
 4|Gehenna|Starkiller
-2|Death Rays|Im 'corneum
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -136,6 +136,7 @@
 3|DarkEagle|=xPeke=
 3|DarkMove|=xPeke=
 2|deadrun|Harbinger
+2|Death Rays|Im 'corneum
 3|DeepEdge|Deeper
 3|Definition|Inner peace
 2|Delension|BamBam
