@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|CtS|Ciniminix
 2|Portalgeist|louis
 3|yayita|Kenzo
 3|Ryoiki Tenkai|Arrow & Im 'corneum
 3|chainism|Savalic
 3|Dynamic Dragger|Soapy Sandwich & Sorah
 2|Disability|Silex
-3|Hiking|Im 'corneum
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -83,6 +83,7 @@
 4|GenericDrag|Skeptar & Slayer
 2|Greed|Kosho
 3|Gummy|Genex
+3|Hiking|Im 'corneum
 3|Hondrag|Knuski
 4|Huanghu|bit
 4|Injection|Themix
