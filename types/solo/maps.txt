@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|taser|Welshi
 3|Telephone 3|n9
 5|Weapon Finals II|Chrona
 2|Single Nade|Destoros
 3|Swingaroo|Knuski
 5|run_as_a_pro|MTJ
 2|DonoWall|jana
-4|Gehenna|Starkiller
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -173,6 +173,7 @@
 4|Fly to the Legends 2|nealson T'nP
 2|ForeverAlone|Delo
 2|Gedan2|Vasten100
+4|Gehenna|Starkiller
 2|GetSpeed|Konsti
 4|GetSpeed 3|Konsti
 5|GetSpeed 4|Konsti
