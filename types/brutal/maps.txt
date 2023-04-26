@@ -152,7 +152,7 @@
 2|brainduck|٭ıƞdex'<3 & Rapture
 3|brainduck2|٭ıƞdex'<3 & Rapture
 3|Brosty|DarkOort
-1|Bumblebee|ΔWΞSƟΜΞ
+1|Bumblebee|Savalic
 2|Burger|Waschlappen
 1|Cemetery|{E}{L}{I}{T}{E} & ٭ıƞdex'<3
 5|Cerberus|Pulsar, Ravie & Sorah
@@ -290,8 +290,8 @@
 3|New World|Zerodin
 2|Next LvL|Cøke & Tridemy
 2|Nightly Tandem|timakro & ٭ıƞdex'<3
-3|Nightstar|ΔWΞSƟΜΞ & AmaZiinG
-3|Nightstar 2|ΔWΞSƟΜΞ
+3|Nightstar|Savalic & AmaZiinG
+3|Nightstar 2|Savalic
 1|Nirvana|Hindu & Kayumi
 2|NoMore!|Chill [TD]
 2|NoMore! 2|Chill [TD]
