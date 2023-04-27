@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Double Nade|Destoros
 1|taser|Welshi
 3|Telephone 3|n9
 5|Weapon Finals II|Chrona
 2|Single Nade|Destoros
 3|Swingaroo|Knuski
 5|run_as_a_pro|MTJ
-2|DonoWall|jana
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -144,6 +144,7 @@
 3|Desert Mine|Blue
 1|Desert Night|fikmesån
 3|Dodge|Pulsar
+2|DonoWall|jana
 3|Dopee|Ninjed
 3|Duodecimo|Forris
 2|Dust's Leaf|Ninjed
