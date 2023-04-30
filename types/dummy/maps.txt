@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Pataros II|Exotix
 3|Dark Night|NeZoX
 3|CtS|Ciniminix
 2|Portalgeist|louis
 3|yayita|Kenzo
 3|Ryoiki Tenkai|Arrow & Im 'corneum
 3|chainism|Savalic
-3|Dynamic Dragger|Soapy Sandwich & Sorah
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -73,6 +73,7 @@
 3|Drip Dry|Im 'corneum
 2|Dummy Chamber 3|Im 'corneum
 3|DuNoMa|Arcturus
+3|Dynamic Dragger|Soapy Sandwich & Sorah
 4|Equivalent Exchange|Ezio
 4|Equivalent Exchange 2|Ezio
 2|Escape from the Prison|Ninjed
