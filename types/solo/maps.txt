@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Motus|1ntact
 2|Double Nade|Destoros
 1|taser|Welshi
 3|Telephone 3|n9
 5|Weapon Finals II|Chrona
 2|Single Nade|Destoros
 3|Swingaroo|Knuski
-5|run_as_a_pro|MTJ
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -290,6 +290,7 @@
 2|Rocket Player|RayB.
 3|RocketIsKey|Tropo
 2|Rope swing|Mokuz
+5|run_as_a_pro|MTJ
 5|run_birming|Im 'corneum
 2|run_guy_25|Kaestchen
 4|Rush Clouds|bit
