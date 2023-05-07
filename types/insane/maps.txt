@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Hostile 3|Pipou & tatak
 1|FarLands|Genex, Freezestyler, <BµmM>, J$ON & Panik
 5|Adorenarine|Konsti
 4|4k|Åmol
 1|Aincrad|Chikatto Chika
 3|Aimbot|Aoe
 1|Mult0map|Cøke & Tridemy
-4|Back in Time 3|Silex
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -22,6 +22,7 @@
 1|Aimazing|Aoe
 3|Aimlicious|Aoe
 3|Back in Time 2|Silex
+4|Back in Time 3|Silex
 1|Binary|Pulsar
 2|Falling Down|Loop & Kayumi
 2|Firestone|Feuerfaust Ace
