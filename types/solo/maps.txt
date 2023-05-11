@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Pogo|Isera
 3|Motus|1ntact
 2|Double Nade|Destoros
 1|taser|Welshi
 3|Telephone 3|n9
 5|Weapon Finals II|Chrona
 2|Single Nade|Destoros
-3|Swingaroo|Knuski
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -339,6 +339,7 @@
 2|Stop Over 4.0|N9mkOik
 3|Stop Over 5.0|Inner peace
 4|Sunburst2|Ninjed
+3|Swingaroo|Knuski
 1|T-Sport|Im 'corneum
 2|Tee Legends 1|Bee & Alias
 2|Tee Legends 2|Bee & Alias
