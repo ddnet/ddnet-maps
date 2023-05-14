@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Starlit Peaks|♂S1mple♂
 4|Distance|FightFire
 5|run_guys_25|Kaestchen & Knuski
 2|Slippy Slide Up|Ravie
 3|AiP-Bores|Nieme & Pipou
 4|Holidays|Destoros
 1|Baerchen|jana
-4|DaoYu Night|just & FightFire
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -124,6 +124,7 @@
 4|Crystal Maze|sorgaxD
 0|CYO|=CuBe=
 2|DaoYu|just
+4|DaoYu Night|just & FightFire
 5|DarkRoad|=Typhoon=
 3|Daunell|Evoli
 5|Dawn To Dusk|mikey12
