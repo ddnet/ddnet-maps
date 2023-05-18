@@ -131,7 +131,7 @@
 1|Arabic Night|Åmol & Gambol
 2|Arcadian|Jimmy Jazz & Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
-4|Arctic Frost|Silex, Im 'corneum & louis
+5|Arctic Frost|Silex, Im 'corneum & louis
 4|asterism|Savalic
 4|At Sundown|*WuDL*
 5|Atomic|Kayumi
@@ -199,7 +199,7 @@
 2|Epic-Fail|YeahxX
 5|Epinephrine|Silex
 3|Espace|jao
-3|Exhale|Pulsar & Ravie
+5|Exhale|Pulsar & Ravie
 2|External|Elephant & Wolƒ.▲
 5|External 2|Elephant & Wolƒ.▲
 4|Failable|Cøke

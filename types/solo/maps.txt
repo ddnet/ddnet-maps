@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Purple Peaks|texnonik
 3|Pogo|Isera
 3|Motus|1ntact
 2|Double Nade|Destoros
 1|taser|Welshi
-3|Telephone 3|n9
+4|Telephone 3|n9
 5|Weapon Finals II|Chrona
-2|Single Nade|Destoros
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -310,6 +310,7 @@
 2|Short Sky|S.O.S
 4|Shortgun|Cor
 2|ShotFF|Savander
+2|Single Nade|Destoros
 3|Skepsis|Juandissimo, timakro & Soreu
 3|SkipIt|xPeke
 2|SkipIt2|=xPeke=
