@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Mossolo|ɳ0vą
 2|Purple Peaks|texnonik
 3|Pogo|Isera
 3|Motus|1ntact
 2|Double Nade|Destoros
 1|taser|Welshi
 4|Telephone 3|n9
-5|Weapon Finals II|Chrona
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -389,6 +389,7 @@
 1|Volt|louis
 3|WALL-E T|Ninjed & Åmol
 5|Weapon Finals|Chrona
+5|Weapon Finals II|Chrona
 3|Weird Cave|Rapture & ٭ıƞdex'<3
 3|Where am I|Deeper
 3|Where am I 2|Deeper
