@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Nouisification|PopCorn181, texnonik, NekoRul & ƤØŢĀŤ0Co
 1|Mossolo|ɳ0vą
 2|Purple Peaks|texnonik
 3|Pogo|Isera
 3|Motus|1ntact
 2|Double Nade|Destoros
 1|taser|Welshi
-4|Telephone 3|n9
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -347,6 +347,7 @@
 2|Tee Legends 3|Bee & Alias
 3|Telephone|N9mkOik
 2|Telephone 2|N9mkOik
+4|Telephone 3|n9
 2|The Dungeon|Pulsar
 1|The Space Station|Ñı©Ø
 2|Theory Of Fail|BRONOOB
