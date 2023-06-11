@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Chobo|ɳ0vą
 5|Semang 3|Wartoz
 5|Electric|Raks
 4|xyzyx|Oy, Themix & Pipou
 3|Give u the Moon|FeaRZ
 1|Tutorial|unique2 & Alisa
 5|SeMang 2|just & Wartoz
-5|Beyond Light|Arrow & FeaRZ
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -44,6 +44,7 @@
 3|Batman|Ama
 3|benrace|Broken
 2|Beyond Dreams|QuiX
+5|Beyond Light|Arrow & FeaRZ
 5|Blue Sapphire|jao
 4|BlueChaos|Zaiross
 1|CandyLand|fikmesån & Fňokurka oo7
