@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Sunny Night|Deeper
 2|Jomp|Cøke
 2|Nouisification|PopCorn181, texnonik, NekoRul & ƤØŢĀŤ0Co
 1|Mossolo|ɳ0vą
 2|Purple Peaks|texnonik
 3|Pogo|Isera
 3|Motus|1ntact
-2|Double Nade|Destoros
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -146,6 +146,7 @@
 3|Dodge|Pulsar
 2|DonoWall|jana
 3|Dopee|Ninjed
+2|Double Nade|Destoros
 3|Duodecimo|Forris
 2|Dust's Leaf|Ninjed
 3|Dynasty|Cellegen
