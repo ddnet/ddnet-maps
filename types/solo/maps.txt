@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Noobfilter|SUKA
 3|Sunny Night|Deeper
 2|Jomp|Cøke
 2|Nouisification|PopCorn181, texnonik, NekoRul & ƤØŢĀŤ0Co
 1|Mossolo|ɳ0vą
 2|Purple Peaks|texnonik
 3|Pogo|Isera
-3|Motus|1ntact
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -256,6 +256,7 @@
 1|Mirror|Pipou
 1|mood|neverminze
 2|MorningStar|stompie & Soapy Sandwich
+3|Motus|1ntact
 4|Movement I|Nigel
 1|Moventer|Themix
 3|Nettex|{E}{L}{I}{T}{E}
