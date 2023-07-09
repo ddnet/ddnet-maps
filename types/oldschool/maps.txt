@@ -1,5 +1,6 @@
 
 ─── NEW MAPS ───
+3|Space Travel|TheZyZya
 4|Delirium|invisi
 1|mo_factory|Mo(2)
 2|17_Jungle|Chill [TD]
