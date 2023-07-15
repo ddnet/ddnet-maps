@@ -1,43 +1,38 @@
 
 ─── NEW MAPS ───
+1|run_Div2|DiViNe
+1|run_Div|DiViNe
 1|run_Bunt|SkizZ
 0|E02|Im 'corneum
 3|run_Jellyfish_Fields|Im 'corneum
 3|run_minimalist|Marcell & rezee
-1|run_4tea|ano :3
-3|Knux|Knuski
+2|Steff fastrun 5|Tsin
 
 ─── OTHER MAPS ───
-4|Euthanasia|ano :3
-1|pocramruinrun|Pocram
-2|run_4fikmesan|jao
-3|Run_Aim|Aoe
-3|run_alkohol|Rook
-2|run_FreezyFly|Im 'corneum & Mc'zTyla'
-1|run_InTheHell|iKizu
-1|run_irish_luck|fikmesån
-1|run_the_cure|fikmesån & jao
-5|run_unbelievable|Cøke & Syltoox
-5|run_world_war_zero|cookie
-
-─── OLDSCHOOL MAPS ───
 2|Aufnahmetest_AE|teetee
 2|climate-crisis|Kill Mik & Phönix92
+4|Euthanasia|ano :3
 3|frustrainleave|r3tr0
 1|hotrun|Ubu
+3|Knux|Knuski
 5|nameless_run|SkizZ, =CuBe= & rus
+1|pocramruinrun|Pocram
 2|pr0-move|szyker
 4|run_2Rockets|Arem Shin
 5|run_2rocketstwo|Arem Shin
 1|run_4abydos|SkizZ
+2|run_4fikmesan|jao
 3|run_4lollipop|SkizZ
 2|run_4mystery|kickz
 2|run_4popi|sqx
 3|run_4popo|Trax & Godlike
+1|run_4tea|ano :3
 2|run_4tzoy|SkizZ
-4|run_4xerhul2|SkizZ
 3|run_4xerhul|SkizZ
+4|run_4xerhul2|SkizZ
+3|Run_Aim|Aoe
 3|run_alboni|Kill Mik & iTee Toni
+3|run_alkohol|Rook
 0|run_ankii|Anki
 5|run_antibuguse|Xerhul & Sorah
 2|run_asr|Coold0wn & TheGnaa
@@ -62,6 +57,7 @@
 3|run_for_ghost|Weißwurst
 1|run_for_onkelz|.Angst.
 1|run_forrest|Ubu
+2|run_FreezyFly|Im 'corneum & Mc'zTyla'
 3|run_from_ice_to_grass|SkizZ
 3|run_frosty|Sorah
 0|run_g6|Anki
@@ -73,14 +69,16 @@
 5|run_grass_hell|Xerhul
 1|run_greygrey|kickz
 3|run_groove|kickz
-3|run_harder_than_hard|SkizZ & Matze
 4|run_hard_hell|SkizZ & Loop
 4|run_hard_hundred|Yannik, Rook & TheGnaa
+3|run_harder_than_hard|SkizZ & Matze
 2|run_heaven_and_hell|Delo
 2|run_hot_or_not|Coold0wn
 2|run_ice_castle|kickz
 4|run_inset_into_the_heavy_jungle|SkizZ & ReTTeX
 3|run_inset_into_the_light|SkizZ
+1|run_InTheHell|iKizu
+1|run_irish_luck|fikmesån
 3|run_keksi|Keks
 2|run_linkin_park|Yannik & Rook
 1|run_long_for_popo|Cookie
@@ -108,13 +106,15 @@
 2|run_stoned|Keks & zizou
 1|run_sunsetcave|SkizZ & Zatline
 2|run_tee|Sushi
+1|run_the_cure|fikmesån & jao
 2|run_the_rock|Keres
 4|run_three|borartr
 2|run_toxic_green|Popo
+5|run_unbelievable|Cøke & Syltoox
 2|run_unschaffbar|Darkknight
 1|run_WARmoepopo|Moe & Popo
-3|run_yellow_hell|SkizZ
+5|run_world_war_zero|cookie
 1|run_yellow|SkizZ
-2|Steff fastrun 5|Tsin
+3|run_yellow_hell|SkizZ
 4|yoshiloop|Yoshi & Loop
 3|zelda|SkizZ & RaiNy
