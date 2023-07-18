@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Piece of cake|sMo0g
 3|Wanderlust|Fullander
 3|Space Travel|TheZyZya
 4|Delirium|invisi
 1|mo_factory|Mo(2)
 2|17_Jungle|Chill [TD]
 4|Inception Oldschool|Kornao, Konsti, VéNa & Pipou
-1|Koule 13|Intercity, Broken & Bee
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -112,10 +112,11 @@
 1|Just Fly 3|Delo
 1|Just Hookfly 1|SonGoku & spimm
 1|Just Hookfly 2|SonGoku & spimm
-2|Killa 3|Lilith
+2|Killa 3|KillA
 3|Koule 10|Intercity, Broken & Bee
 1|Koule 11|Intercity, Broken & Bee
 2|Koule 12|Intercity, Broken & Bee
+1|Koule 13|Intercity, Broken & Bee
 2|Koule 14|Intercity, Broken & Bee
 2|Koule 15|Intercity, Broken & Bee
 1|Koule 16|Intercity, Broken & Bee
