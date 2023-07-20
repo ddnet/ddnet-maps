@@ -1,15 +1,16 @@
 
 ─── NEW MAPS ───
+2|Killa5|KillA
+2|Killa4|KillA
+1|Killa2|KillA
 2|Piece of cake|sMo0g
 3|Wanderlust|Fullander
 3|Space Travel|TheZyZya
 4|Delirium|invisi
-1|mo_factory|Mo(2)
-2|17_Jungle|Chill [TD]
-4|Inception Oldschool|Kornao, Konsti, VéNa & Pipou
 
 ─── OTHER MAPS ───
 3|-273|-273°C
+2|17_Jungle|Chill [TD]
 1|1TeeMap
 1|AiP-Gores|Nieme
 2|Alaska|Crytek
@@ -93,6 +94,7 @@
 2|Impossible 1|sMo0g
 2|Impossible 2|sMo0g
 2|Impossible 3|sMo0g
+4|Inception Oldschool|Kornao, Konsti, VéNa & Pipou
 3|Infinity|Silex & DiViNe
 2|Insanity|sMo0g
 4|Interlude|2oo
@@ -140,6 +142,7 @@
 1|Miper 3|Miper
 1|Miper 4|Miper
 1|Miper 5|Miper
+1|mo_factory|Mo(2)
 1|Oh-This|Father
 3|Oh-This 2|Father
 1|Orange 1|FunCat
