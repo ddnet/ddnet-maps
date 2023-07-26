@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Metal hell|Invisi
 2|Killa5|KillA
 2|Killa4|KillA
 1|Killa2|KillA
 2|Piece of cake|sMo0g
 3|Wanderlust|Fullander
 3|Space Travel|TheZyZya
-4|Delirium|invisi
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -42,6 +42,7 @@
 4|DeadCore 1|DeadAlien
 4|DeadCore 2|DeadAlien
 3|DeadCore 3|DeadAlien
+4|Delirium|invisi
 4|Destiny 1|TheZyZya & sMo0g
 4|Destiny 2|TheZyZya & sMo0g
 4|Destiny 3|TheZyZya & sMo0g
