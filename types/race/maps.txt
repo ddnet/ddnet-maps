@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|run_event
 1|run_DR|Delo & RUSterrorist
 1|run_Div2|DiViNe
 1|run_Div|DiViNe
 1|run_Bunt|SkizZ
 0|E02|Im 'corneum
 3|run_Jellyfish_Fields|Im 'corneum
-3|run_minimalist|Marcell & rezee
 
 ─── OLDSCHOOL MAPS ───
 2|Aufnahmetest_AE|teetee
@@ -76,6 +76,7 @@
 1|run_long_for_popo|Cookie
 3|run_longWAR|Popo & Nyz3
 2|run_miniatur|TheGnaa
+3|run_minimalist|Marcell & rezee
 1|run_neonlight|TheGnaa
 2|run_nightmare|Delo & N0sk1l
 3|run_not_short|kickz & SkizZ
