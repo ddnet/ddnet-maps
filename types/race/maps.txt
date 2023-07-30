@@ -1,6 +1,6 @@
 
 ─── NEW MAPS ───
-1|run_event
+1|run_event|Tee Killa
 1|run_DR|Delo & RUSterrorist
 1|run_Div2|DiViNe
 1|run_Div|DiViNe
