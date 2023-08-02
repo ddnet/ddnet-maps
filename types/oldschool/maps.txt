@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Imba|MustD1e
 3|Metal hell|Invisi
 2|Killa5|KillA
 2|Killa4|KillA
 1|Killa2|KillA
 2|Piece of cake|sMo0g
 3|Wanderlust|Fullander
-3|Space Travel|TheZyZya
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -170,6 +170,7 @@
 4|ResidentSS|-Sani- & -Sozi-
 3|Sadway|MustD1e
 2|Somewhere in the Sky|MaDLeX
+3|Space Travel|TheZyZya
 3|Stereotype 1|DarkKenny
 5|Stereotype 2|DarkKenny
 5|Stereotype 3|DarkKenny
