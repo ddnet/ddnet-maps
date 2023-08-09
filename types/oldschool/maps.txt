@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Aqua|FunCat
 2|Imba|MustD1e
 3|Metal hell|Invisi
 2|Killa5|KillA
 2|Killa4|KillA
 1|Killa2|KillA
 2|Piece of cake|sMo0g
-3|Wanderlust|Fullander
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -200,6 +200,7 @@
 4|Victory 3|sMo0g & FunCat
 3|Victory 4|sMo0g
 4|Victory 5|sMo0g
+3|Wanderlust|Fullander
 1|Warch Comp|Warch
 1|Who's Faster|Silex & DiViNe
 3|WoFs|Silex
