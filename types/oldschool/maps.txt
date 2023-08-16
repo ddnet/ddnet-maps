@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Proskills|Waschlappen
 3|Aqua|FunCat
 2|Imba|MustD1e
 3|Metal hell|Invisi
 2|Killa5|KillA
 2|Killa4|KillA
 1|Killa2|KillA
-2|Piece of cake|sMo0g
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -154,6 +154,7 @@
 3|Paradise & Hell|Jamby
 3|Paralytic|r0xr
 2|Paranormal|=N00B3= & Waschlappen
+2|Piece of cake|sMo0g
 1|Pirateworld|Trinkflasche
 2|Poreotics|Kintaro*
 2|Predator 1|Ama & Tvgucker

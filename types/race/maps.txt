@@ -1,6 +1,6 @@
 
 ─── NEW MAPS ───
-2|run_bundesliga|yannik, Andre & TheGnaa
+2|run_bundesliga|Yannik, Andre & TheGnaa
 1|run_Chaos_Aufnahmemap|WARPommes & WARbubble
 1|run_event|Tee Killa
 1|run_DR|Delo & RUSterrorist
