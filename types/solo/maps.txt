@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Air Dash|PopCorn181
 2|Noobfilter|SUKA
 3|Sunny Night|Deeper
 2|Jomp|Cøke
 2|Nouisification|PopCorn181, texnonik, NekoRul & ƤØŢĀŤ0Co
 1|Mossolo|ɳ0vą
 2|Purple Peaks|texnonik
-3|Pogo|Isera
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -273,6 +273,7 @@
 2|Pendulum|FJP
 4|Pharoah|mikey12
 2|Piston|louis
+3|Pogo|Isera
 3|pollito|Kenzo
 1|Prison 1|AKc0RiZer
 2|Propagate|Element Finland
