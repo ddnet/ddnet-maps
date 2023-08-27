@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Barbra Streisand_remake
 2|Proskills|Waschlappen
 3|Aqua|FunCat
 2|Imba|MustD1e
 3|Metal hell|Invisi
 2|Killa5|KillA
 2|Killa4|KillA
-1|Killa2|KillA
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -116,6 +116,7 @@
 1|Just Hookfly 1|SonGoku & spimm
 1|Just Hookfly 2|SonGoku & spimm
 2|Killa 3|KillA
+1|Killa2|KillA
 3|Koule 10|Intercity, Broken & Bee
 1|Koule 11|Intercity, Broken & Bee
 2|Koule 12|Intercity, Broken & Bee
