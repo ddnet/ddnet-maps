@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|ddrace_shella4|Shell
+2|ddrace_shella3|Shell
+1|ddrace_shella2|Shell
 2|Easyfail 1
+2|Barbra Streisand_remake
 2|Proskills|Waschlappen
 3|Aqua|FunCat
-2|Imba|MustD1e
-3|Metal hell|Invisi
-2|Killa5|KillA
-2|Killa4|KillA
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -19,7 +19,6 @@
 4|Animus|Ezio & Rico
 1|Atticus Compilation|Scratchy <3
 3|Baber|Zikkie & LordMiLord
-2|Barbra Streisand_remake
 2|bBzZ!!|KillA
 2|Be Happy|EpicFail
 3|Blue|MaDLeX
@@ -93,6 +92,7 @@
 2|Im No Superman 2|Moby Dog
 3|Im No Superman 3|Moby Dog
 2|Imagination|Heaven
+2|Imba|MustD1e
 2|Impossible 1|sMo0g
 2|Impossible 2|sMo0g
 2|Impossible 3|sMo0g
@@ -118,6 +118,8 @@
 1|Just Hookfly 2|SonGoku & spimm
 2|Killa 3|KillA
 1|Killa2|KillA
+2|Killa4|KillA
+2|Killa5|KillA
 3|Koule 10|Intercity, Broken & Bee
 1|Koule 11|Intercity, Broken & Bee
 2|Koule 12|Intercity, Broken & Bee
@@ -142,6 +144,7 @@
 2|Madness 4|Delo & Kintaro*
 2|Merely forth|geroy231
 2|Merely forth 2|geroy231
+3|Metal hell|Invisi
 1|Miper 3|Miper
 1|Miper 4|Miper
 1|Miper 5|Miper
