@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|WeichCore|DeadAlien
 2|ddrace_shella4|Shell
 2|ddrace_shella3|Shell
 1|ddrace_shella2|Shell
 2|Easyfail 1
 2|Barbra Streisand_remake
 2|Proskills|Waschlappen
-3|Aqua|FunCat
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -17,6 +17,7 @@
 1|Amor 1|Amor
 1|Amor 2|Amor
 4|Animus|Ezio & Rico
+3|Aqua|FunCat
 1|Atticus Compilation|Scratchy <3
 3|Baber|Zikkie & LordMiLord
 2|bBzZ!!|KillA
