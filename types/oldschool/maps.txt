@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Hardtime|GeM
 2|WeichCore|DeadAlien
 2|ddrace_shella4|Shell
 2|ddrace_shella3|Shell
 1|ddrace_shella2|Shell
 2|Easyfail 1
 2|Barbra Streisand_remake
-2|Proskills|Waschlappen
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -165,6 +165,7 @@
 2|Poreotics|Kintaro*
 2|Predator 1|Ama & Tvgucker
 3|Professional|Moby Dog
+2|Proskills|Waschlappen
 1|Pyramid-freeze-race|Tee 3D
 3|Qwertz|Kintaro*
 2|Ray - 1|Ray
