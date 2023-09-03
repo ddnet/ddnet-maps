@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Way to the moon|NeZoX
 3|Hush|Cøke
 2|LazeAround 3|Suppe
 3|Fuji|Arrow & sevvv.aa
 1|Zenith|purrp T
 2|Under Pressure|iTom
 4|Teestroyer|Tridemy & Cøke
-2|Yeyou 6|bit
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -413,6 +413,7 @@
 4|WoodDivision V|Men of Steel
 4|Wour Forlds|Themix
 2|Yeyou 5|bit
+2|Yeyou 6|bit
 2|Yoko 1.1|Hitomi
 1|Yoko 2.1|Hitomi & Saavik
 1|Yoko 3.1|Hitomi & Saavik
