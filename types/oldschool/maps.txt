@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Pablik 3|JoO
+1|Pablik 2|-tee-, tututu & Jamby
 2|Hardtime|GeM
 2|WeichCore|DeadAlien
 2|ddrace_shella4|Shell
 2|ddrace_shella3|Shell
 1|ddrace_shella2|Shell
-2|Easyfail 1
-2|Barbra Streisand_remake
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -20,6 +20,7 @@
 3|Aqua|FunCat
 1|Atticus Compilation|Scratchy <3
 3|Baber|Zikkie & LordMiLord
+2|Barbra Streisand_remake
 2|bBzZ!!|KillA
 2|Be Happy|EpicFail
 3|Blue|MaDLeX
@@ -51,6 +52,7 @@
 3|Dust|NeoN & Fels
 2|Eagle Race Compilation|Eagle Clan
 3|EaSy_HarD 4|Chak
+2|Easyfail 1
 2|Encore
 3|Endgame|TheZyZya
 2|Eruption|Captain & Unreal
