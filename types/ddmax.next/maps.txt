@@ -72,7 +72,6 @@
 3|Frats 2|Hitomi
 3|Frats 3|Hitomi
 3|Frats 4|Hitomi
-3|Frats 5|Hitomi
 2|FreeZe|KaB
 3|Frostbite|Scratchy <3
 3|Full Moon|Pirate
@@ -197,3 +196,6 @@
 2|X-Cross|Bixes
 3|Xeno Race #1|Xeno
 2|Yin&Yang|Knight :3
+
+─── 3 PLAYER MAPS ───
+3|Frats 5|Hitomi

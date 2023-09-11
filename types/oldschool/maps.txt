@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|DDPika_remake|PoKeMoN [TD]
 2|Lite_2|SlaeR
 3|Lite|SlaeR
 4|Lost_Ground|Invisi
 2|Pablik 3|JoO
-1|Pablik 2|-tee-, tututu & Jamby
+1|Pablik 2|Tee 3D, tututu & Jamby
 2|Hardtime|GeM
-2|WeichCore|DeadAlien
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -215,6 +215,7 @@
 4|Victory 5|sMo0g
 3|Wanderlust|Fullander
 1|Warch Comp|Warch
+2|WeichCore|DeadAlien
 1|Who's Faster|Silex & DiViNe
 3|WoFs|Silex
 2|Zadrotos 1|Opana
