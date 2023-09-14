@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Ignite The Skies|texnonik
 2|Jaomp|texnonik
 2|Air Dash|PopCorn181
 2|Noobfilter|SUKA
 3|Sunny Night|Deeper
 2|Jomp|Cøke
 2|Nouisification|PopCorn181, texnonik, NekoRul & ƤØŢĀŤ0Co
-1|Mossolo|ɳ0vą
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -256,6 +256,7 @@
 1|Mirror|Pipou
 1|mood|neverminze
 2|MorningStar|stompie & Soapy Sandwich
+1|Mossolo|ɳ0vą
 3|Motus|1ntact
 4|Movement I|Nigel
 1|Moventer|Themix
