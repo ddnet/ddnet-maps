@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|To Light|Be Happy
 2|DDPika_remake|PoKeMoN [TD]
 2|Lite_2|SlaeR
 3|Lite|SlaeR
 4|Lost_Ground|Invisi
 2|Pablik 3|JoO
 1|Pablik 2|Tee 3D, tututu & Jamby
-2|Hardtime|GeM
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -85,6 +85,7 @@
 2|Hardstyle 2|2oo & Fuu
 4|Hardstyle 3|2oo & Fuu
 4|Hardstyle 4|2oo & Fuu
+2|Hardtime|GeM
 1|Haunted Dungeon|MaDLeX
 1|HDP_Obstaculos|El Futuro
 1|HDP_Zinderencio|El Futuro
