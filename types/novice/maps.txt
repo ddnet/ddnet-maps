@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Circular|PopCorn181
 5|Open Lane|ReD
 4|Chobo|ɳ0vą
 5|Semang 3|Wartoz
 5|Electric|Raks
 4|xyzyx|Oy, Themix & Pipou
 3|Give u the Moon|FeaRZ
-1|Tutorial|unique2 & Alisa
 
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
@@ -141,6 +141,7 @@
 2|Top 1|mikey12
 3|Top 3|mikey12
 1|Tsunami|louis
+1|Tutorial|unique2 & Alisa
 3|Undrag2|Ninjed
 4|Vizur|Seba0006
 2|Water Lily|Fňokurka oo7
