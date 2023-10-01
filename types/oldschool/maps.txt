@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Eclipse_oldschool|Epic Fail & NinjaGo
 3|Awe 4|The ZyZya
 3|To Light|Be Happy
 2|DDPika_remake|PoKeMoN [TD]
 2|Lite_2|SlaeR
 3|Lite|SlaeR
 4|Lost_Ground|Invisi
-2|Pablik 3|JoO
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -163,6 +163,7 @@
 2|Orange 3|FunCat
 2|Orange 4|FunCat
 1|Pablik 2|Tee 3D, tututu & Jamby
+2|Pablik 3|JoO
 3|Paradise|sMo0g
 3|Paradise & Hell|Jamby
 3|Paralytic|r0xr
