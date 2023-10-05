@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Papillon|Clefairy'
 2|Headache|Soapy Sandwich
 3|GetCarry|tortilladmaiz
 3|DropDown|NeZoX
 3|Pataros II|Exotix
 3|Dark Night|NeZoX
 4|CtS|Ciniminix
-2|Portalgeist|louis
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -128,6 +128,7 @@
 4|Pataros|Skeptar & Exotix
 3|Peru|Im 'corneum
 4|pichummy|Kenzo
+2|Portalgeist|louis
 4|Rakete|Im 'corneum
 3|Reflect|DarkOort
 5|Relief|Ante.
