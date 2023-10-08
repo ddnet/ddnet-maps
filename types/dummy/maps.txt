@@ -1,6 +1,6 @@
 
 ─── NEW MAPS ───
-4|Papillon|Clefairy'
+4|Papillon|clefairy'
 2|Headache|Soapy Sandwich
 3|GetCarry|tortilladmaiz
 3|DropDown|NeZoX

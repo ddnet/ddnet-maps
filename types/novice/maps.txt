@@ -8,6 +8,17 @@
 4|xyzyx|Oy, Themix & Pipou
 3|Give u the Moon|FeaRZ
 
+─── EASY MAPS ───
+1|Tutorial|unique2 & Alisa
+2|Linear|louis
+1|Tsunami|louis
+1|4Beginners|Meliodafu
+1|Tangerine|Oblique
+3|Inure|Savalic
+1|StepByStep|[A] Awesome
+2|LearnToPlay|Tridemy & Cøke
+3|Sunny Side Up|Ravie
+
 ─── SELECTED MAPS ───
 3|Bullets|Meliodafu
 3|Camouflage|Meliodafu
@@ -30,7 +41,6 @@
 
 ─── OTHER MAPS ───
 4|(wasntme)|fikmesån & snailx3
-1|4Beginners|Meliodafu
 1|4Nubs|BamBam
 2|[School] Hammer|Hitomi
 2|[School] Hook|Hitomi
@@ -86,7 +96,6 @@
 5|Homesick|Wesno
 3|Houll|Evoli
 4|Hulk|Ama
-3|Inure|Savalic
 4|Iris|fikmesån
 3|IronMan|Ama
 3|Island Rush|Tuna
@@ -96,10 +105,8 @@
 4|Kaylite|{E}{L}{I}{T}{E} & Kayumi
 5|Kindergarten|Silex
 5|Lavender Forest|Pipou
-2|LearnToPlay|Tridemy & Cøke
 3|Light Grey|Lightbulb & ٭ıƞdex'<3
 5|Lighthouse|QuiX
-2|Linear|louis
 3|Lonely|RayB.
 4|Looney|☆.Sυsнι♪
 2|Lowcore|.me'
@@ -130,18 +137,13 @@
 3|Sopella|Evoli
 3|Sorrow|Knight :3
 3|Spüli|fikmesån
-1|StepByStep|[A] Awesome
 3|Sunlight|GolfaN
-3|Sunny Side Up|Ravie
 2|Take it noobly|Ñı©Ø
-1|Tangerine|Oblique
 3|TeeWorld|Zaiross
 3|Thor|Ama
 3|Threll|Evoli
 2|Top 1|mikey12
 3|Top 3|mikey12
-1|Tsunami|louis
-1|Tutorial|unique2 & Alisa
 3|Undrag2|Ninjed
 4|Vizur|Seba0006
 2|Water Lily|Fňokurka oo7

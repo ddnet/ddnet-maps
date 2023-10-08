@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Sunrise|geroy231 & Father
 4|Eclipse_oldschool|Epic Fail & NinjaGo
 3|Awe 4|The ZyZya
 3|To Light|Be Happy
 2|DDPika_remake|PoKeMoN [TD]
 2|Lite_2|SlaeR
 3|Lite|SlaeR
-4|Lost_Ground|Invisi
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -144,6 +144,7 @@
 3|Lost|Silex
 3|Lost 2|Silex
 3|Lost 3|Silex
+4|Lost_Ground|Invisi
 2|Lykeion|Moby Dog
 1|Madness 1|Delo
 2|Madness 2|Delo
