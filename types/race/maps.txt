@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|run_selected|Hyde
 2|run_hard_way
 2|run_bundesliga|Yannik, Andre & TheGnaa
 1|run_Chaos_Aufnahmemap|WARPommes & WARbubble
 1|run_event|Tee Killa
 1|run_DR|Delo & RUSterrorist
 1|run_Div2|DiViNe
-1|run_Div|DiViNe
 
 ─── OLDSCHOOL MAPS ───
 2|Aufnahmetest_AE|teetee
@@ -44,6 +44,7 @@
 2|run_cave_grass|kickz
 2|run_crystal|TheGnaa
 3|run_dfc|Pody & Rainbow
+1|run_Div|DiViNe
 2|run_dragon|LordSkelethom
 1|run_drawed|Xantha
 1|run_dude|Ubu
