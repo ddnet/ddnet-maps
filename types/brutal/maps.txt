@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Aardvark|Pulsar & Ravie
 4|Way to the moon|NeZoX
 3|Hush|Cøke
 2|LazeAround 3|Suppe
 3|Fuji|Arrow & sevvv.aa
 1|Zenith|purrp T
 2|Under Pressure|iTom
-4|Teestroyer|Tridemy & Cøke
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -365,6 +365,7 @@
 3|Take me to Desert|Savalic
 5|Tatooine|Rapture & Gridwyn
 4|Teeish Mine|SickCunt & Feuerfaust Ace
+4|Teestroyer|Tridemy & Cøke
 2|Teetrader|SickCunt & Feuerfaust Ace
 4|TelEdge|Mystery?
 3|Tenebris|Slayer & Lilith
