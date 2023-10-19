@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Killa1|KillA
 2|Sunrise|geroy231 & Father
 4|Eclipse_oldschool|Epic Fail & NinjaGo
 3|Awe 4|The ZyZya
 3|To Light|Be Happy
 2|DDPika_remake|PoKeMoN [TD]
 2|Lite_2|SlaeR
-3|Lite|SlaeR
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -141,6 +141,7 @@
 2|Kovcheg|Opana & Kos5304
 3|Last Chance|Be Happy & SlaeR
 5|LichKing|Barsum & Arem Shin
+3|Lite|SlaeR
 3|Lost|Silex
 3|Lost 2|Silex
 3|Lost 3|Silex
