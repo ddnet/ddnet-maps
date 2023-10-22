@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Borace|тυx
 3|Vigorous|Wartoz & shengyan
 3|powerless|spiritdote
 2|Starlit Peaks|♂S1mple♂
 4|Distance|FightFire
 5|run_guys_25|Kaestchen & Knuski
 2|Slippy Slide Up|Ravie
-3|AiP-Bores|Nieme & Pipou
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -88,6 +88,7 @@
 5|Aequilibrium|Bixes
 4|Aftermath|٭ıƞdex'<3
 3|Against the Current|Themix
+3|AiP-Bores|Nieme & Pipou
 4|AK|aMu & Kayumi
 4|alternative|Yuzu
 1|Awayst|Ama
