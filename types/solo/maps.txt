@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Ignis|Starkiller
 2|Ignite The Skies|texnonik
 2|Jaomp|texnonik
 2|Air Dash|PopCorn181
 2|Noobfilter|SUKA
 3|Sunny Night|Deeper
 2|Jomp|Cøke
-2|Nouisification|PopCorn181, texnonik, NekoRul & ƤØŢĀŤ0Co
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -265,6 +265,7 @@
 2|Night of Spikes|Element Finland
 1|No_Stuck|Xalcon
 4|Noh|Ninjed
+2|Nouisification|PopCorn181, texnonik, NekoRul & ƤØŢĀŤ0Co
 3|nullptr.sg|Shishigami
 1|Nyan Cat|sorgaxD
 1|Nytro|BamBam
