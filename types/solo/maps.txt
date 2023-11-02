@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Shotgoon|Welshi
 4|Ignis|Starkiller
 2|Ignite The Skies|texnonik
 2|Jaomp|texnonik
 2|Air Dash|PopCorn181
 2|Noobfilter|SUKA
 3|Sunny Night|Deeper
-2|Jomp|Cøke
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -217,6 +217,7 @@
 3|It's Time|Stalker
 5|It'sYourDeath|nealson T'nP
 1|Jajpack|Blurry & Pipou
+2|Jomp|Cøke
 2|Jump Shooter|Sorah
 1|Jumper|Im 'corneum
 2|Jungle Run|Kintaro*
