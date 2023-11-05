@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|AipKoule|Nieme & Intercity
 3|Oscura|EF
 2|Killa1|KillA
 2|Sunrise|geroy231 & Father
 4|Eclipse_oldschool|Epic Fail & NinjaGo
 3|Awe 4|The ZyZya
 3|To Light|Be Happy
-2|DDPika_remake|PoKeMoN [TD]
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -39,6 +39,7 @@
 2|DarkCore 2|Heaven
 2|DarkCore 3|Heaven
 4|DarkCore 4|Heaven
+2|DDPika_remake|PoKeMoN [TD]
 2|ddrace_loop|Loop
 1|ddrace_shella2|Shell
 2|ddrace_shella3|Shell
