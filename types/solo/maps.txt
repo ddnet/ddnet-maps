@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Purple Peaks 2|texnonik
 2|Shotgoon|Welshi
 4|Ignis|Starkiller
 2|Ignite The Skies|texnonik
 2|Jaomp|texnonik
 2|Air Dash|PopCorn181
 2|Noobfilter|SUKA
-3|Sunny Night|Deeper
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -347,6 +347,7 @@
 2|Stop Over 4.0|N9mkOik
 3|Stop Over 5.0|Inner peace
 4|Sunburst2|Ninjed
+3|Sunny Night|Deeper
 3|Swingaroo|Knuski
 1|T-Sport|Im 'corneum
 1|taser|Welshi
