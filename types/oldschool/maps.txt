@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|dd_VeoN1|VeoN
 2|AipKoule|Nieme & Intercity
 3|Oscura|EF
 2|Killa1|KillA
 2|Sunrise|geroy231 & Father
 4|Eclipse_oldschool|Epic Fail & NinjaGo
 3|Awe 4|The ZyZya
-3|To Light|Be Happy
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -204,6 +204,7 @@
 1|Teestar|Kintaro*
 2|The Ultimate Rainbow|MaDLeX
 2|Tibto|Cøke & Moby Dog
+3|To Light|Be Happy
 2|tough way|geroy231
 2|tough way 2|geroy231
 3|Tremor|TheZyZya
