@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Azure|NeZoX
 4|Papillon|clefairy'
 2|Headache|Soapy Sandwich
 3|GetCarry|tortilladmaiz
 3|DropDown|NeZoX
 3|Pataros II|Exotix
 3|Dark Night|NeZoX
-4|CtS|Ciniminix
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -56,6 +56,7 @@
 4|Capricorn|Starkiller
 2|Chacruna|fikmesån
 4|chainism|Savalic
+4|CtS|Ciniminix
 3|Cultist|SUKA & Reevie
 3|Dark Depth|Im 'corneum
 5|DarkSpy|Spyker
