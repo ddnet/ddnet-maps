@@ -3,7 +3,7 @@
 3|Paralyzed|ƤØŢĀŤ0Co & texnonik
 1|Aardvark|Pulsar & Ravie
 4|Way to the moon|NeZoX
-3|Hush|Cøke
+4|Hush|Cøke
 2|LazeAround 3|Suppe
 3|Fuji|Arrow & sevvv.aa
 1|Zenith|purrp T
@@ -395,7 +395,7 @@
 2|Unbalanced|Imperius
 4|Unbalanced 2|Imperius
 3|Uncharted|Stalker
-2|Under Pressure|iTom
+3|Under Pressure|iTom
 1|Underground|Silex
 2|Undisclosed|Michel
 3|Uzmutulunculunbé|Fňokurka oo7
