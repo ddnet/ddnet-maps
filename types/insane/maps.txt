@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Control|QuiX
 1|sus'terism|Savalic
 1|Unbalanced 3|Imperius
 2|Hostile 3|Pipou & tatak
 1|FarLands|Genex, Freezestyler, <BµmM>, J$ON & Panik
 5|Adorenarine|Konsti
 4|4k|Åmol
-1|Aincrad|Chikatto Chika
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -23,6 +23,7 @@
 1|Aimazing|Aoe
 3|Aimbot|Aoe
 3|Aimlicious|Aoe
+1|Aincrad|Chikatto Chika
 3|Back in Time 2|Silex
 4|Back in Time 3|Silex
 1|Binary|Pulsar
