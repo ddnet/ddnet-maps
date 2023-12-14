@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Teeasy|Tridemy & Cøke
 5|Iced|YoDa
 5|Circular|PopCorn181
 5|Open Lane|ReD
 4|Chobo|ɳ0vą
 5|Semang 3|Wartoz
 5|Electric|Raks
-4|xyzyx|Oy, Themix & Pipou
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -150,6 +150,7 @@
 2|Water Lily|Fňokurka oo7
 4|WTF|Im 'corneum & fikmesån
 5|Xolla|Evoli
+4|xyzyx|Oy, Themix & Pipou
 2|ZeroX|Kosho
 
 ─── OLD MAPS ───
