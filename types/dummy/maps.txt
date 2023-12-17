@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Twin Electric Field|FightFire
 2|Essential 2|texnonik
 3|Azure|NeZoX
 4|Papillon|clefairy'
 2|Headache|Soapy Sandwich
 3|GetCarry|tortilladmaiz
 3|DropDown|NeZoX
-3|Pataros II|Exotix
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -128,6 +128,7 @@
 3|Onliner|Im 'corneum
 1|Pace|Im 'corneum
 4|Pataros|Skeptar & Exotix
+3|Pataros II|Exotix
 3|Peru|Im 'corneum
 4|pichummy|Kenzo
 2|Portalgeist|louis
