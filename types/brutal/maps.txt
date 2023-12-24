@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Stronghold 4 [Final]|Pipou
 5|Nordrhein-Westfalen|jana & <BµmM>
 3|Paralyzed|ƤØŢĀŤ0Co & texnonik
 1|Aardvark|Pulsar & Ravie
 4|Way to the moon|NeZoX
 4|Hush|Cøke
 2|LazeAround 3|Suppe
-3|Fuji|Arrow & sevvv.aa
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -225,6 +225,7 @@
 1|Freezeless|Destoros
 2|From Death to Destiny|Åmol & fikmesån
 3|Frozen|#eci.in`
+3|Fuji|Arrow & sevvv.aa
 2|Furypleasure|Åmol
 3|Generic Fly|Konsti
 5|Generic Hell 2|Loop, Ezio & Kayumi
