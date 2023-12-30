@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Tentrom|Starkiller
 1|Control|QuiX
 1|sus'terism|Savalic
 1|Unbalanced 3|Imperius
 2|Hostile 3|Pipou & tatak
 1|FarLands|Genex, Freezestyler, <BµmM>, J$ON & Panik
 5|Adorenarine|Konsti
-4|4k|Åmol
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -14,6 +14,7 @@
 
 ─── OTHER MAPS ───
 4|1AndOnLyLife|Lenah
+4|4k|Åmol
 1|808|Cøke & Im 'corneum
 5|Adrenaline 4|Silex
 1|Adrenaline 4.1|Silex
