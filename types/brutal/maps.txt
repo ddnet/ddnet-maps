@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Simple Down 3|Zweitleben
 4|Stronghold 4 [Final]|Pipou
 5|Nordrhein-Westfalen|jana & <BµmM>
 3|Paralyzed|ƤØŢĀŤ0Co & texnonik
 1|Aardvark|Pulsar & Ravie
 4|Way to the moon|NeZoX
 4|Hush|Cøke
-2|LazeAround 3|Suppe
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -266,6 +266,7 @@
 2|Karaboudjan 3|Bee
 2|Kassin|Åmol
 3|Kickout|Fullander
+2|LazeAround 3|Suppe
 1|leopold|Shorefire
 3|Level Asian|Gianth
 5|likeOldschool|Chill [TD]
