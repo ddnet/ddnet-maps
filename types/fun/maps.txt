@@ -1,16 +1,17 @@
 
 ─── NEW MAPS ───
+0|Quickdraw|FJP
 0|IWannaBeatTheMap2|PopCorn181
 0|Volleyball|lynn
 0|IWannaBeatTheMap|PopCorn181
 0|DVD screensaver|Im 'corneum
 0|EdgeDuel|Pipou
 0|TeeInvader|Pipou
-0|Bowling|Pipou
 
 ─── OTHER MAPS ───
 0|9gates|bit
 0|Avoid|Sorah
+0|Bowling|Pipou
 0|Bullseye|Ravie
 0|CookieCorporation|Delo
 0|Disabled|Im 'corneum
