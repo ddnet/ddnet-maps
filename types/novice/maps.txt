@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Mellifluous|123123小黄 & Wartoz
 1|Teeasy|Tridemy & Cøke
 5|Iced|YoDa
 5|Circular|PopCorn181
 5|Open Lane|ReD
 4|Chobo|ɳ0vą
 5|Semang 3|Wartoz
-5|Electric|Raks
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -70,6 +70,7 @@
 4|Diamond Mine|<BµmM>
 5|Dry Lagoon|Welf
 2|Easy 1|Borup
+5|Electric|Raks
 5|Empire Desp|Deeper
 3|Eventide|Silex
 5|Fiji|WSike
