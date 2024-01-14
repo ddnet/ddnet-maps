@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Lonely Travel|QuiX
 4|Simple Down 3|Zweitleben
 4|Stronghold 4 [Final]|Pipou
 5|Nordrhein-Westfalen|jana & <BµmM>
 3|Paralyzed|ƤØŢĀŤ0Co & texnonik
 1|Aardvark|Pulsar & Ravie
 4|Way to the moon|NeZoX
-4|Hush|Cøke
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -245,6 +245,7 @@
 1|Helena|Hitomi
 3|Highlife|Skeptar & ٭ıƞdex'<3
 3|Hillside|»Rogue.
+4|Hush|Cøke
 5|Impel Down|Zweitleben
 2|In Da House|da
 3|Inception|Cøke & #eci.in`
