@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Spectateer|ɳ0vą
 3|Dark Night 2|NeZoX
 4|Twin Electric Field|FightFire
 2|Essential 2|texnonik
 3|Azure|NeZoX
 4|Papillon|clefairy'
 2|Headache|Soapy Sandwich
-3|GetCarry|tortilladmaiz
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -87,6 +87,7 @@
 2|For You|Ciniminix
 3|gendum|Im 'corneum
 4|GenericDrag|Skeptar & Slayer
+3|GetCarry|tortilladmaiz
 2|Greed|Kosho
 3|Gummy|Genex
 3|Hiking|Im 'corneum
