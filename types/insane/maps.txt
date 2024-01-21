@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Vacando|Knuski
 5|Tentrom|Starkiller
 1|Control|QuiX
 1|sus'terism|Savalic
 1|Unbalanced 3|Imperius
 2|Hostile 3|Pipou & tatak
 1|FarLands|Genex, Freezestyler, <BµmM>, J$ON & Panik
-5|Adorenarine|Konsti
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -16,6 +16,7 @@
 4|1AndOnLyLife|Lenah
 4|4k|Åmol
 1|808|Cøke & Im 'corneum
+5|Adorenarine|Konsti
 5|Adrenaline 4|Silex
 1|Adrenaline 4.1|Silex
 1|Adrenaline 4.2|Silex
