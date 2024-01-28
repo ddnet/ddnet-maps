@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Early Winter|Wartoz, shengyan & 上冬十六
 5|Borace|тυx
 3|Vigorous|Wartoz & shengyan
 3|powerless|spiritdote
 2|Starlit Peaks|♂S1mple♂
 4|Distance|FightFire
 5|run_guys_25|Kaestchen & Knuski
-2|Slippy Slide Up|Ravie
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -302,6 +302,7 @@
 3|SimplePlay 4|SBL
 3|SkiLLz|SkiLLz
 4|Sky Stone|Tropo
+2|Slippy Slide Up|Ravie
 3|Slow Santa|Ray
 3|Snow Problem|Soapy Sandwich
 4|Snowy Mountain|Sheep
