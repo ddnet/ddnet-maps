@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|LongCat|Dacent & Esc
 1|dd_VeoN1|VeoN
 2|AipKoule|Nieme & Intercity
 3|Oscura|EF
 2|Killa1|KillA
 2|Sunrise|geroy231 & Father
 4|Eclipse_oldschool|Epic Fail & NinjaGo
-3|Awe 4|The ZyZya
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -19,6 +19,7 @@
 4|Animus|Ezio & Rico
 3|Aqua|FunCat
 1|Atticus Compilation|Scratchy <3
+3|Awe 4|The ZyZya
 3|Baber|Zikkie & LordMiLord
 2|Barbra Streisand_remake
 2|bBzZ!!|KillA
