@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Firewatch 2|QuiX
 4|EasyRight|texnonik
 5|Mellifluous|123123小黄 & Wartoz
 1|Teeasy|Tridemy & Cøke
 5|Iced|YoDa
 5|Circular|PopCorn181
 5|Open Lane|ReD
-4|Chobo|ɳ0vą
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -61,6 +61,7 @@
 5|Careless|.me'
 2|Chicken Pie|Chicken
 5|Chicken Pie 2|Chicken & Broken
+4|Chobo|ɳ0vą
 4|Cool|Welf
 3|Cuboid|stompie & Soapy Sandwich
 3|Dark Moon|fikmesån
