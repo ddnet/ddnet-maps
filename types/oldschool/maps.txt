@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Omega1|Joggelx
 1|LongCat|Dacent & Esc
 1|dd_VeoN1|VeoN
 2|AipKoule|Nieme & Intercity
 3|Oscura|EF
 2|Killa1|KillA
 2|Sunrise|geroy231 & Father
-4|Eclipse_oldschool|Epic Fail & NinjaGo
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -58,6 +58,7 @@
 2|Eagle Race Compilation|Eagle Clan
 3|EaSy_HarD 4|Chak
 2|Easyfail 1
+4|Eclipse_oldschool|Epic Fail & NinjaGo
 2|Encore
 3|Endgame|TheZyZya
 2|Eruption|Captain & Unreal
