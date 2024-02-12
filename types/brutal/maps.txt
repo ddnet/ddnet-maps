@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Luxis|Acrolol & Pioche
 2|Lonely Travel|QuiX
 4|Simple Down 3|Zweitleben
 4|Stronghold 4 [Final]|Pipou
 5|Nordrhein-Westfalen|jana & <BµmM>
 3|Paralyzed|ƤØŢĀŤ0Co & texnonik
 1|Aardvark|Pulsar & Ravie
-4|Way to the moon|NeZoX
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -411,6 +411,7 @@
 1|Wailand|Destoros
 2|Wasteland|»Rogue.
 3|Wave|Con.'
+4|Way to the moon|NeZoX
 5|whitehell|ElysianDevil & Mischga
 4|Winter Is Coming|»Rogue., ÐæR & !XeNoN!
 3|Winterfall|Chikatto Chika
