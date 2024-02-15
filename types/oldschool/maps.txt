@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Warch_hard_2_rework|Warch
 2|Omega1|Joggelx
 1|LongCat|Dacent & Esc
 1|dd_VeoN1|VeoN
 2|AipKoule|Nieme & Intercity
 3|Oscura|EF
 2|Killa1|KillA
-2|Sunrise|geroy231 & Father
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -201,6 +201,7 @@
 1|StoneHell-Gores|Jebeto
 2|StrangeNight
 5|Striped Clouds|Pokemon
+2|Sunrise|geroy231 & Father
 2|Synergy|estern
 1|Tee-forever-X17|Tee 3D
 1|Teestar|Kintaro*
