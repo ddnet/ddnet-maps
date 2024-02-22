@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Exfishion|SlaeR
 2|Warch_hard_2_rework|Warch
 2|Omega1|Joggelx
 1|LongCat|Dacent & Esc
 1|dd_VeoN1|VeoN
 2|AipKoule|Nieme & Intercity
 3|Oscura|EF
-2|Killa1|KillA
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -127,6 +127,7 @@
 1|Just Hookfly 1|SonGoku & spimm
 1|Just Hookfly 2|SonGoku & spimm
 2|Killa 3|KillA
+2|Killa1|KillA
 1|Killa2|KillA
 2|Killa4|KillA
 2|Killa5|KillA
