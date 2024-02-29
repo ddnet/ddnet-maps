@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|HDP_Execrable|El Futuro
 3|Exfishion|SlaeR
 2|Warch_hard_2_rework|Warch
 2|Omega1|Joggelx
 1|LongCat|Dacent & Esc
 1|dd_VeoN1|VeoN
 2|AipKoule|Nieme & Intercity
-3|Oscura|EF
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -169,6 +169,7 @@
 2|Orange 2|FunCat
 2|Orange 3|FunCat
 2|Orange 4|FunCat
+3|Oscura|EF
 1|Pablik 2|Tee 3D, tututu & Jamby
 2|Pablik 3|JoO
 3|Paradise|sMo0g
