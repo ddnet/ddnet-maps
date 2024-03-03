@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Morthal|Genex
 2|Forest Trip|SickCunt
 3|Caverns|Savalic
 4|Luxis|Acrolol & Pioche
 2|Lonely Travel|QuiX
 4|Simple Down 3|Zweitleben
 4|Stronghold 4 [Final]|Pipou
-5|Nordrhein-Westfalen|jana & <BµmM>
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -306,6 +306,7 @@
 2|NoMore!|Chill [TD]
 2|NoMore! 2|Chill [TD]
 2|NoMore! 3|Chill [TD]
+5|Nordrhein-Westfalen|jana & <BµmM>
 3|Not Adrenaline 6|Silex, StorмPʜöɴix & Konsti
 1|Not Really Yo'Ci|Skeptar, meew & Pipou
 1|Nucl|BannZay & Goran
