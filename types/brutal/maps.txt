@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|The Floor is Lava|Savalic
 4|Morthal|Genex
 2|Forest Trip|SickCunt
 3|Caverns|Savalic
 4|Luxis|Acrolol & Pioche
 2|Lonely Travel|QuiX
 4|Simple Down 3|Zweitleben
-4|Stronghold 4 [Final]|Pipou
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -368,6 +368,7 @@
 4|Stormwind|DarkOort & rezee
 3|Strategic Paraplegic|Jimmy Jazz & Soapy Sandwich
 3|Stronghold 3|Pipou
+4|Stronghold 4 [Final]|Pipou
 3|superway|Cøke & Saavik
 4|Synesthesia|Elephant
 3|Take me to Desert|Savalic
