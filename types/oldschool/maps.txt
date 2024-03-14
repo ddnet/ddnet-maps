@@ -1,18 +1,19 @@
 
 ─── NEW MAPS ───
+2|3moons|Mo(2)
+2|2moons|Mo(2)
 2|HDP_Execrable|El Futuro
 3|Exfishion|SlaeR
 2|Warch_hard_2_rework|Warch
 2|Omega1|Joggelx
 1|LongCat|Dacent & Esc
-1|dd_VeoN1|VeoN
-2|AipKoule|Nieme & Intercity
 
 ─── OTHER MAPS ───
 3|-273|-273°C
 2|17_Jungle|Chill [TD]
 1|1TeeMap
 1|AiP-Gores|Nieme
+2|AipKoule|Nieme & Intercity
 2|Alaska|Crytek
 1|Amor 1|Amor
 1|Amor 2|Amor
@@ -40,6 +41,7 @@
 2|DarkCore 2|Heaven
 2|DarkCore 3|Heaven
 4|DarkCore 4|Heaven
+1|dd_VeoN1|VeoN
 2|DDPika_remake|PoKeMoN [TD]
 2|ddrace_loop|Loop
 1|ddrace_shella2|Shell
