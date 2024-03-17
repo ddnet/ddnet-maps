@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Konepas|Imperius
 2|The Floor is Lava|Savalic
 4|Morthal|Genex
 2|Forest Trip|SickCunt
 3|Caverns|Savalic
 4|Luxis|Acrolol & Pioche
 2|Lonely Travel|QuiX
-4|Simple Down 3|Zweitleben
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -343,6 +343,7 @@
 2|Shock Value|Ninjed
 4|Simple Down|Zweitleben
 4|Simple Down 2|Zweitleben
+4|Simple Down 3|Zweitleben
 2|SimpleBLocks|SBL
 1|Skave|Im 'corneum
 4|Skill Rises|Varys
