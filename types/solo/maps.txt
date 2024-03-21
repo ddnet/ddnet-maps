@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Spike It!|QuiX
 2|A|grandecasada
 2|ninjastic|texnonik
 3|Purple Peaks 2|texnonik
 2|Shotgoon|Welshi
 4|Ignis|Starkiller
 2|Ignite The Skies|texnonik
-2|Jaomp|texnonik
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -218,6 +218,7 @@
 3|It's Time|Stalker
 5|It'sYourDeath|nealson T'nP
 1|Jajpack|Blurry & Pipou
+2|Jaomp|texnonik
 2|Jomp|Cøke
 2|Jump Shooter|Sorah
 1|Jumper|Im 'corneum
