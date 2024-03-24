@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Big-Jungle|Father
 2|3moons|Mo(2)
 2|2moons|Mo(2)
 2|HDP_Execrable|El Futuro
 3|Exfishion|SlaeR
 2|Warch_hard_2_rework|Warch
 2|Omega1|Joggelx
-1|LongCat|Dacent & Esc
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -149,6 +149,7 @@
 5|LichKing|Barsum & Arem Shin
 3|Lite|SlaeR
 2|Lite_2|SlaeR
+1|LongCat|Dacent & Esc
 3|Lost|Silex
 3|Lost 2|Silex
 3|Lost 3|Silex
