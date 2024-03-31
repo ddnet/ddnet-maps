@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Mint|寒鸦 & Wartoz
 3|Firewatch 2|QuiX
 4|EasyRight|texnonik
 5|Mellifluous|123123小黄 & Wartoz
 1|Teeasy|Tridemy & Cøke
 5|Iced|YoDa
 5|Circular|PopCorn181
-5|Open Lane|ReD
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -119,6 +119,7 @@
 3|Moonlight|FeaRZ
 5|Multeasymap|Cøke, Tridemy, Welf & TPaul
 2|newbee|pixel
+5|Open Lane|ReD
 5|Orion|Pulsar
 3|Ovell|Evoli
 1|Pados 1|Pados
