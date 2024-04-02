@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Good Movement|texnonik
 1|Vacando|Knuski
 5|Tentrom|Starkiller
 1|Control|QuiX
 1|sus'terism|Savalic
 1|Unbalanced 3|Imperius
 2|Hostile 3|Pipou & tatak
-1|FarLands|Genex, Freezestyler, <BµmM>, J$ON & Panik
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -30,6 +30,7 @@
 4|Back in Time 3|Silex
 1|Binary|Pulsar
 2|Falling Down|Loop & Kayumi
+1|FarLands|Genex, Freezestyler, <BµmM>, J$ON & Panik
 2|Firestone|Feuerfaust Ace
 1|Generic World|Loop
 1|Genericore 6|Åmol
