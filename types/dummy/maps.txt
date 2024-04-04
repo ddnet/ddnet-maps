@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|quon|yo bitch
 3|Spectateer|ɳ0vą
 3|Dark Night 2|NeZoX
 4|Twin Electric Field|FightFire
 2|Essential 2|texnonik
 3|Azure|NeZoX
 4|Papillon|clefairy'
-2|Headache|Soapy Sandwich
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -90,6 +90,7 @@
 3|GetCarry|tortilladmaiz
 2|Greed|Kosho
 3|Gummy|Genex
+2|Headache|Soapy Sandwich
 3|Hiking|Im 'corneum
 3|Hondrag|Knuski
 4|Huanghu|bit
