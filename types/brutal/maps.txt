@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Holidays 2|Destoros
 2|Konepas|Imperius
 2|The Floor is Lava|Savalic
 4|Morthal|Genex
 2|Forest Trip|SickCunt
 3|Caverns|Savalic
 4|Luxis|Acrolol & Pioche
-2|Lonely Travel|QuiX
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -276,6 +276,7 @@
 3|Limba|Gianth
 3|Lobster Party|SUKA
 2|Logics|aMu
+2|Lonely Travel|QuiX
 3|Looney [Extreme]|☆.Sυsнι♪
 1|lost_castle|Shorefire
 1|Lotus|Ravie
