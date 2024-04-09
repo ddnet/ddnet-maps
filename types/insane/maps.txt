@@ -1,6 +1,5 @@
 
 ─── NEW MAPS ───
-5|Good Movement|texnonik
 1|Vacando|Knuski
 5|Tentrom|Starkiller
 1|Control|QuiX
