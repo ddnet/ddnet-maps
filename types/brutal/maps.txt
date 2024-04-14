@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Nagi|Cøke & Arrow
 2|Holidays 2|Destoros
 2|Konepas|Imperius
 2|The Floor is Lava|Savalic
 4|Morthal|Genex
 2|Forest Trip|SickCunt
 3|Caverns|Savalic
-4|Luxis|Acrolol & Pioche
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -282,6 +282,7 @@
 1|Lotus|Ravie
 2|Lucifer|Stalker
 1|LuckyStrike|LanuX & Hindu
+4|Luxis|Acrolol & Pioche
 1|M&M|Maple & mikey12
 2|Madrigal|Slayer
 3|Mana|Genex
