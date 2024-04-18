@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Majin Buu|Colo-Colo
 4|quon|yo bitch
 3|Spectateer|ɳ0vą
 3|Dark Night 2|NeZoX
 4|Twin Electric Field|FightFire
 2|Essential 2|texnonik
 3|Azure|NeZoX
-4|Papillon|clefairy'
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -130,6 +130,7 @@
 3|oldpath|Im 'corneum
 3|Onliner|Im 'corneum
 1|Pace|Im 'corneum
+4|Papillon|clefairy'
 4|Pataros|Skeptar & Exotix
 3|Pataros II|Exotix
 3|Peru|Im 'corneum
