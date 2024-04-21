@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Brassrun|Kaniosek
 3|Nagi|Cøke & Arrow
 2|Holidays 2|Destoros
 2|Konepas|Imperius
 2|The Floor is Lava|Savalic
 4|Morthal|Genex
 2|Forest Trip|SickCunt
-3|Caverns|Savalic
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -161,6 +161,7 @@
 3|Brosty|DarkOort
 1|Bumblebee|Savalic
 2|Burger|Waschlappen
+3|Caverns|Savalic
 1|Cemetery|{E}{L}{I}{T}{E} & ٭ıƞdex'<3
 5|Cerberus|Pulsar, Ravie & Sorah
 3|Cerulean|Pulsar
