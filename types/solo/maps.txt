@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|goup|ɳ0vą
 3|Incommodious|tortilladmaiz
 3|Spike It!|QuiX
 2|A|grandecasada
 2|ninjastic|texnonik
 3|Purple Peaks 2|texnonik
 2|Shotgoon|Welshi
-4|Ignis|Starkiller
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -211,6 +211,7 @@
 2|Hopeless II|Juandissimo & Ninjed
 4|HyperEdge|nealson T'nP
 3|I will be back|Miper
+4|Ignis|Starkiller
 2|Ignite The Skies|texnonik
 1|Impetuous|Ravie
 2|Increase Your Speed|Ninjed
