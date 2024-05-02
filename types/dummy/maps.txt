@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Cloudtide|Arrow
 4|Majin Buu|Colo-Colo
 4|quon|yo bitch
 3|Spectateer|ɳ0vą
 3|Dark Night 2|NeZoX
 4|Twin Electric Field|FightFire
 2|Essential 2|texnonik
-3|Azure|NeZoX
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -48,6 +48,7 @@
 4|Anim|Im 'corneum
 2|Apex|Pulsar
 3|Aries|Starkiller
+3|Azure|NeZoX
 2|balega|Ciniminix
 2|Bomb Raid|DanilBest
 2|Bomb Raid 2|DanilBest
