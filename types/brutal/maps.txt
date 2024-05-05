@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|GalacTees|Kaniosek
 1|Brassrun|Kaniosek
 3|Nagi|Cøke & Arrow
 2|Holidays 2|Destoros
 2|Konepas|Imperius
 2|The Floor is Lava|Savalic
 4|Morthal|Genex
-2|Forest Trip|SickCunt
 
 ─── OLDSCHOOL MAPS ───
 1|Zenith|purrp T
@@ -222,6 +222,7 @@
 1|Flux 2|Pulsar
 2|Fly Around|Ante.
 1|Fonders|Destoros
+2|Forest Trip|SickCunt
 1|Fox|Waschlappen
 3|Franky's Adventure|BooNi
 1|Freezeless|Destoros
