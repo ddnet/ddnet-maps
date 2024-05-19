@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Sunlit Peaks|♂S1mple♂
 4|spirit|spiritdote & Wartoz
 4|Early Winter|Wartoz & shengyan
 5|Borace|тυx
 3|Vigorous|Wartoz & shengyan
 3|powerless|spiritdote
 2|Starlit Peaks|♂S1mple♂
-4|Distance|FightFire
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -139,6 +139,7 @@
 5|Depressed|cheeser0613
 5|Depressed II|cheeser0613
 4|Desoxyribonukleinsäure|Im 'corneum
+4|Distance|FightFire
 3|Doable|Skeptar
 4|Dubush|тυx
 3|Dummy 2|Nigel
