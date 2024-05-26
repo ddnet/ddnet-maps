@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|powerless2|spiritdote
 3|Sunlit Peaks|♂S1mple♂
 4|spirit|spiritdote & Wartoz
 4|Early Winter|Wartoz & shengyan
 5|Borace|тυx
 3|Vigorous|Wartoz & shengyan
 3|powerless|spiritdote
-2|Starlit Peaks|♂S1mple♂
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -316,6 +316,7 @@
 3|Spoon|Ravie
 3|Squidgy|timakro
 2|Stargazing|Silex
+2|Starlit Peaks|♂S1mple♂
 2|SunDay|Gridwyn
 5|SunDay 2|Gridwyn
 5|SunDay 3|Gridwyn
