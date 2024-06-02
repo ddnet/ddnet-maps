@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Scuba|'Im 'corneum
 2|Cloudtide|Arrow
 4|Majin Buu|Colo-Colo
 4|quon|yo bitch
 3|Spectateer|ɳ0vą
 3|Dark Night 2|NeZoX
 4|Twin Electric Field|FightFire
-2|Essential 2|texnonik
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -83,6 +83,7 @@
 4|Equivalent Exchange 2|Ezio
 2|Escape from the Prison|Ninjed
 2|Essential|texnonik
+2|Essential 2|texnonik
 2|Fallen Fortress|Im 'corneum
 4|Feral|Cøke
 2|For You|Ciniminix
