@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Hook It|texnonik
 1|goup|ɳ0vą
 3|Incommodious|tortilladmaiz
 3|Spike It!|QuiX
 2|A|grandecasada
 2|ninjastic|texnonik
 3|Purple Peaks 2|texnonik
-2|Shotgoon|Welshi
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -322,6 +322,7 @@
 2|Short Sky|S.O.S
 4|Shortgun|Cor
 2|ShotFF|Savander
+2|Shotgoon|Welshi
 2|Single Nade|Destoros
 3|Skepsis|Juandissimo, timakro & Soreu
 3|SkipIt|xPeke
