@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|fr_drop|Mo(2)
 2|Big-Jungle|Father
 2|3moons|Mo(2)
 2|2moons|Mo(2)
 2|HDP_Execrable|El Futuro
 3|Exfishion|SlaeR
 2|Warch_hard_2_rework|Warch
-2|Omega1|Joggelx
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -168,6 +168,7 @@
 1|mo_factory|Mo(2)
 1|Oh-This|Father
 3|Oh-This 2|Father
+2|Omega1|Joggelx
 1|Orange 1|FunCat
 2|Orange 2|FunCat
 2|Orange 3|FunCat
