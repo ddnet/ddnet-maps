@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|SkyHitch|texnonik
 3|Scuba|Im 'corneum
 2|Cloudtide|Arrow
 4|Majin Buu|Colo-Colo
 4|quon|yo bitch
 3|Spectateer|ɳ0vą
 3|Dark Night 2|NeZoX
-4|Twin Electric Field|FightFire
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -169,6 +169,7 @@
 3|Tropical Drag|RayB.
 2|Try It|Ciniminix
 2|Try It 2|Ciniminix
+4|Twin Electric Field|FightFire
 3|Ulver|Arcturus
 3|unFrozen|Mıss Fʋггצ
 3|Vice City|Arrow
