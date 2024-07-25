@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|EXO|exosphere
 2|Slow Down|Deeper
 1|Hook It|texnonik
 1|goup|ɳ0vą
 3|Incommodious|tortilladmaiz
 3|Spike It!|QuiX
 2|A|grandecasada
-2|ninjastic|texnonik
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -268,6 +268,7 @@
 3|Nettex|{E}{L}{I}{T}{E}
 4|Network|Ninjed
 2|Night of Spikes|Element Finland
+2|ninjastic|texnonik
 1|No_Stuck|Xalcon
 4|Noh|Ninjed
 2|Noobfilter|SUKA
