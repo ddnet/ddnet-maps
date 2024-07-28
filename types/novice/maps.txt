@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Cliff Charge|Kaniosek
 5|EasyRight 2|texnonik
 5|Mint|寒鸦 & Wartoz
 3|Firewatch 2|QuiX
 4|EasyRight|texnonik
 5|Mellifluous|123123小黄 & Wartoz
 1|Teeasy|Tridemy & Cøke
-5|Iced|YoDa
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -100,6 +100,7 @@
 5|Homesick|Wesno
 3|Houll|Evoli
 4|Hulk|Ama
+5|Iced|YoDa
 4|Iris|fikmesån
 3|IronMan|Ama
 3|Island Rush|Tuna
