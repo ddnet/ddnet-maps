@@ -8,9 +8,6 @@
 2|The Floor is Lava|Savalic
 4|Morthal|Genex
 
-─── OLDSCHOOL MAPS ───
-1|Zenith|purrp T
-
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
 4|Aim 10.0|Aoe & SickCunt
@@ -438,4 +435,5 @@
 3|Yumizo|Ezio & Kayumi
 2|Yun Gu 2|bit
 4|Yun Gu 3|bit
+1|Zenith|purrp T
 1|Zoe|NeXus & jao

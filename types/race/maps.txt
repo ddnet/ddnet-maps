@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Grenadium|texnonik
 3|run_FinalFifty|TheGnaa & Xantha
 3|run_lila_jungle_trouble|Agillity
 2|run_selected|Hyde
 2|run_hard_way
 2|run_bundesliga|Yannik, Andre & TheGnaa
 1|run_Chaos_Aufnahmemap|WARPommes & WARbubble
-1|run_event|Tee Killa
 
 ─── OLDSCHOOL MAPS ───
 2|Aufnahmetest_AE|teetee
@@ -51,6 +51,7 @@
 1|run_drawed|Xantha
 1|run_dude|Ubu
 4|run_escape_the_darkness|SkizZ
+1|run_event|Tee Killa
 2|run_experience_of_incredibleness|Haselnuss
 1|run_ffs|Ubu
 2|run_firestorm|TheGnaa
