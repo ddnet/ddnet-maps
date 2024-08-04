@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Grell|xewoiy
 2|Cliff Charge|Kaniosek
 5|EasyRight 2|texnonik
 5|Mint|寒鸦 & Wartoz
 3|Firewatch 2|QuiX
 4|EasyRight|texnonik
 5|Mellifluous|123123小黄 & Wartoz
-1|Teeasy|Tridemy & Cøke
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -146,6 +146,7 @@
 3|Spüli|fikmesån
 3|Sunlight|GolfaN
 2|Take it noobly|Ñı©Ø
+1|Teeasy|Tridemy & Cøke
 3|TeeWorld|Zaiross
 3|Thor|Ama
 3|Threll|Evoli
