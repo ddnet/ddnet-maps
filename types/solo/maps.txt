@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Amethyst|♂S1mple♂
 3|EXO|exosphere
 2|Slow Down|Deeper
 1|Hook It|texnonik
 1|goup|ɳ0vą
 3|Incommodious|tortilladmaiz
 3|Spike It!|QuiX
-2|A|grandecasada
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -82,6 +82,7 @@
 2|3of4|Chill [TD]
 2|4of4|Chill [TD]
 2|8 points|Ciniminix
+2|A|grandecasada
 2|acq|louis
 3|Agile|Jimmy Jazz
 3|AIB Quest 1|Pipou
