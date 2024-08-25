@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Waldeinsamkeit|Savalic
 3|GalacTees|Kaniosek
 1|Brassrun|Kaniosek
 3|Nagi|Cøke & Arrow
 2|Holidays 2|Destoros
 2|Konepas|Imperius
 2|The Floor is Lava|Savalic
-4|Morthal|Genex
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -294,6 +294,7 @@
 1|mmips|spimm
 4|Moonshine|QuiX
 2|Moonstone|Hesse & Kayumi
+4|Morthal|Genex
 3|Mystic River|Themix
 3|Mystical Island|StorмPʜöɴix
 3|Narcissistic|fikmesån & imp
