@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|intime green|spimm & DiViNe
 2|fr_drop|Mo(2)
 2|Big-Jungle|Father
 2|3moons|Mo(2)
 2|2moons|Mo(2)
 2|HDP_Execrable|El Futuro
 3|Exfishion|SlaeR
-2|Warch_hard_2_rework|Warch
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -232,6 +232,7 @@
 4|Victory 5|sMo0g
 3|Wanderlust|Fullander
 1|Warch Comp|Warch
+2|Warch_hard_2_rework|Warch
 2|WeichCore|DeadAlien
 1|Who's Faster|Silex & DiViNe
 3|WoFs|Silex
