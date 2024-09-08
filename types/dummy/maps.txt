@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Dash Dummy|Soapy Sandwich & Jimmy Jazz
 2|Push ur Dummy|Welf
 2|SkyHitch|texnonik
 3|Scuba|Im 'corneum
 2|Cloudtide|Arrow
 4|Majin Buu|Colo-Colo
 4|quon|yo bitch
-3|Spectateer|ɳ0vą
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -157,6 +157,7 @@
 3|Skyventure|archimede67
 2|Smash|Pulsar
 5|Smolder|N9mkOik
+3|Spectateer|ɳ0vą
 2|SpoopyDrag|Im 'corneum
 5|Squadron|Pryzed
 3|Stacked|Soapy Sandwich
