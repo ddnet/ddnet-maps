@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Catharsis|Doshik
 1|Necron|Cøke
 1|Vacando|Knuski
 5|Tentrom|Starkiller
 1|Control|QuiX
 1|sus'terism|Savalic
 1|Unbalanced 3|Imperius
-2|Hostile 3|Pipou & tatak
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -40,6 +40,7 @@
 3|Heartcore|Themix
 5|Heartcore II|Themix
 2|HellCore|MaDLeX
+2|Hostile 3|Pipou & tatak
 1|Justice|DarkHeaven & Phacrum
 3|Justice 2|645654, Pipou & Phacrum
 1|Mult0map|Cøke & Tridemy
