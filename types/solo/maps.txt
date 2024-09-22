@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Monkey Sky|Welf
 2|Amethyst|♂S1mple♂
 3|EXO|exosphere
 2|Slow Down|Deeper
 1|Hook It|texnonik
 1|goup|ɳ0vą
 3|Incommodious|tortilladmaiz
-3|Spike It!|QuiX
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -349,6 +349,7 @@
 4|SpeedRun|I.K.U
 2|Speedster|imp
 3|Spiders|Zerodin
+3|Spike It!|QuiX
 2|spy|Deeper
 2|Stop Over 1.0|N9mkOik
 3|Stop Over 2.0|N9mkOik
