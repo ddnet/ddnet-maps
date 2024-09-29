@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Sg|Rw
 2|Monkey Sky|Welf
 2|Amethyst|♂S1mple♂
 3|EXO|exosphere
 2|Slow Down|Deeper
 1|Hook It|texnonik
 1|goup|ɳ0vą
-3|Incommodious|tortilladmaiz
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -215,6 +215,7 @@
 4|Ignis|Starkiller
 2|Ignite The Skies|texnonik
 1|Impetuous|Ravie
+3|Incommodious|tortilladmaiz
 2|Increase Your Speed|Ninjed
 3|Indami|Knuski
 2|Iron Island|Im 'corneum
