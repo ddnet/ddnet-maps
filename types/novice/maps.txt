@@ -163,11 +163,5 @@
 ─── OLD MAPS ───
 4|Epix|Cookie & Lealen
 5|Shadow|Deeper
-3|Skillz 1|Tvgucker
-3|Skillz 2|Tvgucker
-3|Skillz 3|Tvgucker
-4|Skillz 4|Tvgucker & Ama
-4|Skillz 5|Tvgucker
-5|Skillz 6|Tvgucker
 3|Teleport|El Futuro & Broken
 3|xyz_ddrace2|Oy & Themix
