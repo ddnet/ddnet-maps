@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Cryptic|Skystrife
 2|Waldeinsamkeit|Savalic
 3|GalacTees|Kaniosek
 1|Brassrun|Kaniosek
 3|Nagi|Cøke & Arrow
 2|Holidays 2|Destoros
 2|Konepas|Imperius
-2|The Floor is Lava|Savalic
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -383,6 +383,7 @@
 3|Tenebris|Slayer & Lilith
 4|The Cursed Night|MaDLeX
 3|The Dream|Spyker
+2|The Floor is Lava|Savalic
 2|The Joke|TheZyZya
 2|The Joke 2|TheZyZya
 2|The Joke 3|TheZyZya
