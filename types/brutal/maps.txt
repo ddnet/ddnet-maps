@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Triplicitee|catseyenebulous
 3|Cryptic|Skystrife
 2|Waldeinsamkeit|Savalic
 3|GalacTees|Kaniosek
 1|Brassrun|Kaniosek
 3|Nagi|Cøke & Arrow
 2|Holidays 2|Destoros
-2|Konepas|Imperius
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -267,6 +267,7 @@
 2|Karaboudjan 3|Bee
 2|Kassin|Åmol
 3|Kickout|Fullander
+2|Konepas|Imperius
 2|LazeAround 3|Suppe
 1|leopold|Shorefire
 3|Level Asian|Gianth
