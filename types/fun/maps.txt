@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+0|8bit Full Adder|kinki9487
 0|braintee|Cammodude
 0|Good Movement|texnonik
 0|Quickdraw|FJP
 0|IWannaBeatTheMap2|PopCorn181
 0|Volleyball|lynn
 0|IWannaBeatTheMap|PopCorn181
-0|DVD screensaver|Im 'corneum
 
 ─── OTHER MAPS ───
 0|9gates|bit
@@ -16,6 +16,7 @@
 0|CookieCorporation|Delo
 0|Disabled|Im 'corneum
 0|DontMove|=xPeke=
+0|DVD screensaver|Im 'corneum
 0|EdgeDuel|Pipou
 0|Game City|imp
 0|LS10|Lady Saavik
