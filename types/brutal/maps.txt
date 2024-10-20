@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Cave of Harmony|Welf
 3|Triplicitee|catseyenebulous
 3|Cryptic|Skystrife
 2|Waldeinsamkeit|Savalic
 3|GalacTees|Kaniosek
 1|Brassrun|Kaniosek
 3|Nagi|Cøke & Arrow
-2|Holidays 2|Destoros
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -245,6 +245,7 @@
 1|Helena|Hitomi
 3|Highlife|Skeptar & ٭ıƞdex'<3
 3|Hillside|»Rogue.
+2|Holidays 2|Destoros
 4|Hush|Cøke
 5|Impel Down|Zweitleben
 2|In Da House|da
