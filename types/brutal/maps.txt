@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Planet 9|Silex
 1|Cave of Harmony|Welf
 3|Triplicitee|catseyenebulous
 3|Cryptic|Skystrife
 2|Waldeinsamkeit|Savalic
 3|GalacTees|Kaniosek
 1|Brassrun|Kaniosek
-3|Nagi|Cøke & Arrow
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -299,6 +299,7 @@
 4|Morthal|Genex
 3|Mystic River|Themix
 3|Mystical Island|StorмPʜöɴix
+3|Nagi|Cøke & Arrow
 3|Narcissistic|fikmesån & imp
 3|nemesis|Lewuh
 3|New World|Zerodin
