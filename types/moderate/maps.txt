@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|weixun|pinfandsj
 3|Cyber Space|Kaniosek
 4|powerless2|spiritdote
 3|Sunlit Peaks|♂S1mple♂
 4|spirit|spiritdote & Wartoz
 4|Early Winter|Wartoz & shengyan
 5|Borace|тυx
-3|Vigorous|Wartoz & shengyan
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -344,6 +344,7 @@
 2|Twix|Knight :3
 5|Underwater|Stalker
 2|UpNDown Coop|Vasten100
+3|Vigorous|Wartoz & shengyan
 1|Vizur 2|Seba0006
 3|WEEDS|Scratchy <3
 3|Wrong Forest|Zerodin
