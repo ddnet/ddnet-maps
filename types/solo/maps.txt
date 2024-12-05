@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|StereoLove|exosphere
 1|Bouncy|♂S1mple♂
 2|Sg|Rw
 2|Monkey Sky|Welf
 2|Amethyst|♂S1mple♂
 3|EXO|exosphere
 2|Slow Down|Deeper
-1|Hook It|texnonik
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -209,6 +209,7 @@
 4|Honkstar|Honky_Tonk_Man
 4|Honkstar 2|Honky_Tonk_Man
 4|Honkstar 3|Honky_Tonk_Man
+1|Hook It|texnonik
 3|Hopeless|Juandissimo
 2|Hopeless II|Juandissimo & Ninjed
 4|HyperEdge|nealson T'nP
