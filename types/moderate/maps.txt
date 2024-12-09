@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Launch Them|Welf
 3|weixun|pinfandsj
 3|Cyber Space|Kaniosek
 4|powerless2|spiritdote
 3|Sunlit Peaks|♂S1mple♂
 4|spirit|spiritdote & Wartoz
 4|Early Winter|Wartoz & shengyan
-5|Borace|тυx
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -101,6 +101,7 @@
 4|Boo!|TyxpekCZ
 4|Bootcamp #1|.me'
 3|Bootcamp #2|.me'
+5|Borace|тυx
 3|Bornrif|Guliker
 3|Brony|Ama
 4|Brown|Stervella
