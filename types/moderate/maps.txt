@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Multeasyvolvemap|Pipou, Cøke, Tridemy, Welf & TPaul
 4|Launch Them|Welf
 3|weixun|pinfandsj
 3|Cyber Space|Kaniosek
 4|powerless2|spiritdote
 3|Sunlit Peaks|♂S1mple♂
 4|spirit|spiritdote & Wartoz
-4|Early Winter|Wartoz & shengyan
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -145,6 +145,7 @@
 4|Dubush|тυx
 3|Dummy 2|Nigel
 5|Dusty Road|Kintaro*
+4|Early Winter|Wartoz & shengyan
 4|Easy Edge|Zerodin
 3|Easy Hook|Zerodin
 5|Elitissimo|Juandissimo & {E}{L}{I}{T}{E}

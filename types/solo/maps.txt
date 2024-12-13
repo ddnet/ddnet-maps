@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Multeasymapsolo|PRO_Gaming1921, Cøke, Tridemy, Welf & TPaul
 1|StereoLove|exosphere
 1|Bouncy|♂S1mple♂
 2|Sg|Rw
 2|Monkey Sky|Welf
 2|Amethyst|♂S1mple♂
 3|EXO|exosphere
-2|Slow Down|Deeper
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -338,6 +338,7 @@
 3|SL1|LoLz
 4|Slak|Cøke & Tridemy
 2|Slide 2|Sorah
+2|Slow Down|Deeper
 3|Solo Future|Gridwyn
 2|Solo Power|Power
 2|solo_castle|Hallowed1986
