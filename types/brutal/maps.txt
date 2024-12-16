@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Another Encore|Pipou
 5|Planet 9|Silex
 1|Cave of Harmony|Welf
 3|Triplicitee|catseyenebulous
 3|Cryptic|Skystrife
 2|Waldeinsamkeit|Savalic
 3|GalacTees|Kaniosek
-1|Brassrun|Kaniosek
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -155,6 +155,7 @@
 4|Bounce|Silex
 2|brainduck|٭ıƞdex'<3 & Rapture
 3|brainduck2|٭ıƞdex'<3 & Rapture
+1|Brassrun|Kaniosek
 3|Brosty|DarkOort
 1|Bumblebee|Savalic
 2|Burger|Waschlappen
