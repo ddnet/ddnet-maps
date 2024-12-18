@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Edge Jump Pro|<BµmM>
+2|One Block|catseyenebulous
 1|JustRocket|Delo & Pipou
 1|Kevin|Welshi
 2|Multeasymapsolo|PRO_Gaming1921, Cøke, Tridemy, Welf & TPaul
 1|StereoLove|exosphere
 1|Bouncy|♂S1mple♂
-2|Sg|Rw
-2|Monkey Sky|Welf
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -265,6 +265,7 @@
 1|Mini Zero|Zerodin
 1|Mini Zero II|Zerodin
 1|Mirror|Pipou
+2|Monkey Sky|Welf
 1|mood|neverminze
 2|MorningStar|stompie & Soapy Sandwich
 1|Mossolo|ɳ0vą
@@ -318,6 +319,7 @@
 4|Safe Place|Blue
 1|Schwung|ReD
 2|selfdragger|Jeet
+2|Sg|Rw
 1|Shooting Range|Im 'corneum & Soapy Sandwich
 2|Short And Precise 1|Destoros
 2|Short And Precise 2|Destoros
