@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Exit [Weapons Edition]|fikmesån, imp & Pipou
 4|Bouncy Kingdom|Welf
 3|Multeasyvolvemap|Pipou, Cøke, Tridemy, Welf & TPaul
 4|Launch Them|Welf
 3|weixun|pinfandsj
 3|Cyber Space|Kaniosek
 4|powerless2|spiritdote
-3|Sunlit Peaks|♂S1mple♂
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -324,6 +324,7 @@
 2|SunDay|Gridwyn
 5|SunDay 2|Gridwyn
 5|SunDay 3|Gridwyn
+3|Sunlit Peaks|♂S1mple♂
 5|Sunrice|Zerodin
 4|Swoosh|mikey12
 5|Temple of Doom|Hindu & Zerodin
