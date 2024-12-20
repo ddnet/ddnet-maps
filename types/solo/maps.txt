@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Memento Vivere|Freezy, Shkyyl & Starkiller
 1|Edge Jump Pro|<BµmM>
 2|One Block|catseyenebulous
 1|JustRocket|Delo & Pipou
 1|Kevin|Welshi
 2|Multeasymapsolo|PRO_Gaming1921, Cøke, Tridemy, Welf & TPaul
 1|StereoLove|exosphere
-1|Bouncy|♂S1mple♂
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -113,6 +113,7 @@
 3|BlackBear5|RayB.
 3|BlackBear6|RayB.
 2|BlackBear7|RayB.
+1|Bouncy|♂S1mple♂
 4|Broken brain|BannZay
 3|Broken space|dinner & BannZay
 4|BrokeysChallenge|MaDLeX
