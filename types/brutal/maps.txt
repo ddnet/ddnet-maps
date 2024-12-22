@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Amateur|Pipou, tatak & Aoe
 3|Another Encore|Pipou
 5|Planet 9|Silex
 1|Cave of Harmony|Welf
 3|Triplicitee|catseyenebulous
 3|Cryptic|Skystrife
 2|Waldeinsamkeit|Savalic
-3|GalacTees|Kaniosek
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -228,6 +228,7 @@
 3|Frozen|#eci.in`
 3|Fuji|Arrow & sevvv.aa
 2|Furypleasure|Åmol
+3|GalacTees|Kaniosek
 3|Generic Fly|Konsti
 5|Generic Hell 2|Loop, Ezio & Kayumi
 1|GenericRush1|Trax & Hindu
