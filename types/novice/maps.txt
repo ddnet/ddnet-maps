@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Axison|texnonik
 4|El Quisco|Colo-Colo
 4|EasyRight 3|texnonik
 3|Grell|xewoiy
 2|Cliff Charge|Kaniosek
 5|EasyRight 2|texnonik
 5|Mint|寒鸦 & Wartoz
-3|Firewatch 2|QuiX
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -78,6 +78,7 @@
 3|Eventide|Silex
 5|Fiji|WSike
 3|Firewatch|QuiX
+3|Firewatch 2|QuiX
 3|Fluff|Tuna
 2|For Idiots 1|KBeeeR
 2|For Idiots 2|KBeeeR
