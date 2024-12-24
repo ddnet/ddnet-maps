@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Barely Intermediate|Pipou & Themix
 2|Amateur|Pipou, tatak & Aoe
 3|Another Encore|Pipou
 5|Planet 9|Silex
 1|Cave of Harmony|Welf
 3|Triplicitee|catseyenebulous
 3|Cryptic|Skystrife
-2|Waldeinsamkeit|Savalic
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -422,6 +422,7 @@
 1|Venture|Shorefire
 4|Venture 2|Shorefire
 1|Wailand|Destoros
+2|Waldeinsamkeit|Savalic
 2|Wasteland|»Rogue.
 3|Wave|Con.'
 4|Way to the moon|NeZoX
