@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Bouncyhold|Pipou
 2|Exit [Weapons Edition]|fikmesån, imp & Pipou
 4|Bouncy Kingdom|Welf
 3|Multeasyvolvemap|Pipou, Cøke, Tridemy, Welf & TPaul
 4|Launch Them|Welf
 3|weixun|pinfandsj
 3|Cyber Space|Kaniosek
-4|powerless2|spiritdote
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -268,6 +268,7 @@
 2|Plue|Hake
 4|Pogchy|CheseChezz
 3|powerless|spiritdote
+4|powerless2|spiritdote
 4|Pranki|Welf
 3|PreciousDream|٭ıƞdex'<3
 5|Primeval Forest|Silex
