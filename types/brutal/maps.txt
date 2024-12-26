@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Back in Festivity|Pipou
 1|Barely Intermediate|Pipou & Themix
 2|Amateur|Pipou, tatak & Aoe
 3|Another Encore|Pipou
 5|Planet 9|Silex
 1|Cave of Harmony|Welf
 3|Triplicitee|catseyenebulous
-3|Cryptic|Skystrife
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -172,6 +172,7 @@
 2|Commandont|Soapy Sandwich
 5|Complex|MarvinProductions
 2|complic|Åmol
+3|Cryptic|Skystrife
 3|Cucumber|Fňokurka oo7
 2|Cursed Treasure|Bixes & Themix
 2|Cya Nerd|Destoros
