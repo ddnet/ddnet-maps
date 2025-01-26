@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Redline Katana|Cammodude
 3|Memento Vivere|Freezy, Shkyyl & Starkiller
 1|Edge Jump Pro|<BµmM>
 2|One Block|catseyenebulous
 1|JustRocket|Delo & Pipou
 1|Kevin|Welshi
 2|Multeasymapsolo|PRO_Gaming1921, Cøke, Tridemy, Welf & TPaul
-1|StereoLove|exosphere
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -360,6 +360,7 @@
 3|Spiders|Zerodin
 3|Spike It!|QuiX
 2|spy|Deeper
+1|StereoLove|exosphere
 2|Stop Over 1.0|N9mkOik
 3|Stop Over 2.0|N9mkOik
 2|Stop Over 3.0|N9mkOik
