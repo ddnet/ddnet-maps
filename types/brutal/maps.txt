@@ -65,6 +65,8 @@
 ─── 4 PLAYER MAPS ───
 2|4Four|Chill [TD]
 5|4s|Åmol
+5|Behemoth|Pulsar & Ravie
+5|Cerberus|Pulsar, Ravie & Sorah
 
 ─── OLD BUT GOLD ───
 4|Adrenaline|Jamby & Silex
@@ -140,7 +142,6 @@
 5|Atomic|Kayumi
 3|Baguette|artkis
 2|Barren|Pulsar
-5|Behemoth|Pulsar & Ravie
 1|Behind the Darkua|GoJE GrEEN ! & Chicken
 5|Between the Heavens|Neverbloom & Chill [TD]
 2|Big Sun|Spyker
@@ -161,7 +162,6 @@
 2|Burger|Waschlappen
 3|Caverns|Savalic
 1|Cemetery|{E}{L}{I}{T}{E} & ٭ıƞdex'<3
-5|Cerberus|Pulsar, Ravie & Sorah
 3|Cerulean|Pulsar
 2|Childs Play 1|ChuCky & GoJE GrEEN !
 3|ChillDontKill|ChillerDragon

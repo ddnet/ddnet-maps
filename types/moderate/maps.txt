@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|dote|spiritdote
 5|Bouncyhold|Pipou
 2|Exit [Weapons Edition]|fikmesån, imp & Pipou
 4|Bouncy Kingdom|Welf
 3|Multeasyvolvemap|Pipou, Cøke, Tridemy, Welf & TPaul
 4|Launch Them|Welf
 3|weixun|pinfandsj
-3|Cyber Space|Kaniosek
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -125,6 +125,7 @@
 4|Cross|hannibal
 2|Cry|Hitomi
 4|Crystal Maze|sorgaxD
+3|Cyber Space|Kaniosek
 0|CYO|=CuBe=
 2|DaoYu|just
 4|DaoYu Night|just & FightFire
