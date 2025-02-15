@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Romantic|Wartoz & ɳ0vą
 3|dote|spiritdote
 5|Bouncyhold|Pipou
 2|Exit [Weapons Edition]|fikmesån, imp & Pipou
 4|Bouncy Kingdom|Welf
 3|Multeasyvolvemap|Pipou, Cøke, Tridemy, Welf & TPaul
 4|Launch Them|Welf
-3|weixun|pinfandsj
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -353,6 +353,7 @@
 3|Vigorous|Wartoz & shengyan
 1|Vizur 2|Seba0006
 3|WEEDS|Scratchy <3
+3|weixun|pinfandsj
 3|Wrong Forest|Zerodin
 5|Yeyou 1|bit
 5|Yeyou 2|bit
