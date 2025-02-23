@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Death|QuiX
 1|Redline Katana|Cammodude
 3|Memento Vivere|Freezy, Shkyyl & Starkiller
 1|Edge Jump Pro|<BµmM>
 2|One Block|catseyenebulous
 1|JustRocket|Delo & Pipou
 1|Kevin|Welshi
-2|Multeasymapsolo|PRO_Gaming1921, Cøke, Tridemy, Welf & TPaul
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -273,6 +273,7 @@
 3|Motus|1ntact
 4|Movement I|Nigel
 1|Moventer|Themix
+2|Multeasymapsolo|PRO_Gaming1921, Cøke, Tridemy, Welf & TPaul
 3|Nettex|{E}{L}{I}{T}{E}
 4|Network|Ninjed
 2|Night of Spikes|Element Finland
