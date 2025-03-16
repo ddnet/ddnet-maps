@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|One way freeze|Destoros
 4|Death|QuiX
 1|Redline Katana|Cammodude
 3|Memento Vivere|Freezy, Shkyyl & Starkiller
 1|Edge Jump Pro|<BµmM>
 2|One Block|catseyenebulous
 1|JustRocket|Delo & Pipou
-1|Kevin|Welshi
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -236,6 +236,7 @@
 3|JungleBee|Exotix
 2|Jungler|louis
 4|Just_Shotgun|Aoe
+1|Kevin|Welshi
 3|kipling|Im 'corneum
 2|Kobra 2 Solo|Zerodin
 2|Kobra 3 Solo|Zerodin
