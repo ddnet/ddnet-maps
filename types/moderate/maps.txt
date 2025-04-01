@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Linear II|louis
 4|Romantic|Wartoz & ɳ0vą
 3|dote|spiritdote
 5|Bouncyhold|Pipou
 2|Exit [Weapons Edition]|fikmesån, imp & Pipou
 4|Bouncy Kingdom|Welf
 3|Multeasyvolvemap|Pipou, Cøke, Tridemy, Welf & TPaul
-4|Launch Them|Welf
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -212,6 +212,7 @@
 3|Kero-Gores8|Kero
 4|Kiko|hannibal
 1|Kopell|Evoli
+4|Launch Them|Welf
 5|Let's Fail!|Zerodin
 3|Level|DiViNe
 3|Limitation|Chicken
