@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|sus'terism 2|Savalic
 1|Catharsis|Doshik
 1|Necron|Cøke
 1|Vacando|Knuski
 5|Tentrom|Starkiller
 1|Control|QuiX
 1|sus'terism|Savalic
-1|Unbalanced 3|Imperius
 
 ─── 4 PLAYER MAPS ───
 1|4q|Åmol
@@ -60,4 +60,5 @@
 3|Tatooine 2|Gridwyn & Rapture
 1|The Enchanted Clearing|MaDLeX
 1|Ton|FunCat
+1|Unbalanced 3|Imperius
 1|Yo'Ci|Skeptar & meew
