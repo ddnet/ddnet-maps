@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Drag Master|Deeper
 2|Momo|Tọm
 3|Get2Carry|tortilladmaiz & Cammodude
 4|teender|Colo-Colo
 2|Out of Space|Welf
 2|Amber|♂S1mple♂
 4|Dash Dummy|Soapy Sandwich & Jimmy Jazz
-2|Push ur Dummy|Welf
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -141,6 +141,7 @@
 3|Peru|Im 'corneum
 4|pichummy|Kenzo
 2|Portalgeist|louis
+2|Push ur Dummy|Welf
 4|quon|yo bitch
 4|Rakete|Im 'corneum
 3|Reflect|DarkOort
