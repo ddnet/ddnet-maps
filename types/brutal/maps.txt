@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Apotheosis|Doshik
 4|Naufrage 4|SickCunt & panik
 1|Back in Festivity|Silex & Pipou
 1|Barely Intermediate|Pipou & Themix
 2|Amateur|Pipou, tatak & Aoe
 3|Another Encore|Pipou
 5|Planet 9|Silex
-1|Cave of Harmony|Welf
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -160,6 +160,7 @@
 3|Brosty|DarkOort
 1|Bumblebee|Savalic
 2|Burger|Waschlappen
+1|Cave of Harmony|Welf
 3|Caverns|Savalic
 1|Cemetery|{E}{L}{I}{T}{E} & ٭ıƞdex'<3
 3|Cerulean|Pulsar
