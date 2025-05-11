@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|LoopRay|yo bitch
 1|Deep Blue|wee
 3|One way freeze|Destoros
 4|Death|QuiX
 1|Redline Katana|Cammodude
 3|Memento Vivere|Freezy, Shkyyl & Starkiller
 1|Edge Jump Pro|<BµmM>
-2|One Block|catseyenebulous
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -289,6 +289,7 @@
 1|Nytro|BamBam
 2|Old Style|Destoros
 1|OldschoolAdventure|.me'
+2|One Block|catseyenebulous
 2|Penalty|Savalic
 2|Pendulum|FJP
 4|Pharoah|mikey12
