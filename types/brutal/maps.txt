@@ -50,8 +50,8 @@
 3|Runaway|BlaGK
 3|Sand Dune|SickCunt
 5|Stay Alive|Slayer
-1|Stoned.|tobu. & Skeptar
-1|Stoned. 2|tobu.
+1|Stoned|tobu. & Skeptar
+1|Stoned 2|tobu.
 1|Supernova|SickCunt
 4|The Fusion|Bolox
 5|Unisex|Oblique
