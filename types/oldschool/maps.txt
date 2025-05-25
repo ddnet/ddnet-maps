@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Utopia 2|Father
 4|intime green|spimm & DiViNe
 2|fr_drop|Mo(2)
 2|Big-Jungle|Father
 2|3moons|Mo(2)
 2|2moons|Mo(2)
 2|HDP_Execrable|El Futuro
-3|Exfishion|SlaeR
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -64,6 +64,7 @@
 2|Encore
 3|Endgame|TheZyZya
 2|Eruption|Captain & Unreal
+3|Exfishion|SlaeR
 2|experiment|=CuBe=
 4|Fahrenheit|Epic Fail & Zikkie
 3|FLAP|Cøke & Moby Dog
@@ -197,12 +198,6 @@
 2|Reload 4|Cøke
 4|ResidentSS|-Sani- & -Sozi-
 3|Sadway|MustD1e
-1|Skillz 1|Tvgucker
-1|Skillz 2|Tvgucker
-1|Skillz 3|Tvgucker
-1|Skillz 4|Tvgucker & Ama
-1|Skillz 5|Tvgucker
-1|Skillz 6|Tvgucker
 2|Somewhere in the Sky|MaDLeX
 3|Space Travel|TheZyZya
 3|Stereotype 1|DarkKenny
@@ -257,3 +252,9 @@
 1|Koule 5|Intercity, Broken & Bee
 1|Koule 7|Intercity, Broken & Bee
 1|Multimap|TPaul
+1|Skillz 1|Tvgucker
+1|Skillz 2|Tvgucker
+1|Skillz 3|Tvgucker
+1|Skillz 4|Tvgucker & Ama
+1|Skillz 5|Tvgucker
+1|Skillz 6|Tvgucker
