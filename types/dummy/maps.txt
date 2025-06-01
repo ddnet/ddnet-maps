@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|S-Class|exosphere
 2|Reverse Push|Welf
 4|Drag Master|Deeper
 2|Momo|Tọm
 3|Get2Carry|tortilladmaiz & Cammodude
 4|teender|Colo-Colo
 2|Out of Space|Welf
-2|Amber|♂S1mple♂
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -45,6 +45,7 @@
 5|Adragaline|Silex
 5|Adragaline 2|Silex
 4|Amazing Drags|Ninjed
+2|Amber|♂S1mple♂
 4|Anim|Im 'corneum
 2|Apex|Pulsar
 3|Aries|Starkiller
