@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Big Drought|Invisi
 2|Utopia 2|Father
 4|intime green|spimm & DiViNe
 2|fr_drop|Mo(2)
 2|Big-Jungle|Father
 2|3moons|Mo(2)
 2|2moons|Mo(2)
-2|HDP_Execrable|El Futuro
 
 ─── OTHER MAPS ───
 3|-273|-273°C
@@ -93,6 +93,7 @@
 4|Hardstyle 4|2oo & Fuu
 2|Hardtime|GeM
 1|Haunted Dungeon|MaDLeX
+2|HDP_Execrable|El Futuro
 1|HDP_Obstaculos|El Futuro
 1|HDP_Zinderencio|El Futuro
 3|Hedgehogs|Kornao
