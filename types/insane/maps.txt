@@ -1,11 +1,14 @@
 
 ─── NEW MAPS ───
+3|Abyss|Aoe
 2|sus'terism 2|Savalic
 1|Catharsis|Doshik
 1|Necron|Cøke
 1|Vacando|Knuski
 5|Tentrom|Starkiller
 1|Control|QuiX
+
+─── OLDSCHOOL MAPS ───
 1|sus'terism|Savalic
 
 ─── 4 PLAYER MAPS ───
