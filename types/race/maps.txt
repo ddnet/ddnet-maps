@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Grenadium 2|texnonik
 2|Grenadium|texnonik
 3|run_FinalFifty|TheGnaa & Xantha
 3|run_lila_jungle_trouble|Agillity
 2|run_selected|Hyde
 2|run_hard_way
 2|run_bundesliga|Yannik, Andre & TheGnaa
-1|run_Chaos_Aufnahmemap|WARPommes & WARbubble
 
 ─── OLDSCHOOL MAPS ───
 2|Aufnahmetest_AE|teetee
@@ -42,6 +42,7 @@
 1|run_Bunt|SkizZ
 1|run_button|Haselnuss
 2|run_cave_grass|kickz
+1|run_Chaos_Aufnahmemap|WARPommes & WARbubble
 2|run_crystal|TheGnaa
 3|run_dfc|Pody & Rainbow
 1|run_Div|DiViNe
