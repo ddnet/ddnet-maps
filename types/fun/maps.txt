@@ -1,13 +1,12 @@
 
 ─── NEW MAPS ───
+0|KingsLeap|Assa
 0|Linear II|louis
 0|8bit Full Adder|kinki9487
 0|braintee|Cammodude
 0|Good Movement|texnonik
 0|Quickdraw|FJP
 0|IWannaBeatTheMap2|PopCorn181
-0|Volleyball|lynn
-0|IWannaBeatTheMap|PopCorn181
 
 ─── OTHER MAPS ───
 0|9gates|bit
@@ -20,6 +19,7 @@
 0|DVD screensaver|Im 'corneum
 0|EdgeDuel|Pipou
 0|Game City|imp
+0|IWannaBeatTheMap|PopCorn181
 0|LS10|Lady Saavik
 0|LS9|Lady Saavik
 0|MultiFAT|TPaul & Im 'corneum
@@ -27,3 +27,4 @@
 0|TeeInvader|Pipou
 0|TeeTacToe|louis
 0|Time Calculator|Soapy Sandwich
+0|Volleyball|lynn
