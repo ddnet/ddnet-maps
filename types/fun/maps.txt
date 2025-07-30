@@ -8,6 +8,13 @@
 0|Quickdraw|FJP
 0|IWannaBeatTheMap2|PopCorn181
 
+─── PHOTOSHOOT ───
+0|2022|bit & louis
+0|2023|louis
+0|2024|louis
+0|2025|louis
+
+
 ─── OTHER MAPS ───
 0|9gates|bit
 0|Avoid|Sorah
