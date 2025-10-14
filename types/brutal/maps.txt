@@ -6,7 +6,6 @@
 1|Back in Festivity|Silex & Pipou
 1|Barely Intermediate|Pipou & Themix
 2|Amateur|Pipou, tatak & Aoe
-3|Another Encore|Pipou
 5|Planet 9|Silex
 
 ─── SELECTED MAPS ───
@@ -104,13 +103,10 @@
 ─── OTHER MAPS ───
 3|-JustDoIt-|Sky-Bear
 2|-SKY IVLAND-|Ama & Hitomi
-1|2 Days in the back|Silex & Pipou
 2|2 To Tango|Soapy Sandwich & stompie
 2|A Strange Dream|SUKA
 1|Aardvark|Pulsar & Ravie
 1|Acidate|BamBam
-2|Adrenachill 5 Part 1|Pipou & Silex
-2|Adrenachill 5 Part 2|Pipou & Silex
 4|Agony|TheZyZya & Juandissimo
 3|Aim 1.0|Aoe
 4|Aim 11.0|Aoe
@@ -136,7 +132,6 @@
 1|Arabic Night|Åmol & Gambol
 2|Arcadian|Jimmy Jazz & Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
-2|Arctic Festivity|louis, Im 'corneum, Silex, Voxel & Pipou
 5|Arctic Frost|Silex, Im 'corneum & louis
 4|asterism|Savalic
 4|At Sundown|*WuDL*
@@ -310,7 +305,7 @@
 3|New World|Zerodin
 2|Next LvL|Cøke & Tridemy
 2|Nightly Tandem|timakro & ٭ıƞdex'<3
-3|Nightstar|Savalic & AmaZiinG
+3|Nightstar|Savalic & Noctua
 3|Nightstar 2|Savalic
 1|Nirvana|Hindu & Kayumi
 2|NoMore!|Chill [TD]
@@ -318,7 +313,6 @@
 2|NoMore! 3|Chill [TD]
 5|Nordrhein-Westfalen|jana & <BµmM>
 3|Not Adrenaline 6|Silex, StorмPʜöɴix & Konsti
-1|Not Really Yo'Ci|Skeptar, meew & Pipou
 1|Nucl|BannZay & Goran
 1|nullptr|Shishigami
 2|Nyanpasu|☆.Sυsнι♪
@@ -403,7 +397,6 @@
 3|Threesome|645654, Phacrum & cris
 2|Time Eater|imp
 2|Time to Switch|тυx
-1|Tinyhold|Pipou & Patiga
 3|To the moon|Ryozuki
 4|Ton 2|FunCat
 2|Tough|Hindu
