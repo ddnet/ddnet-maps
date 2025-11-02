@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Chill Wood|Kaniosek
 5|Diversity|Gazebr
 3|Axison|texnonik
 4|El Quisco|Colo-Colo
 4|EasyRight 3|texnonik
 3|Grell|xewoiy
 2|Cliff Charge|Kaniosek
-5|EasyRight 2|texnonik
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -73,6 +73,7 @@
 5|Dry Lagoon|Welf
 2|Easy 1|Borup
 4|EasyRight|texnonik
+5|EasyRight 2|texnonik
 5|Electric|Raks
 5|Empire Desp|Deeper
 3|Eventide|Silex
