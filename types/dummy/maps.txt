@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|mbappé|Colo-Colo
 2|S-Class|exosphere
 2|Reverse Push|Welf
 4|Drag Master|Deeper
 2|Momo|Tọm
 3|Get2Carry|tortilladmaiz & Cammodude
 4|teender|Colo-Colo
-2|Out of Space|Welf
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -136,6 +136,7 @@
 3|nugtohS|Meliodafu
 3|oldpath|Im 'corneum
 3|Onliner|Im 'corneum
+2|Out of Space|Welf
 1|Pace|Im 'corneum
 4|Papillon|clefairy'
 4|Pataros|Skeptar & Exotix
