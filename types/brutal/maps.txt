@@ -1,9 +1,12 @@
 
 ─── NEW MAPS ───
+3|Bamboozled|StorмPʜöɴix
 5|SKYBOW|Exotix
 3|Apotheosis|Doshik
 4|Naufrage 4|SickCunt & panik
 5|Planet 9|Silex
+1|Cave of Harmony|Welf
+3|Triplicitee|catseyenebulous
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -153,7 +156,6 @@
 3|Brosty|DarkOort
 1|Bumblebee|Savalic
 2|Burger|Waschlappen
-1|Cave of Harmony|Welf
 3|Caverns|Savalic
 1|Cemetery|{E}{L}{I}{T}{E} & ٭ıƞdex'<3
 3|Cerulean|Pulsar
@@ -397,7 +399,6 @@
 3|To the moon|Ryozuki
 4|Ton 2|FunCat
 2|Tough|Hindu
-3|Triplicitee|catseyenebulous
 3|Tropical Island|RayB.
 4|TryHard|Feuerfaust Ace
 3|TryThis|Skeptar
