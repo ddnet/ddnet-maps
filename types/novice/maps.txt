@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|The Forest|YoDa & Nixus
 4|Chill Wood|Kaniosek
 5|Diversity|Gazebr
 3|Axison|texnonik
 4|El Quisco|Colo-Colo
 4|EasyRight 3|texnonik
 3|Grell|xewoiy
-2|Cliff Charge|Kaniosek
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -63,6 +63,7 @@
 5|Chicken Pie 2|Chicken & Broken
 4|Chobo|ɳ0vą
 5|Circular|PopCorn181
+2|Cliff Charge|Kaniosek
 4|Cool|Welf
 3|Cuboid|stompie & Soapy Sandwich
 3|Dark Moon|fikmesån
