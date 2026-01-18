@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Fly into the sky|Yoor1kk_ger)
 3|Withered Rose|louis
 2|LoopRay|yo bitch
 1|Deep Blue|wee
 3|One way freeze|Destoros
 4|Death|QuiX
 1|Redline Katana|Cammodude
-1|Edge Jump Pro|<BµmM>
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -155,6 +155,7 @@
 2|Dust's Leaf|Ninjed
 3|Dynasty|Cellegen
 3|ECHOR|Savalic
+1|Edge Jump Pro|<BµmM>
 4|Embrace|Deeper & Nyanto
 4|Enormous|Gambol
 4|entanglement|louis
