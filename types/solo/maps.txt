@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Redline Nade|Cammodude
 1|Fly into the sky|Yoor1kk_ger)
 3|Withered Rose|louis
 2|LoopRay|yo bitch
 1|Deep Blue|wee
 3|One way freeze|Destoros
 4|Death|QuiX
-1|Redline Katana|Cammodude
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -309,6 +309,7 @@
 1|Race_Sanktoras|Sanktoras
 1|Raid|Im 'corneum
 3|Rapid|Pulsar
+1|Redline Katana|Cammodude
 4|reflects|Ninjed & Pipou
 1|Replay|Im 'corneum
 2|Rocket Jump|<BµmM>
