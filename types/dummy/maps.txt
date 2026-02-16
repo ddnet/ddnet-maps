@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|corncore|Im 'corneum
 2|Reverse Pull|Welf & catseyenebulous
 3|mbappé|Colo-Colo
 2|S-Class|exosphere
 2|Reverse Push|Welf
 4|Drag Master|Deeper
 2|Momo|Tọm
-3|Get2Carry|tortilladmaiz & Cammodude
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -93,6 +93,7 @@
 2|For You|Ciniminix
 3|gendum|Im 'corneum
 4|GenericDrag|Skeptar & Slayer
+3|Get2Carry|tortilladmaiz & Cammodude
 3|GetCarry|tortilladmaiz
 2|Greed|Kosho
 3|Gummy|Genex
