@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Snowy Structure|Markus777777 & Retsot
 1|Redline Nade|Cammodude
 1|Fly into the sky|Yoor1kk_ger)
 3|Withered Rose|louis
 2|LoopRay|yo bitch
 1|Deep Blue|wee
 3|One way freeze|Destoros
-4|Death|QuiX
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -140,6 +140,7 @@
 3|DarkEagle|=xPeke=
 3|DarkMove|=xPeke=
 2|deadrun|Harbinger
+4|Death|QuiX
 2|Death Rays|Im 'corneum
 3|DeepEdge|Deeper
 3|Definition|Inner peace
