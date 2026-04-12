@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Flower|Rw
 4|Snowy Structure|Markus777777 & Retsot
 1|Redline Nade|Cammodude
 1|Fly into the sky|Yoor1kk_ger)
 3|Withered Rose|louis
 2|LoopRay|yo bitch
 1|Deep Blue|wee
-3|One way freeze|Destoros
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -290,6 +290,7 @@
 2|Old Style|Destoros
 1|OldschoolAdventure|.me'
 2|One Block|catseyenebulous
+3|One way freeze|Destoros
 2|Penalty|Savalic
 2|Pendulum|FJP
 4|Pharoah|mikey12
