@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|azazel|Nixus
 3|corncore|Im 'corneum
 2|Reverse Pull|Welf & catseyenebulous
 3|mbappé|Colo-Colo
 2|S-Class|exosphere
 2|Reverse Push|Welf
 4|Drag Master|Deeper
-2|Momo|Tọm
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -122,6 +122,7 @@
 3|Mina|Im 'corneum
 4|Modest|Knuski
 3|Momentum|Ravie
+2|Momo|Tọm
 5|Mountain Silence|N9mkOik
 5|Nalar|=xPeke= & Tezcan
 5|Namida|Knuski
