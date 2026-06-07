@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Rejected|wee
 3|Grenadium 2|texnonik
 2|Grenadium|texnonik
 3|run_FinalFifty|TheGnaa & Xantha
 3|run_lila_jungle_trouble|Agillity
 2|run_selected|Hyde
 2|run_hard_way
-2|run_bundesliga|Yannik, Andre & TheGnaa
 
 ─── OLDSCHOOL MAPS ───
 2|Aufnahmetest_AE|teetee
@@ -39,6 +39,7 @@
 4|run_blood_thirst|Awesome, Nyz & Warbubble
 0|run_blue|Rainbow
 1|run_brown|Jester
+2|run_bundesliga|Yannik, Andre & TheGnaa
 1|run_Bunt|SkizZ
 1|run_button|Haselnuss
 2|run_cave_grass|kickz
