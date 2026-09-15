@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Qu'Tan|Colo-Colo
 3|Springlobe 4|Themix
 2|DEATHBOW|Exotix
 3|Until Dawn|Nyu
 3|Abyss|Aoe
 2|sus'terism 2|Savalic
 1|Catharsis|Doshik
-1|Necron|Cøke
 
 ─── OLDSCHOOL MAPS ───
 1|sus'terism|Savalic
@@ -48,6 +48,7 @@
 1|Justice|DarkHeaven & Phacrum
 3|Justice 2|645654, Pipou & Phacrum
 1|Mult0map|Cøke & Tridemy
+1|Necron|Cøke
 1|Nether|Tropo
 2|New Generation|Feuerfaust Ace
 3|New Generation II|Feuerfaust Ace
