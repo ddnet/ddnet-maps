@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Shortcut|Zweitleben
 4|Mitosis|Doshik
 4|Rude Buster|EpicGamerYoubug & Paxtell
 3|TheRottingHalls|Pipou, VéNa, tatak & Nehr
 1|TinselTee|Ybivawka~, wee & Wonderful
 3|Bamboozled|StorмPʜöɴix
 5|SKYBOW|Exotix
-3|Apotheosis|Doshik
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -129,6 +129,7 @@
 3|AnotherEra|»Rogue.
 4|Apathy|Ante.
 2|Apex2|Ninjed
+3|Apotheosis|Doshik
 1|Arabic Night|Åmol & Gambol
 2|Arcadian|Jimmy Jazz & Soapy Sandwich
 3|Arcadian 2|Soapy Sandwich & Jimmy Jazz
