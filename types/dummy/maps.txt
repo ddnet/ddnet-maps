@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|DeepFrost|Kaniosek & MyStery.Fox
 3|azazel|Nixus
 3|corncore|Im 'corneum
 2|Reverse Pull|Welf & catseyenebulous
 3|mbappé|Colo-Colo
 2|S-Class|exosphere
 2|Reverse Push|Welf
-4|Drag Master|Deeper
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -75,6 +75,7 @@
 2|Destruction|Zerodin & Hindu
 2|Disability|Silex
 3|downpour|Im 'corneum
+4|Drag Master|Deeper
 3|Draxut|тυx
 3|Dreamland|StorмPʜöɴix
 2|drg5|Im 'corneum
