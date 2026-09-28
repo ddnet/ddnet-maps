@@ -1,14 +1,15 @@
 
 ─── NEW MAPS ───
+0|Blackjack|yo bitch
 0|Auto Maze|Markus777777 & Retsot
 0|DrawGuess|EntityMC, bau & kinki9487
 0|Multeasystraight|catseyenebulous
 0|Castle Echos|Cammodude & iTom
 0|KingsLeap|Assa
 0|Linear II|louis
-0|8bit Full Adder|kinki9487
 
 ─── OTHER MAPS ───
+0|8bit Full Adder|kinki9487
 0|9gates|bit
 0|Avoid|Sorah
 0|Bowling|Pipou
