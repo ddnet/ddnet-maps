@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+0|TeeScore|EntityMC
 0|Blackjack|yo bitch
 0|Auto Maze|Markus777777 & Retsot
 0|DrawGuess|EntityMC, bau & kinki9487
 0|Multeasystraight|catseyenebulous
 0|Castle Echos|Cammodude & iTom
 0|KingsLeap|Assa
-0|Linear II|louis
 
 ─── OTHER MAPS ───
 0|8bit Full Adder|kinki9487
@@ -24,6 +24,7 @@
 0|Good Movement|texnonik
 0|IWannaBeatTheMap|PopCorn181
 0|IWannaBeatTheMap2|PopCorn181
+0|Linear II|louis
 0|LS10|Lady Saavik
 0|LS9|Lady Saavik
 0|MultiFAT|TPaul & Im 'corneum
