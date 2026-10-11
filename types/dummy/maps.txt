@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Push Me|Welf
 4|DeepFrost|Kaniosek & MyStery.Fox
 3|azazel|Nixus
 3|corncore|Im 'corneum
 2|Reverse Pull|Welf & catseyenebulous
 3|mbappé|Colo-Colo
 2|S-Class|exosphere
-2|Reverse Push|Welf
 
 ─── SELECTED MAPS ───
 4|Aurora|☆.Sυsнι♪
@@ -156,6 +156,7 @@
 2|Rest to Die|Im 'corneum
 3|Rest to Die 2|Im 'corneum
 3|Retro|QuiX
+2|Reverse Push|Welf
 2|Roaming Ruins|Im 'corneum
 3|Ryoiki Tenkai|Arrow & Im 'corneum
 3|Samsara IV|Meliodafu
