@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Just DoubleJump|Tropo
 3|Grief|shini❡ami & матвей
 2|Patica|paproninja
 4|synopsis|Doshik
 2|climbup|EntityMC & 在这里等你
 1|Rejected|wee
 2|Flower|Rw
-4|Snowy Structure|Markus777777 & Retsot
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -354,6 +354,7 @@
 4|Slak|Cøke & Tridemy
 2|Slide 2|Sorah
 2|Slow Down|Deeper
+4|Snowy Structure|Markus777777 & Retsot
 3|Solo Future|Gridwyn
 2|Solo Power|Power
 2|solo_castle|Hallowed1986
