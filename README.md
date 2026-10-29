@@ -5,5 +5,5 @@ All official [DDNet](https://ddnet.org/) maps, ready to be run in your own serve
 
 To download this repository you have two choices:
 
-1. [Download the ZIP](https://github.com/ddnet/ddnet-maps/archive/master.zip) and you get a current snapshot of all maps, but can't easily update it.
-2. `git clone https://github.com/ddnet/ddnet-maps` and you have the full history of this git repository. To update your copy of maps simply execute `git pull`.
+1. [Download the ZIP](https://github.com/ddnet/ddnet-maps/archive/master.zip) (about 1.0 GiB) and you get a current snapshot of all maps, but can't easily update it.
+2. `git clone https://github.com/ddnet/ddnet-maps` (about 1.2 GiB) and you have the full history of this git repository. To update your copy of maps simply execute `git pull`.
