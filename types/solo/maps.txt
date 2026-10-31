@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+2|Kidou|paproninja
 2|Just DoubleJump|Tropo
 3|Grief|shini❡ami & матвей
 2|Patica|paproninja
 4|synopsis|Doshik
 2|climbup|EntityMC & 在这里等你
 1|Rejected|wee
-2|Flower|Rw
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -177,6 +177,7 @@
 1|Fireball|Pipou
 3|Flamara|Evoli & RedFight
 3|FlipLipp10|FlipLipp
+2|Flower|Rw
 1|Fly into the sky|Yoor1kk_ger)
 2|Fly Lessons|Jeet
 5|Fly out of hell|Micro
