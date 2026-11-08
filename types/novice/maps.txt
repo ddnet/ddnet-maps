@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+5|Sono|Nixus & Ililja_
 3|The Forest|YoDa & Nixus
 4|Chill Wood|Kaniosek
 5|Diversity|Gazebr
 3|Axison|texnonik
 4|El Quisco|Colo-Colo
 4|EasyRight 3|texnonik
-3|Grell|xewoiy
 
 ─── EASY MAPS ───
 1|4Beginners|Meliodafu
@@ -99,6 +99,7 @@
 5|GlassBox 8|Knight :3
 1|Gold Mine|<BµmM>
 2|GreenAde|zio
+3|Grell|xewoiy
 2|Halloween Night|fikmesån
 4|Harvest|louis
 5|Homesick|Wesno
